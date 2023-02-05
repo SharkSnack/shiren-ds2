@@ -1,7 +1,7 @@
 ---
 title: "Food"
-metaTitle: "Food - Shiren Gaiden: Asuka Kenzan Wiki"
-metaDescription: "Complete food details for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
+metaTitle: "Food - Shiren DS2: Magic Castle Wiki"
+metaDescription: "Complete food details for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
 <br/>
@@ -11,85 +11,54 @@ metaDescription: "Complete food details for Shiren Gaiden: Onna Kenshi Asuka Ken
 # Overview
 
 - Food items replenish fullness.
-- If you receive fire or explosion damage, onigiri outside of pots turn into Grilled Onigiri.
 
 # Summary
 
 <table class="itemListCentered">
   <thead>
     <tr>
-      <th>Name JP</th>
-      <th>Name EN</th>
-      <th>Seal</th>
+      <th>Name</th>
       <th>Buy</th>
       <th>Sell</th>
-      <th>Info</th>
+      <th>Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="highlightYellow">おにぎり</td>
-      <td class="highlightYellow">Onigiri</td>
-      <td>飯</td>
+      <td class="priceTableName">Onigiri</td>
+      <td>25</td>
+      <td>10</td>
+      <td class="leftText">Replenishes 50 fullness.<br/>Increases max fullness by 1 if already full.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Large Onigiri</td>
       <td>100</td>
       <td>50</td>
-      <td class="leftText">Replenishes 50% fullness.<br/>Increases max fullness by 3% if already full.</td>
+      <td class="leftText">Replenishes 100 fullness.<br/>Increases max fullness by 2 if already full.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">大きなおにぎり</td>
-      <td class="highlightYellow">Large Onigiri</td>
-      <td>飯</td>
+      <td class="priceTableName">Huge Onigiri</td>
       <td>200</td>
       <td>100</td>
-      <td class="leftText">Replenishes 100% fullness.<br/>Increases max fullness by 5% if already full.</td>
+      <td class="leftText">Replenishes fullness to max, and increases max fullness by 5.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">巨大なおにぎり</td>
-      <td class="highlightYellow">Huge Onigiri</td>
-      <td>飯</td>
-      <td>300</td>
+      <td class="priceTableName">Special Onigiri</td>
+      <td>350</td>
       <td>150</td>
-      <td class="leftText">Replenishes fullness to max, and increases max fullness by 7%.</td>
+      <td class="leftText">Replenishes 30 fullness, and something good happens.<br/>(Restore HP, Strength+1, Satiated, Identifier, Silent, or Alert status)<br/>Increases max fullness by 1 if already full.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">焼きおにぎり</td>
-      <td class="highlightYellow">Grilled Onigiri</td>
-      <td>飯</td>
-      <td>100</td>
-      <td>20</td>
-      <td class="leftText">Replenishes 50% fullness, and restores 30 HP.<br/>Increases max fullness by 3% if already full.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">特製おにぎり</td>
-      <td class="highlightYellow">Special Onigiri</td>
-      <td>飯</td>
-      <td>200</td>
-      <td>100</td>
-      <td class="leftText">Replenishes 30% fullness, and something good happens.<br/>Increases max fullness by 3% if already full.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">コヨリのおにぎり</td>
-      <td class="highlightYellow">Koyori's Onigiri</td>
-      <td>飯</td>
-      <td>500</td>
-      <td>200</td>
-      <td class="leftText">Replenishes 100% fullness, and something good happens.<br/>Increases max fullness by 5% if already full.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">奇妙なおにぎり</td>
-      <td class="highlightYellow">Strange Onigiri</td>
-      <td>飯</td>
-      <td>500</td>
-      <td>200</td>
-      <td class="leftText">Replenishes a random amount of fullness.<br/>Increases max fullness by 5% if already full.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">まずそうなおにぎり</td>
-      <td class="highlightYellow">Spoiled Onigiri</td>
-      <td>-</td>
-      <td>40</td>
+      <td class="priceTableName">Spoiled Onigiri</td>
+      <td>2</td>
       <td>1</td>
-      <td class="leftText">Replenishes 35% fullness, and something bad happens.<br/>Increases max fullness by 1% if already full.</td>
+      <td class="leftText">Replenishes 30 fullness, take damage, and something bad happens.<br/>(Level-1, Max strength-1, Confused, Asleep, or Blind status)</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Bufu's Onigiri</td>
+      <td>1000</td>
+      <td>500</td>
+      <td class="leftText">Replenishes 100 fullness.<br/>Increases max fullness by 2 if already full.<br/><span class="purpleText">How to Obtain</span>: Castle Keep (Presto Pot on boss floor)</td>
     </tr>
   </tbody>
 </table>

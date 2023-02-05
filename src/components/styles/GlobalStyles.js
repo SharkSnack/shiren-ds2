@@ -29,7 +29,7 @@ export const baseStyles = css`
       'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
 
     font-size: 16px;
-    scroll-behavior: smooth;
+    /* scroll-behavior: smooth; */
   }
 
   a {
@@ -258,7 +258,7 @@ export const baseStyles = css`
   }
   .navBarDefault {
     /* background-color: #001934; */
-    background-color: #FBA357;
+    background-color: #AA9F51;
     border-radius: 0;
     border-top: 0;
     margin-bottom: 0;
@@ -452,7 +452,7 @@ export const baseStyles = css`
   }
 
   .hideFrontLine .active > a {
-    background-color: #FBA357;
+    background-color: #AA9F51;
     color: #fff !important;
   }
   .firstLevel ul li .collapser svg path {
@@ -592,7 +592,7 @@ export const baseStyles = css`
     text-align: left;
     margin: 0;
     padding: 3px 8px;
-    background-color: #ffecd9;
+    background-color: #fffce5;
   }
 
   table tr td {
@@ -753,6 +753,12 @@ export const baseStyles = css`
   .monsterImage {
     margin-bottom: 5px !important;
   }
+  .monsterImage img {
+    min-height: 55px;
+    max-width: unset !important;
+    width: unset !important;
+    image-rendering: pixelated;
+  }
   .bossImage {
     margin-bottom: 5px !important;
   }
@@ -799,11 +805,11 @@ export const baseStyles = css`
   }
   .itemListCentered th {
     text-align: center;
-    padding: 2px;
+    padding: 4px;
   }
   .itemListCentered td {
     text-align: center;
-    padding: 2px;
+    padding: 4px;
     padding-left: 4px;
     padding-right: 4px;
   }
@@ -965,6 +971,14 @@ export const baseStyles = css`
     padding-left: 5px;
     padding-right: 5px;
   }
+  .trapTable img {
+    min-height: 24px;
+    min-width: 24px;
+    image-rendering: pixelated;
+  }
+  .trapTable td:nth-of-type(1){
+    background-color: #555;
+  }
   .trapTable td:nth-of-type(2){
     text-align: left;
     font-size: 13.5px;
@@ -972,7 +986,7 @@ export const baseStyles = css`
   .trapTable td:nth-of-type(3){
     text-align: left;
   }
-  .trapTable td:nth-of-type(7){
+  .trapTable td:nth-of-type(4){
     text-align: left;
   }
   .trapTable th {
@@ -1100,7 +1114,7 @@ export const baseStyles = css`
     background-color: #CCFFCC !important;
   }
   .highlightGray {
-    background-color: #f3f3f3 !important;
+    background-color: #f7f7f7 !important;
   }
   .highlightDarkGray {
     background-color: #dfdfdf !important;
@@ -1328,6 +1342,9 @@ export const baseStyles = css`
   .emphasis {
     font-weight: bold;
   }
+  .goldText {
+    color: #8a7500;
+  }
   .orangeText {
     color: #f9a100;
   }
@@ -1335,7 +1352,7 @@ export const baseStyles = css`
     color: #fd8200;
   }
   .blueText {
-    color: #66f;
+    color: #4e4ec6;
   }
   .blueText2 {
     color: blue;
@@ -1353,7 +1370,7 @@ export const baseStyles = css`
     color: red;
   }
   .greenText {
-    color: #009e25;
+    color: #008a20;
   }
   .purpleText {
     color: #9d338b;
@@ -1488,6 +1505,7 @@ export const baseStyles = css`
   }
   .gatsby-resp-image-wrapper {
     display: inline-block !important;
+    max-width: unset !important;
   }
   .itemPageImage img {
     position: relative !important;
@@ -1506,11 +1524,12 @@ export const baseStyles = css`
   }
   .dungeonPageTopImage2 {
     display: flex;
-    max-width: 560px;
+    max-width: 510px;
   }
   .dungeonPageTopImage2 img {
     padding-top: 5px;
     position: relative !important;
+    image-rendering: pixelated;
   }
   .statusTable img {
     position: relative !important;
@@ -1655,10 +1674,10 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 16px;
-    border-left: 10px solid #ffce9a;
-    border-right: 1px solid #ffce9a;
-    border-bottom: 2px solid #ffce9a;
-    border-top: 1px solid #ffce9a;
+    border-left: 10px solid #D7D0A1;
+    border-right: 1px solid #D7D0A1;
+    border-bottom: 2px solid #D7D0A1;
+    border-top: 1px solid #D7D0A1;
     padding-left: 10px;
   }
 
@@ -1668,7 +1687,7 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 12px;
-    border-left: 10px solid #ffce9a;
+    border-left: 10px solid #D7D0A1;
     padding-left: 6px;
   }
 
@@ -1678,7 +1697,7 @@ export const baseStyles = css`
     line-height: 1.5;
     margin-bottom: 8px;
     margin-top: 12px;
-    border-left: 5px solid #ffce9a;
+    border-left: 5px solid #D7D0A1;
     padding-left: 4px;
   }
 

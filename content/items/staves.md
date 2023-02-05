@@ -1,7 +1,7 @@
 ---
 title: "Staves"
-metaTitle: "Staves - Shiren Gaiden: Asuka Kenzan Wiki"
-metaDescription: "Complete staff details for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
+metaTitle: "Staves - Shiren DS2: Magic Castle Wiki"
+metaDescription: "Complete staff details for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
 <br/>
@@ -11,7 +11,6 @@ metaDescription: "Complete staff details for Shiren Gaiden: Onna Kenshi Asuka Ke
 # Overview
 
 - Swing a staff to shoot a magic bullet that deals an effect if it hits a target.
-    - The magic bullet can reflect off of a wall 1 time.
     - Nothing happens if you swing a staff with 0 remaining uses.
 - Throw a staff to deal a similar effect as that staff's magic bullet.
 - The number of uses are random when a staff is generated.
@@ -21,182 +20,168 @@ metaDescription: "Complete staff details for Shiren Gaiden: Onna Kenshi Asuka Ke
 <table class="itemListCentered">
   <thead>
     <tr>
-      <th>Name JP</th>
-      <th>Name EN</th>
+      <th>Name</th>
       <th>Buy</th>
       <th>+1</th>
       <th>Sell</th>
       <th>+1</th>
-      <th>Info</th>
+      <th>Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="highlightYellow">ふきとばしの杖</td>
-      <td class="highlightYellow">Knockback Staff</td>
-      <td>500</td>
-      <td>25</td>
-      <td>200</td>
-      <td>10</td>
-      <td class="leftText">Knocks a target back 10 tiles, and deals 5 damage.</td>
+      <td class="priceTableName">Mage Staff</td>
+      <td rowspan="3">300</td>
+      <td rowspan="3">30</td>
+      <td>90</td>
+      <td>9</td>
+      <td class="leftText">Inflicts Asleep, Confused, Slow, or warps the target elsewhere.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">イカリの杖</td>
-      <td class="highlightYellow">Rage Staff</td>
-      <td rowspan="7">800</td>
-      <td rowspan="7">40</td>
-      <td rowspan="7">400</td>
-      <td rowspan="7">20</td>
-      <td class="leftText">Inflicts Enraged status for 50 turns.</td>
+      <td class="priceTableName">Knockback Staff</td>
+      <td rowspan="2">150</td>
+      <td rowspan="2">15</td>
+      <td class="leftText">Knocks a creature, item, or stairs back 10 tiles. (Excludes merchandise)</td>
     </tr>
     <tr>
-      <td class="highlightYellow">痛み分けの杖</td>
-      <td class="highlightYellow">Empathy Staff</td>
-      <td class="leftText">The target receives damage equal to the damage you receive.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">入れ替えの杖</td>
-      <td class="highlightYellow">Exchange Staff</td>
-      <td class="leftText">Exchanges your current HP with the target's current HP.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">けものみちの杖</td>
-      <td class="highlightYellow">Monster Staff</td>
-      <td class="leftText">Generates monsters in a line up to 5 tiles ahead.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">ばくだんの杖</td>
-      <td class="highlightYellow">Bomb Staff</td>
-      <td class="leftText">Inflicts Bomb status.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">場所替えの杖</td>
-      <td class="highlightYellow">Swap Staff</td>
+      <td class="priceTableName">Swap Staff</td>
       <td class="leftText">Swap places with a target.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">引きよせの杖</td>
-      <td class="highlightYellow">Pull Staff</td>
-      <td class="leftText">Pulls a character, item, trap, or stairs toward you.</td>
+      <td class="priceTableName">Tunnel Staff</td>
+      <td rowspan="3">500</td>
+      <td rowspan="3">50</td>
+      <td rowspan="2">200</td>
+      <td rowspan="2">20</td>
+      <td class="leftText">Digs a tunnel if the magic bullet hits a wall.<br/>Deals 10 damage if the magic bullet hits a creature.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">回復の杖</td>
-      <td class="highlightYellow">Heal Staff</td>
+      <td class="priceTableName">Pinning Staff</td>
+      <td class="leftText">Leap forward toward whatever the magic bullet hit.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Miss Staff</td>
+      <td>250</td>
+      <td>25</td>
+      <td class="leftText">Inflicts Inaccurate status.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Presto Staff</td>
+      <td rowspan="2">750</td>
+      <td rowspan="2">75</td>
+      <td>300</td>
+      <td>30</td>
+      <td class="leftText">Transforms a monster into a different monster.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Pull Staff</td>
+      <td>350</td>
+      <td>35</td>
+      <td class="leftText">Pulls a creature, item, or stairs toward you. (Excludes merchandise)</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Swift Staff</td>
       <td>800</td>
       <td>80</td>
       <td>400</td>
       <td>40</td>
-      <td class="leftText">Restores 100 HP.</td>
+      <td class="leftText">Increases action speed by 1 stage.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">転ばぬ先の杖</td>
-      <td class="highlightYellow">Balance Staff</td>
-      <td>1000</td>
+      <td class="priceTableName">Invisible Staff</td>
+      <td>900</td>
+      <td>90</td>
+      <td>450</td>
+      <td>45</td>
+      <td class="leftText">Inflicts Invisible status.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Balance Staff</td>
+      <td rowspan="2">1000</td>
+      <td>0</td>
+      <td rowspan="2">500</td>
+      <td>0</td>
+      <td class="leftText">Prevents tripping if it's in your inventory (Not in a pot).</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Tenjin Staff</td>
+      <td>100</td>
       <td>50</td>
-      <td>500</td>
-      <td>25</td>
-      <td class="leftText">Prevents tripping if it's in your inventory (Not in a pot).<br/>Can be thrown to make a target trip.</td>
+      <td class="leftText"><span class="purpleText">How to Obtain</span>: Castle Tower (Presto Pot on boss floor)</td>
     </tr>
     <tr>
-      <td class="highlightYellow">鈍足の杖</td>
-      <td class="highlightYellow">Slow Staff</td>
-      <td rowspan="3">1200</td>
-      <td rowspan="3">60</td>
-      <td>400</td>
-      <td>20</td>
-      <td class="leftText">Decreases a target's action speed.<br/>(Lasts 10 turns if Asuka is slowed)</td>
+      <td class="priceTableName">Empathy Staff</td>
+      <td>1300</td>
+      <td>130</td>
+      <td>650</td>
+      <td>65</td>
+      <td class="leftText">Inflicts Empathetic status.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">一時しのぎの杖</td>
-      <td class="highlightYellow">Transient Staff</td>
-      <td rowspan="2">600</td>
-      <td rowspan="2">30</td>
-      <td class="leftText">Warps a target to the stairs, and paralyzes them for 50 turns.<br/>(Lasts 10 turns if Asuka is paralyzed)</td>
+      <td class="priceTableName">Transient Staff</td>
+      <td>1400</td>
+      <td>140</td>
+      <td>700</td>
+      <td>70</td>
+      <td class="leftText">Warps a target to the stairs, then inflicts Paralyzed status.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">かなしばりの杖</td>
-      <td class="highlightYellow">Paralysis Staff</td>
-      <td class="leftText">Paralyzes the target for 50 turns.<br/>(Lasts 10 turns if Asuka is paralyzed)</td>
+      <td class="priceTableName">Paralysis Staff</td>
+      <td rowspan="6">1500</td>
+      <td rowspan="6">150</td>
+      <td>450</td>
+      <td>45</td>
+      <td class="leftText">Inflicts Paralyzed status.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">封印の杖</td>
-      <td class="highlightYellow">Seal Staff</td>
-      <td rowspan="6">2000</td>
-      <td rowspan="6">100</td>
-      <td>500</td>
-      <td>25</td>
-      <td class="leftText">Seals a target, preventing them from using special abilities.</td>
+      <td class="priceTableName">Decoy Staff</td>
+      <td rowspan="5">1500</td>
+      <td rowspan="5">150</td>
+      <td class="leftText">Inflicts Decoy status.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">いかずちの杖</td>
-      <td class="highlightYellow">Lightning Staff</td>
-      <td rowspan="5">1000</td>
-      <td rowspan="5">50</td>
-      <td class="leftText">Electric attack that deals 20 damage 6 tiles ahead.</td>
+      <td class="priceTableName">Seal Staff</td>
+      <td class="leftText">Inflicts Sealed status.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">クォーターの杖</td>
-      <td class="highlightYellow">Quarter Staff</td>
+      <td class="priceTableName">Unlucky Staff</td>
+      <td class="leftText">Decreases a target's level by 1.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Happy Staff</td>
+      <td class="leftText">Increases a target's level by 1.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Quarter Staff</td>
       <td class="leftText">Reduces a target's HP to 1/4 of their current HP.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">とうめいの杖</td>
-      <td class="highlightYellow">Invisible Staff</td>
-      <td class="leftText">Inflicts Invisible status for 10 turns.<br/>(Invisible monsters move randomly and can't use special attacks)</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">トンネルの杖</td>
-      <td class="highlightYellow">Tunnel Staff</td>
-      <td class="leftText">Breaks a line of wall tiles, but cannot dig in diagonal directions.<br/>Deals 10 damage if the magic bullet hits a character.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">身がわりの杖</td>
-      <td class="highlightYellow">Decoy Staff</td>
-      <td class="leftText">Inflicts Decoy status for 10 turns.<br/>(Asuka becomes confused for 10 turns if hit by this staff)</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">倍速の杖</td>
-      <td class="highlightYellow">Swift Staff</td>
+      <td class="priceTableName">Rage Staff</td>
       <td>2000</td>
       <td>200</td>
       <td>1000</td>
       <td>100</td>
-      <td class="leftText">Increases action speed by 1 stage.<br/>(Lasts 5 turns if Asuka receives the effect)</td>
+      <td class="leftText">Inflicts Enraged status.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">オオイカリの杖</td>
-      <td class="highlightYellow">Fury Staff</td>
-      <td rowspan="3">2500</td>
-      <td rowspan="3">125</td>
-      <td rowspan="3">1200</td>
-      <td rowspan="3">60</td>
-      <td class="leftText">Inflicts Furious status.</td>
+      <td class="priceTableName">Grass Gainer</td>
+      <td rowspan="2">2500</td>
+      <td rowspan="2">250</td>
+      <td rowspan="2">1250</td>
+      <td rowspan="2">125</td>
+      <td class="leftText">Stand on a grass item and swing this to get hit by a magic bullet<br/>that has the same effect as the grass item.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">からぶりの杖</td>
-      <td class="highlightYellow">Miss Staff</td>
-      <td class="leftText">Inflicts Inaccurate status for 20 turns.</td>
+      <td class="priceTableName">Grass Tosser</td>
+      <td class="leftText">Stand on a grass item and swing this to shoot a magic bullet<br/>that has the same effect as the grass item.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">火ばしらの杖</td>
-      <td class="highlightYellow">Fire Staff</td>
-      <td class="leftText">Creates a line of fire pillars that last 10 turns 5 tiles ahead.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">しあわせの杖</td>
-      <td class="highlightYellow">Happy Staff</td>
-      <td rowspan="2">3000</td>
-      <td>150</td>
-      <td rowspan="2">1500</td>
-      <td>75</td>
-      <td class="leftText">Increases level by 1.<br/>(Asuka gains 500 experience if she receives the effect)</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">不幸の杖</td>
-      <td class="highlightYellow">Unlucky Staff</td>
-      <td>300</td>
-      <td>150</td>
-      <td class="leftText">Decreases level by 1.</td>
+      <td class="priceTableName">Bufu's Staff</td>
+      <td>5000</td>
+      <td>500</td>
+      <td>2500</td>
+      <td>250</td>
+      <td class="leftText">Turns a monster into meat.</td>
     </tr>
   </tbody>
 </table>

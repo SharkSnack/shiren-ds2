@@ -1,7 +1,7 @@
 ---
 title: "Grass"
-metaTitle: "Grass - Shiren Gaiden: Asuka Kenzan Wiki"
-metaDescription: "Complete grass details for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
+metaTitle: "Grass - Shiren DS2: Magic Castle Wiki"
+metaDescription: "Complete grass details for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
 <br/>
@@ -10,8 +10,8 @@ metaDescription: "Complete grass details for Shiren Gaiden: Onna Kenshi Asuka Ke
 
 # Overview
 
-- Use a grass or seed item to apply the item's effect to Asuka.
-    - In addition, all grass and seed items replenish 5% fullness.
+- Use a grass or seed item to apply the item's effect to Shiren.
+    - In addition, all grass and seed items replenish 5 fullness.
 - Throw a grass or seed item at a creature to apply the item's effect to that creature.
 
 # Summary
@@ -19,191 +19,110 @@ metaDescription: "Complete grass details for Shiren Gaiden: Onna Kenshi Asuka Ke
 <table class="itemListCentered">
   <thead>
     <tr>
-      <th>Name JP</th>
-      <th>Name EN</th>
-      <th>Seal</th>
+      <th>Name</th>
       <th>Buy</th>
       <th>Sell</th>
-      <th>Info</th>
+      <th>Notes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td class="highlightYellow">雑草</td>
-      <td class="highlightYellow">Weeds</td>
-      <td>-</td>
-      <td>50</td>
-      <td>25</td>
+      <td class="priceTableName">Weeds</td>
+      <td>2</td>
+      <td>1</td>
       <td class="leftText">No effect.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">薬草</td>
-      <td class="highlightYellow">Herb</td>
-      <td>薬</td>
-      <td rowspan="3">100</td>
-      <td rowspan="3">50</td>
-      <td class="leftText">Restores 25 HP.<br/>Increases max HP by 2 if already full.</td>
+      <td class="priceTableName">Herb</td>
+      <td rowspan="2">50</td>
+      <td rowspan="2">20</td>
+      <td class="leftText">Restores 25 HP. Cures Confused status.<br/>Increases max HP by 1 if already at max.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">睡眠草</td>
-      <td class="highlightYellow">Sleep Grass</td>
-      <td>-</td>
-      <td class="leftText">Inflicts sleep for 5 turns.</td>
+      <td class="priceTableName">Sight Grass</td>
+      <td class="leftText">Lets you see hidden traps and invisible monsters.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">混乱草</td>
-      <td class="highlightYellow">Dizzy Grass</td>
-      <td>-</td>
-      <td class="leftText">Inflicts confusion for 10 turns.</td>
+      <td class="priceTableName">Dizzy Grass</td>
+      <td rowspan="5">100</td>
+      <td rowspan="5">50</td>
+      <td class="leftText">Inflicts Confused status.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">すばやさの種</td>
-      <td class="highlightYellow">Swift Seed</td>
-      <td>-</td>
-      <td rowspan="5">300</td>
-      <td rowspan="5">150</td>
-      <td class="leftText">Doubles action speed for 5 turns.</td>
+      <td class="priceTableName">Sleep Grass</td>
+      <td class="leftText">Inflicts Asleep status.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">高とび草</td>
-      <td class="highlightYellow">Warp Grass</td>
-      <td>-</td>
-      <td class="leftText">Warps you to a random room on the current floor.</td>
+      <td class="priceTableName">Swift Grass</td>
+      <td class="leftText">Increases action speed by 1 stage.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">物忘れの草</td>
-      <td class="highlightYellow">Amnesia Grass</td>
-      <td>-</td>
-      <td class="leftText">All identified items return to their unidentified state.</td>
+      <td class="priceTableName">Warp Grass</td>
+      <td class="leftText">Warps you to a different location on the current floor.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">キグニ族の種</td>
-      <td class="highlightYellow">Kigny Seed</td>
-      <td>-</td>
-      <td class="leftText">Inflicts berserk for 20 turns.</td>
+      <td class="priceTableName">Dragon Grass</td>
+      <td class="leftText">Spew a traveling flame that deals 50 damage.<br/>(Deals 40 damage if thrown).</td>
     </tr>
     <tr>
-      <td class="highlightYellow">くねくね草</td>
-      <td class="highlightYellow">Twisty Grass</td>
-      <td>-</td>
-      <td class="leftText">Decreases level by 1.</td>
+      <td class="priceTableName">Life Grass</td>
+      <td>150</td>
+      <td>40</td>
+      <td class="leftText">Increases max HP by 3.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">命の草</td>
-      <td class="highlightYellow">Life Grass</td>
-      <td>命</td>
-      <td rowspan="5">400</td>
-      <td rowspan="5">200</td>
-      <td class="leftText">Increases max HP by 5.</td>
+      <td class="priceTableName">Otogiriso</td>
+      <td>200</td>
+      <td>100</td>
+      <td class="leftText">Restores 100 HP. Cures Confused and Blind statuses.<br/>Increases max HP by 2 if already at max.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">毒消し草</td>
-      <td class="highlightYellow">Antidote Grass</td>
-      <td>消</td>
-      <td class="leftText">Restores strength to max.</td>
+      <td class="priceTableName">Antidote Grass</td>
+      <td>550</td>
+      <td>300</td>
+      <td class="leftText">Restores lost strength to max.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">胃拡張の種</td>
-      <td class="highlightYellow">Expand Seed</td>
-      <td>-</td>
-      <td class="leftText">Increases max fullness by 10%.</td>
+      <td class="priceTableName">Poison Grass</td>
+      <td rowspan="7">1000</td>
+      <td rowspan="2">300</td>
+      <td class="leftText">Take 5 damage, lose 1 strength, and slows movement.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">胃縮小の種</td>
-      <td class="highlightYellow">Shrink Seed</td>
-      <td>-</td>
-      <td class="leftText">Decreases max fullness by 10%.</td>
+      <td class="priceTableName">Strength Grass</td>
+      <td class="leftText">Restores 1 strength.<br/>Increases max strength by 1 if already at max.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">超不幸の種</td>
-      <td class="highlightYellow">Disaster Seed</td>
-      <td>超</td>
-      <td class="leftText">Decreases level to 1, and also sets current HP to 1.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">弟切草</td>
-      <td class="highlightYellow">Otogiriso</td>
-      <td>弟</td>
-      <td rowspan="3">500</td>
-      <td rowspan="3">250</td>
-      <td class="leftText">Restores 100 HP.<br/>Increases max HP by 4 if already full.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">めぐすり草</td>
-      <td class="highlightYellow">Sight Grass</td>
-      <td>-</td>
-      <td class="leftText">Reveals hidden traps and invisible enemies.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">ドラゴン草</td>
-      <td class="highlightYellow">Dragon Grass</td>
-      <td>火</td>
-      <td class="leftText">Fire breath attack that deals ~70 damage.<br/>The flame travels until it hits a monster or wall.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">火炎草</td>
-      <td class="highlightYellow">Flame Grass</td>
-      <td>火</td>
-      <td>700</td>
-      <td>350</td>
-      <td class="leftText">Fire breath attack that deals ~70 damage.<br/>The flame only has a range of 1 tile.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">よくきき草</td>
-      <td class="highlightYellow">Boost Grass</td>
-      <td>-</td>
-      <td>1000</td>
-      <td>500</td>
-      <td class="leftText">Doubles the effects of grasses and seeds for 5 turns.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">ちからの種</td>
-      <td class="highlightYellow">Strength Seed</td>
-      <td>ち</td>
-      <td rowspan="2">1500</td>
-      <td rowspan="2">700</td>
-      <td class="leftText">Increases strength by 1.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">毒草</td>
-      <td class="highlightYellow">Poison Grass</td>
-      <td>-</td>
-      <td class="leftText">Decreases strength by 1 point, HP by 5 points,<br/>and slows action speed for 10 turns.</td>
-    </tr>
-    <tr>
-      <td class="highlightYellow">しあわせ草</td>
-      <td class="highlightYellow">Happy Grass</td>
-      <td>幸</td>
-      <td rowspan="3">2000</td>
-      <td rowspan="3">1000</td>
+      <td class="priceTableName">Happy Grass</td>
+      <td rowspan="5">500</td>
       <td class="leftText">Increases level by 1.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">不幸の種</td>
-      <td class="highlightYellow">Unlucky Seed</td>
-      <td>不</td>
-      <td class="leftText">Decreases level by 3.</td>
+      <td class="priceTableName">Expand Seed</td>
+      <td class="leftText">Increases max fullness by 10.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">無敵草</td>
-      <td class="highlightYellow">Invincible Grass</td>
-      <td>-</td>
-      <td class="leftText">Reduces all damage received to 0 for 15 turns.</td>
+      <td class="priceTableName">Shrink Seed</td>
+      <td class="leftText">Decreases max fullness by 10.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">復活の草</td>
-      <td class="highlightYellow">Revival Grass</td>
-      <td>-</td>
-      <td>2500</td>
-      <td>1250</td>
-      <td class="leftText">Revives you if you collapse in a dungeon.<br/>(No effect inside a pot)</td>
+      <td class="priceTableName">Unlucky Seed</td>
+      <td class="leftText">Decreases level by 1.</td>
     </tr>
     <tr>
-      <td class="highlightYellow">天使の種</td>
-      <td class="highlightYellow">Angel Seed</td>
-      <td>天</td>
-      <td>3000</td>
+      <td class="priceTableName">Ranzan Grass</td>
+      <td class="leftText"><span class="purpleText">How to Obtain</span>: Castle Keep (Presto Pot on boss floor)</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Revival Grass</td>
       <td>1500</td>
+      <td>750</td>
+      <td class="leftText">Revives you if you collapse. (No effect inside a pot)</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Angel Seed</td>
+      <td>5000</td>
+      <td>1000</td>
       <td class="leftText">Increases level by 3.</td>
     </tr>
   </tbody>

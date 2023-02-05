@@ -1,7 +1,7 @@
 ---
 title: "System"
-metaTitle: "System - Shiren Gaiden: Asuka Kenzan Wiki"
-metaDescription: "Gameplay Systems for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
+metaTitle: "System - Shiren DS2: Magic Castle Wiki"
+metaDescription: "Gameplay Systems for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
 Click on individual sub pages.

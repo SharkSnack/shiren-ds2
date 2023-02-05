@@ -8,7 +8,7 @@ const config = {
   header: {
     logo: '',
     logoLink: '',
-    title: 'Shiren Gaiden: Asuka Kenzan Wiki',
+    title: 'Shiren DS2: Magic Castle Wiki',
     githubUrl: 'https://github.com/SharkSnack/asuka',
     helpUrl: '',
     tweetText: '',
@@ -41,8 +41,7 @@ const config = {
       '/guides',
       '/items',
       '/system',
-      '/dungeons',
-      '/other',
+      '/dungeons'
     ],
     collapsedNav: [],
     links: [],
@@ -50,7 +49,7 @@ const config = {
     ignoreIndex: false
   },
   siteMetadata: {
-    title: 'Shiren Gaiden: Asuka Kenzan Wiki | SharkSnack',
+    title: 'Shiren DS2: Magic Castle Wiki | SharkSnack',
     description: 'Documentation built with mdx.',
     ogImage: null,
     docsLocation: 'https://github.com/sharksnack/asuka/tree/main/content',

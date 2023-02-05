@@ -1,7 +1,7 @@
 ---
 title: "Resonance"
-metaTitle: "Resonance - Shiren Gaiden: Asuka Kenzan Wiki"
-metaDescription: "List of equipment resonance effects for Shiren Gaiden: Onna Kenshi Asuka Kenzan!"
+metaTitle: "Resonance - Shiren DS2: Magic Castle Wiki"
+metaDescription: "List of equipment resonance effects for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
 <br/>
@@ -15,97 +15,129 @@ Resonance is a special effect that occurs when you equip specific combinations o
 <table class="resonanceTable">
   <thead>
     <tr>
-      <th>Item 1 JP</th>
-      <th>Item 2 JP</th>
-      <th>Item 1 EN</th>
-      <th>Item 2 EN</th>
+      <th>Weapon</th>
+      <th>Shield</th>
+      <th>Bracelet</th>
       <th>Effect</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>金の剣</td>
-      <td>金の盾</td>
-      <td>Gold Sword</td>
-      <td>Gold Shield</td>
-      <td>Bracelets no longer break.</td>
+      <td class="highlightGray">Club</td>
+      <td class="highlightGray">Wood Shield</td>
+      <td class="highlightGray">-</td>
+      <td rowspan="3">Attack and defense +3.</td>
     </tr>
     <tr>
-      <td>ガマラのムチ</td>
-      <td>ガマラの盾</td>
-      <td>Froggo Whip</td>
-      <td>Froggo Shield</td>
-      <td>Gain 1 Gitan per turn.</td>
+      <td class="highlightGray">Bronze Sword</td>
+      <td class="highlightGray">Bronze Shield</td>
+      <td class="highlightGray">-</td>
     </tr>
     <tr>
-      <td>鍛えた木刀</td>
-      <td>鍛えた木の盾</td>
-      <td>Wooden Sword</td>
-      <td>Wooden Shield</td>
-      <td>Weapon and shield base strength +3.</td>
+      <td class="highlightGray">Dotanuki</td>
+      <td class="highlightGray">Diet Shield</td>
+      <td class="highlightGray">-</td>
     </tr>
     <tr>
-      <td>火迅風魔刀</td>
-      <td>ラセン風魔の盾</td>
-      <td>Fiery Fuuma</td>
-      <td>Helix Shield</td>
-      <td>Weapon and shield base strength +5.</td>
+      <td class="highlightGray">Demon Slayer</td>
+      <td rowspan="4" class="highlightGray">Demon Shield</td>
+      <td class="highlightGray">-</td>
+      <td>Max strength +4.</td>
     </tr>
     <tr>
-      <td>ドラゴンキラー</td>
-      <td>ドラゴンシールド</td>
-      <td>Dragon Killer</td>
-      <td>Dragon Shield</td>
-      <td>Weapon and shield base strength +5.<br/>Damage +30 against Dragon types.</td>
+      <td class="highlightGray">Ghost Sickle</td>
+      <td class="highlightGray">-</td>
+      <td>Attack damage vs. Ghost types +10.</td>
     </tr>
     <tr>
-      <td>成仏のカマ</td>
-      <td>獣王の盾</td>
-      <td>Ghost Sickle</td>
-      <td>Beast Shield</td>
-      <td>Damage +30 against Ghost types.</td>
+      <td class="highlightGray">Drain Buster</td>
+      <td class="highlightGray">-</td>
+      <td>Attack damage vs. Drain types +10.</td>
     </tr>
     <tr>
-      <td>ドレインバスター</td>
-      <td>獣王の盾</td>
-      <td>Drain Buster</td>
-      <td>Beast Shield</td>
-      <td>Damage +30 against Drain types.</td>
+      <td class="highlightGray">Cyclops Killer</td>
+      <td class="highlightGray">-</td>
+      <td>Attack damage vs. Cyclops types +10.</td>
     </tr>
     <tr>
-      <td>1ツ目殺し</td>
-      <td>獣王の盾</td>
-      <td>Cyclops Killer</td>
-      <td>Beast Shield</td>
-      <td>Damage +30 against Cyclops types.</td>
+      <td class="highlightGray">Katana</td>
+      <td class="highlightGray">Iron Shield</td>
+      <td class="highlightGray">-</td>
+      <td>Max HP +20.</td>
     </tr>
     <tr>
-      <td>三日月刀</td>
-      <td>獣王の盾</td>
-      <td>Crescent Arm</td>
-      <td>Beast Shield</td>
-      <td>Damage +30 against Bomb types.</td>
+      <td class="highlightGray">Wonder Pick</td>
+      <td class="highlightGray">Nirvana Shield</td>
+      <td class="highlightGray">-</td>
+      <td>Max HP +30.</td>
     </tr>
     <tr>
-      <td>マリンスラッシャー </td>
-      <td>獣王の盾</td>
-      <td>Marine Slasher</td>
-      <td>Beast Shield</td>
-      <td>Damage +30 against Aquatic types.</td>
+      <td class="highlightGray">Crescent Arm</td>
+      <td class="highlightGray">Blast Shield</td>
+      <td class="highlightGray">-</td>
+      <td rowspan="2">Attack and defense +5.</td>
     </tr>
     <tr>
-      <td>バトルカウンター</td>
-      <td>ちからの腕輪</td>
-      <td>Counter Shield</td>
-      <td>Strength Bracelet</td>
-      <td>Doubles counter damage.</td>
+      <td class="highlightGray">Dragon Killer</td>
+      <td class="highlightGray">Dragon Shield</td>
+      <td class="highlightGray">-</td>
     </tr>
     <tr>
-      <td>重装の盾</td>
-      <td>ちからの腕輪</td>
-      <td>Heavy Shield</td>
-      <td>Strength Bracelet</td>
-      <td>Fullness depletes are regular speed.</td>
+      <td class="highlightGray">Beetle Axe</td>
+      <td class="highlightGray">Beetle Shield</td>
+      <td class="highlightGray">-</td>
+      <td>Max strength +3.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Fuuma Katana</td>
+      <td class="highlightGray">Fuuma Shield</td>
+      <td class="highlightGray">-</td>
+      <td>Max strength +5.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Kabura's Blade</td>
+      <td class="highlightGray">Kabura's Guard</td>
+      <td class="highlightGray">-</td>
+      <td>Attack damage +5.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Fiery Fuuma</td>
+      <td class="highlightGray">Helix Shield</td>
+      <td class="highlightGray">-</td>
+      <td>Bracelet will never break.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Mamel Sword</td>
+      <td class="highlightGray">Mamel Shield</td>
+      <td class="highlightGray">-</td>
+      <td>Traps you step on will not activate.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Shoddy Sword</td>
+      <td class="highlightGray">Shoddy Shield</td>
+      <td class="highlightGray">-</td>
+      <td>1/2 hunger rate.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Mallet</td>
+      <td class="highlightGray">Wood Shield</td>
+      <td rowspan="2" class="highlightGray">Scout Bracelet</td>
+      <td rowspan="2">Gain Sharp Eyes status.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Cyclops Killer</td>
+      <td class="highlightGray">Spry Shield</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">-</td>
+      <td class="highlightGray">Heavy Shield</td>
+      <td rowspan="2" class="highlightGray">Strength Bracelet</td>
+      <td>Normal hunger rate.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">-</td>
+      <td class="highlightGray">Counter Shield</td>
+      <td>Double counter damage.</td>
     </tr>
   </tbody>
 </table>
