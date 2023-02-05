@@ -1,6 +1,6 @@
 const config = {
   gatsby: {
-    pathPrefix: '/asuka',
+    pathPrefix: '/shiren-ds2',
     siteUrl: 'https://sharksnack.github.io',
     gaTrackingId: null,
     trailingSlash: false,
@@ -9,7 +9,7 @@ const config = {
     logo: '',
     logoLink: '',
     title: 'Shiren DS2: Magic Castle Wiki',
-    githubUrl: 'https://github.com/SharkSnack/asuka',
+    githubUrl: 'https://github.com/SharkSnack/shiren-ds2',
     helpUrl: '',
     tweetText: '',
     social: `<li>
@@ -52,8 +52,8 @@ const config = {
     title: 'Shiren DS2: Magic Castle Wiki | SharkSnack',
     description: 'Documentation built with mdx.',
     ogImage: null,
-    docsLocation: 'https://github.com/sharksnack/asuka/tree/main/content',
-    favicon: 'https://raw.githubusercontent.com/SharkSnack/asuka/master/src/components/images/favicon-32x32.png',
+    docsLocation: 'https://github.com/sharksnack/shiren-ds2/tree/main/content',
+    favicon: 'https://raw.githubusercontent.com/SharkSnack/shiren-ds2/main/src/components/images/favicon-32x32.png',
   },
   pwa: {
     enabled: false, // disabling this will also remove the existing service worker.
