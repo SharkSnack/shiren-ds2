@@ -51,6 +51,8 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
       case 'ancient-ruins': // dungeons
         items[0] = { items:[], label: 'ancient-ruins', title: 'Ancient Ruins', url: '/dungeons/ancient-ruins'};
         items[1] = { items:[], label: 'castle-tower', title: 'Castle Tower', url: '/dungeons/castle-tower'};
+        items[2] = { items:[], label: 'castle-keep', title: 'Castle Keep', url: '/dungeons/castle-keep'};
+        items[3] = { items:[], label: 'jahannams-gate', title: 'Jahannam', url: '/dungeons/jahannams-gate'};
         break;
       default:
         // do nothing

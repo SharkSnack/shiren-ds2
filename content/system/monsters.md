@@ -813,7 +813,7 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
     <td>12</td>
     <td>8</td>
     <td rowspan="4">Prism</td>
-    <td rowspan="4">Lundge deals 5 damage and 5 tiles of knockback, and<br/>makes Shiren trip and drop items if he isn't against a wall.</td>
+    <td rowspan="4">Lunge deals 5 damage and 5 tiles of knockback, and<br/>makes Shiren trip and drop items if he isn't against a wall.</td>
   </tr>
   <tr>
     <td>2</td>
@@ -3657,7 +3657,7 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
     <td>50</td>
     <td>46</td>
     <td>1900</td>
-    <td>Same as Mixer, but eats up to 3 items.</td>
+    <td>Same as Mini Mixer, but eats up to 3 items.</td>
   </tr>
   <tr>
     <td>3</td>
@@ -3666,7 +3666,7 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
     <td>68</td>
     <td>60</td>
     <td>3000</td>
-    <td>Same as Mixer, but eats up to 4 items.</td>
+    <td>Same as Mini Mixer, but eats up to 4 items.</td>
   </tr>
   <tr>
     <td>4</td>
@@ -3675,7 +3675,7 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
     <td>72</td>
     <td>74</td>
     <td>3600</td>
-    <td>Same as Mixer, but eats up to 5 items.</td>
+    <td>Same as Mini Mixer, but eats up to 5 items.</td>
   </tr>
 </table>
 

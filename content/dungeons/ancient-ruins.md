@@ -8,7 +8,7 @@ metaDescription: "Ancient Ruins dungeon guide for Shiren the Wanderer DS2: Magic
   <img src="../images/areas/ancient_ruins_1.png"/><img src="../images/areas/ancient_ruins_2.png"/>
 </div>
 
-First real dungeon of the game after escaping from the castle.<br/>Traps don't appear on any of the floors, and most items are found identified.<br/>An explanation is displayed when you pick an item up for the first time.
+First real dungeon of the game after escaping from the castle.<br/>Spring is the only trap that gets generated, and most items are found identified.<br/>An explanation is displayed when you pick an item up for the first time.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -17,6 +17,7 @@ First real dungeon of the game after escaping from the castle.<br/>Traps don't a
   <li><a href="#monsters">Monsters</a></li>
   <li><a href="#monster-table">Monster Table</a></li>
   <li><a href="#items">Items</a></li>
+  <li><a href="#traps">Traps</a></li>
 </ul>
 
 # Overview
@@ -50,6 +51,12 @@ First real dungeon of the game after escaping from the castle.<br/>Traps don't a
     <td>Yes</td>
   </tr>
   <tr>
+    <th>Bring Gitan</th>
+    <td>Yes</td>
+    <th>Starting Item</th>
+    <td>Onigiri</td>
+  </tr>
+  <tr>
     <th>Unidentified</th>
     <td colspan="3">Weapons, Shields</td>
   </tr>
@@ -61,7 +68,7 @@ First real dungeon of the game after escaping from the castle.<br/>Traps don't a
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td></td>
+    <td>None</td>
     <th>Reward</th>
     <td>None</td>
   </tr>
@@ -226,20 +233,20 @@ Trading hits with monsters becomes a bit painful, but you likely have no other o
 
 # Monster Table
 
-Enemy Colors: <span class="farming">Farming</span>
+Spawn Rates: <span class="low">Low</span> <span class="mid">Medium</span> <span class="high">High</span><br/>Enemy Colors: <span class="farming">Farming</span> <span class="useful">Useful</span>
 
 <table class="monsterTable">
   <thead>
     <tr>
-      <th>F</th>
-      <th colspan="6">Monsters</th>
+      <th class="highlightPurple">F</th>
+      <th colspan="6" class="highlightPurple">Monsters</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>1</th>
-      <td>Mamel</td>
-      <td>Minion Mouse</td>
+      <td class="high">Mamel</td>
+      <td class="mid">Minion Mouse</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -247,8 +254,8 @@ Enemy Colors: <span class="farming">Farming</span>
     </tr>
     <tr>
       <th>2</th>
-      <td>Mamel</td>
-      <td>Minion Mouse</td>
+      <td class="mid">Mamel</td>
+      <td class="high">Minion Mouse</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -256,124 +263,147 @@ Enemy Colors: <span class="farming">Farming</span>
     </tr>
     <tr>
       <th>3</th>
-      <td>Chintala</td>
-      <td>Mobster Mouse</td>
-      <td>Teaser Monkey</td>
+      <td class="high">Chintala</td>
+      <td class="mid">Mobster Mouse</td>
+      <td class="mid">Teaser Monkey</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th>4</th>
-      <td>Chintala</td>
-      <td>Mobster Mouse</td>
-      <td>Teaser Monkey</td>
-      <td>Impact Boar</td>
+      <td class="high">Chintala</td>
+      <td class="mid">Mobster Mouse</td>
+      <td class="mid">Teaser Monkey</td>
+      <td class="high">Impact Boar</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th>5</th>
-      <td>Chintala</td>
-      <td>Dagyan</td>
-      <td>Teaser Monkey</td>
-      <td>Impact Boar</td>
+      <td class="mid">Chintala</td>
+      <td class="mid">Dagyan</td>
+      <td class="mid">Teaser Monkey</td>
+      <td class="high">Impact Boar</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th>6</th>
-      <td>Glare Snake</td>
-      <td>Dagyan</td>
-      <td>Pitcher Plant</td>
-      <td><span class="farming">Rock Head</span></td>
+      <td class="high">Glare Snake</td>
+      <td class="high">Dagyan</td>
+      <td class="high"><span class="useful">Pitcher Plant</span></td>
+      <td class="mid"><span class="farming">Rock Head</span></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
       <th>7</th>
-      <td>Glare Snake</td>
-      <td>Dagyan</td>
-      <td>Pitcher Plant</td>
-      <td><span class="farming">Rock Head</span></td>
-      <td>Sheep Priest</td>
-      <td>Pumphantasm</td>
+      <td class="high">Glare Snake</td>
+      <td class="high">Dagyan</td>
+      <td class="high"><span class="useful">Pitcher Plant</span></td>
+      <td class="high"><span class="farming">Rock Head</span></td>
+      <td class="high">Sheep Priest</td>
+      <td class="mid">Pumphantasm</td>
     </tr>
     <tr>
       <th>8</th>
-      <td>Glare Snake</td>
+      <td class="mid">Glare Snake</td>
       <td class="highlightGray"></td>
-      <td>Pitcher Plant</td>
-      <td><span class="farming">Rock Head</span></td>
-      <td>Sheep Priest</td>
-      <td>Pumphantasm</td>
+      <td class="mid"><span class="useful">Pitcher Plant</span></td>
+      <td class="high"><span class="farming">Rock Head</span></td>
+      <td class="high">Sheep Priest</td>
+      <td class="high">Pumphantasm</td>
     </tr>
   </tbody>
 </table>
 
 # Items
 
-The values like "1-5" and "4+" in columns represent the floor range where the item can appear.
+The values like "1-8" in columns represent the floor range where the item can appear.
 
 - F = Floor
-- P = Presto Pot
 - M = Monster
+- P = Presto Pot
 
 <br/>
 
 <table class="dungeonItemTable">
   <tr>
     <th colspan="4" class="highlightLightblue">Weapon</th>
-    <th rowspan="14"></th>
-    <th colspan="4" class="highlightLightblue">Scroll</th>
+    <th rowspan="15"></th>
+    <th colspan="4" class="highlightLightblue">Grass</th>
   </tr>
   <tr>
     <th>Name</th>
     <th>F</th>
-    <th>P</th>
     <th>M</th>
+    <th>P</th>
     <th>Name</th>
     <th>F</th>
-    <th>P</th>
     <th>M</th>
+    <th>P</th>
   </tr>
   <tr>
     <td class="leftText">Club</td>
-    <td>X</td>
+    <td>1-8</td>
     <td></td>
     <td></td>
-    <td class="leftText">Air Slash Scroll</td>
-    <td>4+</td>
+    <td class="leftText">Life Grass</td>
+    <td>1-8</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Bronze Sword</td>
-    <td>X</td>
+    <td>1-8</td>
     <td></td>
     <td></td>
-    <td class="leftText">Slumber Scroll</td>
-    <td>4+</td>
+    <td class="leftText">Otogiriso</td>
+    <td>1-8</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Demon Slayer</td>
-    <td>6+</td>
+    <td>6-8</td>
     <td></td>
     <td></td>
-    <td class="leftText">Escape Scroll</td>
+    <td class="leftText">Dizzy Grass</td>
+    <td>1-8</td>
     <td></td>
     <td></td>
-    <td>※</td>
   </tr>
   <tr>
     <th colspan="4" class="highlightLightblue">Shield</th>
-    <th colspan="4" class="highlightLightblue">Grass</th>
+    <td class="leftText">Weeds</td>
+    <td></td>
+    <td></td>
+    <td>1-8</td>
+  </tr>
+  <tr>
+    <th>Name</th>
+    <th>F</th>
+    <th>M</th>
+    <th>P</th>
+    <td class="leftText">Swift Grass</td>
+    <td>1-8</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td class="leftText">Iron Shield</td>
+    <td>6-8</td>
+    <td></td>
+    <td></td>
+    <td class="leftText">Dragon Grass</td>
+    <td>1-8</td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td class="leftText">Wood Shield</td>
-    <td>X</td>
+    <td>1-8</td>
     <td></td>
     <td></td>
     <td class="leftText">Revival Grass</td>
@@ -382,66 +412,62 @@ The values like "1-5" and "4+" in columns represent the floor range where the it
     <td></td>
   </tr>
   <tr>
-    <td class="leftText">Iron Shield</td>
-    <td>6+</td>
-    <td></td>
-    <td></td>
-    <td class="leftText">Life Grass</td>
-    <td>X</td>
+    <th colspan="4" class="highlightLightblue">Bracelet</th>
+    <td class="leftText">Herb</td>
+    <td>1-8</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <th colspan="4" class="highlightLightblue">Bracelet</th>
-    <td class="leftText">Otogiriso</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
+    <th>Name</th>
+    <th>F</th>
+    <th>M</th>
+    <th>P</th>
+    <th colspan="4" class="highlightLightblue">Scroll</th>
   </tr>
   <tr>
     <td class="leftText">Strength Bracelet</td>
-    <td>X</td>
+    <td>1-8</td>
     <td></td>
     <td></td>
-    <td class="leftText">Dizzy Grass</td>
-    <td>X</td>
+    <th>Name</th>
+    <th>F</th>
+    <th>M</th>
+    <th>P</th>
+  </tr>
+  <tr>
+    <th colspan="4" class="highlightLightblue">Food</th>
+    <td class="leftText">Air Slash Scroll</td>
+    <td>4-8</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
-    <th colspan="4" class="highlightLightblue">Food</th>
-    <td class="leftText">Swift Grass</td>
-    <td>X</td>
+    <th>Name</th>
+    <th>F</th>
+    <th>M</th>
+    <th>P</th>
+    <td class="leftText">Slumber Scroll</td>
+    <td>4-8</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td class="leftText">Onigiri</td>
-    <td>X</td>
+    <td>1-8</td>
     <td></td>
     <td></td>
-    <td class="leftText">Dragon Grass</td>
-    <td>X</td>
+    <td class="leftText">Escape Scroll</td>
     <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <th colspan="4" class="highlightLightblue">Other</th>
-    <td class="leftText">Herb</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td class="leftText">Gitan</td>
-    <td>X</td>
-    <td></td>
-    <td></td>
-    <td class="leftText">Weeds</td>
-    <td></td>
-    <td>X</td>
+    <td>6-8</td>
     <td></td>
   </tr>
 </table>
 
 ※ Escape Scroll - Rock Head (6-8F)
+
+# Traps
+
+|F|Traps|
+|-|-|
+|1-8|Spring|

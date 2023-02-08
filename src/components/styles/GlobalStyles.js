@@ -691,6 +691,7 @@ export const baseStyles = css`
     font-weight: normal;
     text-align: center;
     padding: 2.5px;
+    background-color: #f9fbff;
   }
   .monsterTable td {
     text-align: center;
@@ -1110,6 +1111,15 @@ export const baseStyles = css`
     text-align: center;
     background-color: #7aabdd;
   }
+  .high {
+    background-color: #fff5f1;
+  }
+  .mid {
+    background-color: #fffff4;
+  }
+  .low {
+    background-color: #fff;
+  }
   .highlightGreen {
     background-color: #CCFFCC !important;
   }
@@ -1220,6 +1230,9 @@ export const baseStyles = css`
   }
   .highlightShop {
     background-color: #fffac5 !important;
+  }
+  .highlightMH {
+    background-color: #f4dfff !important;
   }
   .highlightFog {
     background-color: #dbdbdb;
