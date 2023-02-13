@@ -64,7 +64,7 @@ metaDescription: "Jahannam's Gate dungeon guide for Shiren the Wanderer DS2: Mag
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td>False God</td>
+    <td></td>
     <th>Reward</th>
     <td>None</td>
   </tr>
