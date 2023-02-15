@@ -18,16 +18,17 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
 
 # Price Calculation
 
-[Content]
+- Blessed = Price x 1.1
+- Cursed or Cracked = Price x 0.9
 
 ## Bracelets / Scrolls / Grass
 
 <table class="priceTableMedium">
   <tr>
     <th colspan="4">Bracelet</th>
-    <th rowspan="30" class="tableDivider"></th>
+    <th rowspan="32" class="tableDivider"></th>
     <th colspan="3">Scroll</th>
-    <th rowspan="30" class="tableDivider"></th>
+    <th rowspan="32" class="tableDivider"></th>
     <th colspan="3">Grass</th>
   </tr>
   <tr>
@@ -48,8 +49,8 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
     <td rowspan="2">600</td>
     <td rowspan="2">150</td>
     <td class="priceTableName">Grounded Scroll</td>
-    <td rowspan="13">100</td>
-    <td rowspan="13">50</td>
+    <td rowspan="14">100</td>
+    <td rowspan="14">50</td>
     <td class="priceTableName">Weeds</td>
     <td>2</td>
     <td>1</td>
@@ -148,9 +149,7 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
   <tr>
     <td class="priceTableName">Cleansing Bracelet</td>
     <td>健</td>
-    <td class="priceTableName">Navigation Scroll</td>
-    <td rowspan="2">250</td>
-    <td rowspan="2">50</td>
+    <td class="priceTableName">Explosion Scroll</td>
     <td class="priceTableName">Happy Grass</td>
     <td rowspan="4">500</td>
   </tr>
@@ -158,7 +157,9 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
     <td class="priceTableName">Strength Bracelet</td>
     <td>力</td>
     <td>600</td>
-    <td class="priceTableName">Identify Scroll</td>
+    <td class="priceTableName">Navigation Scroll</td>
+    <td rowspan="2">250</td>
+    <td rowspan="2">50</td>
     <td class="priceTableName">Expand Seed</td>
   </tr>
   <tr>
@@ -166,22 +167,21 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
     <td>垂</td>
     <td rowspan="3">1500</td>
     <td rowspan="3">750</td>
-    <td class="priceTableName">Air Slash Scroll</td>
-    <td rowspan="4">300</td>
-    <td rowspan="2">50</td>
+    <td class="priceTableName">Identify Scroll</td>
     <td class="priceTableName">Shrink Seed</td>
   </tr>
   <tr>
     <td class="priceTableName">Scout Bracelet</td>
     <td>見</td>
-    <td class="priceTableName">Slumber Scroll</td>
+    <td class="priceTableName">Air Slash Scroll</td>
+    <td rowspan="3">300</td>
+    <td rowspan="2">50</td>
     <td class="priceTableName">Unlucky Seed</td>
   </tr>
   <tr>
     <td class="priceTableName">Holy Bracelet</td>
     <td>払</td>
-    <td class="priceTableName">Great Hall Scroll</td>
-    <td>100</td>
+    <td class="priceTableName">Slumber Scroll</td>
     <td class="priceTableName">Revival Grass</td>
     <td>1500</td>
     <td>750</td>
@@ -203,7 +203,7 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
     <td class="priceTableName">Power Up Scroll</td>
     <td>450</td>
     <td>50</td>
-    <td rowspan="9" colspan="3"></td>
+    <td rowspan="11" colspan="3"></td>
   </tr>
   <tr>
     <td class="priceTableName">Trapper Bracelet</td>
@@ -225,32 +225,40 @@ metaDescription: "Item price chart for Shiren the Wanderer DS2: Magic Castle of 
     <td class="priceTableName">Critical Bracelet</td>
     <td>会</td>
     <td class="priceTableName">Sanctuary Scroll</td>
-    <td rowspan="3">3000</td>
+    <td rowspan="4">3000</td>
     <td>50</td>
   </tr>
   <tr>
     <td class="priceTableName">Paper Bracelet</td>
     <td>避</td>
     <td>15000</td>
-    <td class="priceTableName">Heaven Scroll</td>
-    <td rowspan="2">2000</td>
+    <td class="priceTableName">Great Hall Scroll</td>
+    <td>100</td>
   </tr>
   <tr>
     <td class="priceTableName">Gold Bracelet</td>
     <td>-</td>
     <td>20000</td>
     <td>10000</td>
+    <td class="priceTableName">Heaven Scroll</td>
+    <td rowspan="2">2000</td>
+  </tr>
+  <tr>
+    <td rowspan="5" colspan="4"></td>
     <td class="priceTableName">Earth Scroll</td>
   </tr>
   <tr>
-    <td rowspan="3" colspan="4"></td>
     <td class="priceTableName">Plating Scroll</td>
     <td>5000</td>
     <td>1000</td>
   </tr>
   <tr>
+    <td class="priceTableName">Squid Sushi Scroll</td>
+    <td rowspan="2">10000</td>
+    <td>3000</td>
+  </tr>
+  <tr>
     <td class="priceTableName">Blank Scroll</td>
-    <td>10000</td>
     <td>7500</td>
   </tr>
   <tr>

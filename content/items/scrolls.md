@@ -28,8 +28,8 @@ metaDescription: "Complete scroll details for Shiren the Wanderer DS2: Magic Cas
   <tbody>
     <tr>
       <td class="priceTableName">Grounded Scroll</td>
-      <td rowspan="13">100</td>
-      <td rowspan="13">50</td>
+      <td rowspan="14">100</td>
+      <td rowspan="14">50</td>
       <td class="leftText">Inflicts Grounded status on the player.</td>
     </tr>
     <tr>
@@ -81,6 +81,10 @@ metaDescription: "Complete scroll details for Shiren the Wanderer DS2: Magic Cas
       <td class="leftText">Makes explosions unable to occur on the current floor.</td>
     </tr>
     <tr>
+      <td class="priceTableName">Explosion Scroll</td>
+      <td class="leftText">Makes all monsters on the current floor explode.</td>
+    </tr>
+    <tr>
       <td class="priceTableName">Navigation Scroll</td>
       <td rowspan="2">250</td>
       <td rowspan="2">50</td>
@@ -92,18 +96,13 @@ metaDescription: "Complete scroll details for Shiren the Wanderer DS2: Magic Cas
     </tr>
     <tr>
       <td class="priceTableName">Air Slash Scroll</td>
-      <td rowspan="4">300</td>
+      <td rowspan="3">300</td>
       <td rowspan="2">50</td>
       <td class="leftText">Deal roughly 30 damage to all monsters in the room.</td>
     </tr>
     <tr>
       <td class="priceTableName">Slumber Scroll</td>
       <td class="leftText">Inflicts Slumbering status on all non-player characters in the room.</td>
-    </tr>
-    <tr>
-      <td class="priceTableName">Great Hall Scroll</td>
-      <td>100</td>
-      <td class="leftText">Turns the current floor into one giant room.</td>
     </tr>
     <tr>
       <td class="priceTableName">Confusion Scroll</td>
@@ -136,9 +135,14 @@ metaDescription: "Complete scroll details for Shiren the Wanderer DS2: Magic Cas
     </tr>
     <tr>
       <td class="priceTableName">Sanctuary Scroll</td>
-      <td rowspan="3">3000</td>
+      <td rowspan="4">3000</td>
       <td>50</td>
       <td class="leftText">Place this on the ground to create a safe zone where adjacent<br/>monsters can't attack anyone standing on top of the scroll.</td>
+    </tr>
+    <tr>
+      <td class="priceTableName">Great Hall Scroll</td>
+      <td>100</td>
+      <td class="leftText">Turns the current floor into one large room.</td>
     </tr>
     <tr>
       <td class="priceTableName">Heaven Scroll</td>
@@ -156,8 +160,13 @@ metaDescription: "Complete scroll details for Shiren the Wanderer DS2: Magic Cas
       <td class="leftText">Makes a weapon or shield rustproof.<br/>Can also be used to repair a cracked bracelet.</td>
     </tr>
     <tr>
+      <td class="priceTableName">Squid Sushi Scroll</td>
+      <td rowspan="2">10000</td>
+      <td>3000</td>
+      <td class="leftText">Eat this to replenish 40 fullness.<br/><span class="purpleText">How to Obtain</span>: Throw an onigiri item at a Squid King type monster.</td>
+    </tr>
+    <tr>
       <td class="priceTableName">Blank Scroll</td>
-      <td>10000</td>
       <td>7500</td>
       <td class="leftText">Write the name of a scroll you've read before, and use this as that scroll.<br/>(You can't write Sumeragi Scroll on a Blank Scroll)</td>
     </tr>

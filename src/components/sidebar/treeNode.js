@@ -56,7 +56,11 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[4] = { items:[], label: 'tonfans-hole', title: 'Tonfan\'s Hole', url: '/dungeons/tonfans-hole'};
         items[5] = { items:[], label: 'wanado-tournament', title: 'Wanado', url: '/dungeons/wanado-tournament'};
         items[6] = { items:[], label: 'pot-cave', title: 'Pot Cave', url: '/dungeons/pot-cave'};
-        items[7] = { items:[], label: 'edge-of-the-abyss', title: 'Edge of Abyss', url: '/dungeons/edge-of-the-abyss'};
+        items[7] = { items:[], label: 'depths-of-the-abyss', title: 'Abyss Depths', url: '/dungeons/depths-of-the-abyss'};
+        items[8] = { items:[], label: 'smiths-furnace', title: 'Furnace', url: '/dungeons/smiths-furnace'};
+        items[9] = { items:[], label: 'mamel-cave', title: 'Mamel Cave', url: '/dungeons/mamel-cave'};
+        items[10] = { items:[], label: 'inner-ruins', title: 'Inner Ruins', url: '/dungeons/inner-ruins'};
+        items[11] = { items:[], label: 'obabas-hidden-hole', title: 'Obaba\'s Hole', url: '/dungeons/obabas-hidden-hole'};
         break;
       default:
         // do nothing

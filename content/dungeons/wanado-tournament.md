@@ -4,7 +4,6 @@ metaTitle: "Wanado Tournament - Shiren DS2: Magic Castle Wiki"
 metaDescription: "Wanado Tournament dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
-
 [Introduction]
 
 <ul class="quickLinksUL">
@@ -25,7 +24,7 @@ metaDescription: "Wanado Tournament dungeon guide for Shiren the Wanderer DS2: M
   </tr>
   <tr>
     <th>Entrance</th>
-    <td class="highlightYellow">Town of Ilpa (North)</td>
+    <td class="highlightYellow">Town of Ilpa (North section)</td>
   </tr>
 </table>
 

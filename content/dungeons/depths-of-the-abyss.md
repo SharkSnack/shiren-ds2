@@ -1,9 +1,8 @@
 ---
-title: "Edge of the Abyss"
-metaTitle: "Edge of the Abyss - Shiren DS2: Magic Castle Wiki"
-metaDescription: "Edge of the Abyss dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
+title: "Depths of the Abyss"
+metaTitle: "Depths of the Abyss - Shiren DS2: Magic Castle Wiki"
+metaDescription: "Depths of the Abyss dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
-
 
 [Introduction]
 
@@ -68,7 +67,7 @@ metaDescription: "Edge of the Abyss dungeon guide for Shiren the Wanderer DS2: M
     <th>Clear Icon</th>
     <td></td>
     <th>Reward</th>
-    <td></td>
+    <td>Wanderer's Mark</td>
   </tr>
 </table>
 

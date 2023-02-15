@@ -4,7 +4,6 @@ metaTitle: "Tonfan's Hole - Shiren DS2: Magic Castle Wiki"
 metaDescription: "Tonfan's Hole dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
-
 [Introduction]
 
 <ul class="quickLinksUL">
