@@ -42,11 +42,12 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[9] = { items:[], label: 'monster-meat', title: 'Meat', url: '/items/monster-meat'};
         items[10] = { items:[], label: 'projectiles', title: 'Projectiles', url: '/items/projectiles'};
         break;
-      case 'monsters': // system
+      case 'adventure-footprints': // system
         items[0] = { items:[], label: 'resonance', title: 'Resonance', url: '/system/resonance'};
         items[1] = { items:[], label: 'synthesis-runes', title: 'Runes', url: '/system/synthesis-runes'};
         items[2] = { items:[], label: 'monsters', title: 'Monsters', url: '/system/monsters'};
         items[3] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
+        items[4] = { items:[], label: 'adventure-footprints', title: 'Footprints', url: '/system/adventure-footprints'};
         break;
       case 'ancient-ruins': // dungeons
         items[0] = { items:[], label: 'ancient-ruins', title: 'Ancient Ruins', url: '/dungeons/ancient-ruins'};

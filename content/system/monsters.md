@@ -4310,7 +4310,7 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
   </tr>
 </table>
 
-### False God
+### Evil God
 
 <table class="monsterPageTable">
   <tr>
@@ -4323,23 +4323,23 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
     <th>Notes</th>
   </tr>
   <tr>
-    <td>False God (Part A)</td>
+    <td>Evil God (Part A)</td>
     <td>80</td>
     <td>0</td>
     <td>33</td>
     <td>0</td>
     <td rowspan="3">-</td>
-    <td rowspan="2">False God doesn't attack.<br/>Dark Vassal type monsters appear when a part is destroyed.</td>
+    <td rowspan="2">Evil God doesn't attack.<br/>Dark Vassal type monsters appear when a part is destroyed.</td>
   </tr>
   <tr>
-    <td>False God (Part B)</td>
+    <td>Evil God (Part B)</td>
     <td>120</td>
     <td>0</td>
     <td>40</td>
     <td>0</td>
   </tr>
   <tr>
-    <td>False God (Core)</td>
+    <td>Evil God (Core)</td>
     <td>201</td>
     <td>1</td>
     <td>20</td>

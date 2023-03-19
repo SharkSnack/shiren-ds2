@@ -700,6 +700,14 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th colspan="8"></th>
     </tr>
     <tr>
+      <td>30</td>
+      <td></td>
+      <td colspan="6" class="highlightLightblue">Goal (1st Clear)</td>
+    </tr>
+    <tr>
+      <th colspan="8"></th>
+    </tr>
+    <tr>
       <th rowspan="2" class="highlightShop">30</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="low">Snacky</td>
@@ -2144,6 +2152,9 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="low">Snacky</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
+    </tr>
+    <tr>
+      <th colspan="8"></th>
     </tr>
     <tr>
       <th>99</th>

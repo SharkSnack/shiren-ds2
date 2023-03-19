@@ -271,6 +271,11 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="highlightGray"></td>
     </tr>
     <tr>
+      <th>15</th>
+      <th></th>
+      <td colspan="9" class="highlightLightblue">Goal (1st Clear)</td>
+    </tr>
+    <tr>
       <th class="highlightShop">15</th>
       <th></th>
       <td class="mid"><span class="danger">Porko</span></td>

@@ -145,6 +145,10 @@ Spawn Rates: <span class="low">Low</span> <span class="mid">Medium</span> <span 
     </tr>
     <tr>
       <th>6</th>
+      <td colspan="8" class="highlightLightblue">Goal (1st Clear)</td>
+    </tr>
+    <tr>
+      <th>6</th>
       <td class="mid">Leer Snake</td>
       <td class="mid">Pumphantom</td>
       <td class="mid">Floor Dragon</td>
