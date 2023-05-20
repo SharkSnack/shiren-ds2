@@ -4,6 +4,10 @@ metaTitle: "Mamel Cave - Shiren DS2: Magic Castle Wiki"
 metaDescription: "Mamel Cave dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
+<div class="pageTopImage dungeonPageTopImage2">
+  <img src="../images/areas/mamel_cave_1.png"/><img src="../images/areas/mamel_cave_2.png"/>
+</div>
+
 [Introduction]
 
 <ul class="quickLinksUL">
@@ -65,7 +69,7 @@ metaDescription: "Mamel Cave dungeon guide for Shiren the Wanderer DS2: Magic Ca
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td></td>
+    <td class="clearIcon"><img src="../images/other/icon_mamel.png"/></td>
     <th>Reward</th>
     <td>Mamel Sword<br/>Mamel Shield</td>
   </tr>

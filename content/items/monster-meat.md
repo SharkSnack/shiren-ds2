@@ -485,7 +485,7 @@ metaDescription: "Complete monster meat details for Shiren the Wanderer DS2: Mag
       <td>1000</td>
       <td>1</td>
       <td class="leftText"><span class="purpleText">1 Floor</span><br/>No special attack.<br/>Lv4: Swift action speed.</td>
-      <td class="leftText">Doesn't learn a power.</td>
+      <td class="leftText">Lv4: Attack 2 times in a row.</td>
     </tr>
     <tr>
       <td class="priceTableName">Slime Type</td>

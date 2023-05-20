@@ -4,6 +4,10 @@ metaTitle: "Obaba's Hidden Hole - Shiren DS2: Magic Castle Wiki"
 metaDescription: "Obaba's Hidden Hole dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
+<div class="pageTopImage dungeonPageTopImage2">
+  <img src="../images/areas/obaba_1.png"/><img src="../images/areas/obaba_2.png"/>
+</div>
+
 [Introduction]
 
 <ul class="quickLinksUL">
@@ -65,7 +69,7 @@ metaDescription: "Obaba's Hidden Hole dungeon guide for Shiren the Wanderer DS2:
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td></td>
+    <td class="clearIcon"><img src="../images/other/icon_obaba.png"/></td>
     <th>Reward</th>
     <td>Time Attack Unlocked</td>
   </tr>

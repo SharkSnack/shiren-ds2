@@ -28,6 +28,8 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
     switch (items[0].label) {
       case 'blank-scroll-guide': // guides
         items[0] = { items:[], label: 'blank-scroll-guide', title: 'Blank Scroll', url: '/guides/blank-scroll-guide'};
+        items[1] = { items:[], label: 'identifying-items', title: 'Identification', url: '/guides/identifying-items'};
+        items[2] = { items:[], label: 'tips-and-tricks', title: 'Tips & Tricks', url: '/guides/tips-and-tricks'};
         break;
       case 'bracelets': // items
         items[0] = { items:[], label: 'price-chart', title: 'Price Chart', url: '/items/price-chart'};
@@ -47,9 +49,10 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[1] = { items:[], label: 'synthesis-runes', title: 'Runes', url: '/system/synthesis-runes'};
         items[2] = { items:[], label: 'monsters', title: 'Monsters', url: '/system/monsters'};
         items[3] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
-        items[4] = { items:[], label: 'adventure-footprints', title: 'Footprints', url: '/system/adventure-footprints'};
+        items[4] = { items:[], label: 'allies', title: 'Allies', url: '/system/allies'};
+        items[5] = { items:[], label: 'adventure-footprints', title: 'Footprints', url: '/system/adventure-footprints'};
         break;
-      case 'ancient-ruins': // dungeons
+      case 'abyssal-depths': // dungeons
         items[0] = { items:[], label: 'ancient-ruins', title: 'Ancient Ruins', url: '/dungeons/ancient-ruins'};
         items[1] = { items:[], label: 'castle-tower', title: 'Castle Tower', url: '/dungeons/castle-tower'};
         items[2] = { items:[], label: 'castle-keep', title: 'Castle Keep', url: '/dungeons/castle-keep'};
@@ -57,8 +60,8 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[4] = { items:[], label: 'tonfans-hole', title: 'Tonfan\'s Hole', url: '/dungeons/tonfans-hole'};
         items[5] = { items:[], label: 'wanado-tournament', title: 'Wanado', url: '/dungeons/wanado-tournament'};
         items[6] = { items:[], label: 'pot-cave', title: 'Pot Cave', url: '/dungeons/pot-cave'};
-        items[7] = { items:[], label: 'depths-of-the-abyss', title: 'Abyss Depths', url: '/dungeons/depths-of-the-abyss'};
-        items[8] = { items:[], label: 'smiths-furnace', title: 'Furnace', url: '/dungeons/smiths-furnace'};
+        items[7] = { items:[], label: 'abyssal-depths', title: 'Abyss Depths', url: '/dungeons/abyssal-depths'};
+        items[8] = { items:[], label: 'smiths-forge', title: 'Smith\'s Forge', url: '/dungeons/smiths-forge'};
         items[9] = { items:[], label: 'mamel-cave', title: 'Mamel Cave', url: '/dungeons/mamel-cave'};
         items[10] = { items:[], label: 'inner-ruins', title: 'Inner Ruins', url: '/dungeons/inner-ruins'};
         items[11] = { items:[], label: 'obabas-hidden-hole', title: 'Obaba\'s Hole', url: '/dungeons/obabas-hidden-hole'};

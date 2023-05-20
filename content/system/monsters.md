@@ -4243,6 +4243,10 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
 
 ### Zagan
 
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/zagan_1.png"/><img src="../images/monsters/zagan_2.png"/>
+</div>
+
 <table class="monsterPageTable">
   <tr>
     <th>Name</th>
@@ -4265,6 +4269,10 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
 </table>
 
 ### Lord
+
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/lord.png"/>
+</div>
 
 <table class="monsterPageTable">
   <tr>
@@ -4289,6 +4297,10 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
 
 ### Curas
 
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/curas.png"/>
+</div>
+
 <table class="monsterPageTable">
   <tr>
     <th>Name</th>
@@ -4311,6 +4323,10 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
 </table>
 
 ### Evil God
+
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/evil_god.png"/>
+</div>
 
 <table class="monsterPageTable">
   <tr>
@@ -4349,6 +4365,10 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
 </table>
 
 ### Geronimamel
+
+<div class="relativeImage bossImage">
+  <img src="../images/monsters/geronimamel.png"/>
+</div>
 
 <table class="monsterPageTable">
   <tr>

@@ -4,7 +4,7 @@ metaTitle: "Jahannam's Gate - Shiren DS2: Magic Castle Wiki"
 metaDescription: "Jahannam's Gate dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
-[Introduction]
+Final dungeon of the main story which is unlocked after clearing Castle Keep.<br/>Pekeji or Oryu can be brought along if you'd like - They can also be recruited inside the dungeon.<br/>Pots and staves are found unidentified, and blessed or cursed items can be generated.<br/>Overall, the dungeon portion isn't very difficult with carry-in items, but the 2 boss fights at the end can be tricky.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -64,7 +64,7 @@ metaDescription: "Jahannam's Gate dungeon guide for Shiren the Wanderer DS2: Mag
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td></td>
+    <td class="clearIcon"><img src="../images/other/icon_jahannam.png"/></td>
     <th>Reward</th>
     <td>None</td>
   </tr>
@@ -72,19 +72,149 @@ metaDescription: "Jahannam's Gate dungeon guide for Shiren the Wanderer DS2: Mag
 
 # Strategy
 
+### General
+
+Level up at the Training Hall before entering if you want an easier time.
+
+Staves can be identified by swinging them at a monster from a distance, so save Identify Scrolls for pots.<br/>It's best to name unidentified items once you recognize their effects.
+
+Don't equip unidentified weapons and shields unless you didn't bring equipment or you come across a Strip Trap.<br/>If an item is cursed, you won't be able to unequip it unless you purify it or step on a Strip Trap.
+
+Mini Mixers can be found between 17-18F, allowing for equipment synthesis.<br/>Unlike other games in the series, Mini Mixers don't have different item category recipes for runes in this game,<br/>so you can only synthesize runes via weapons + weapons, shields + shields, or bracelets + bracelets.
+
+### Carry-In Items
+
+You don't necessarily need all of these items, but they definitely help make for a smoother run.
+
+#### Equipment
+
+A weapon and shield set that grants a resonance effect gives you a greater advantage.
+
+|Weapon|Shield|Effect|
+|-|-|-|
+|Katana|Iron Shield|Max HP +20|
+|Demon Slayer|Demon Shield|Max strength +4|
+|Beetle Axe|Beetle Shield|Max strength +3|
+
+※ Iron Shield can be purchased in Town of Ilpa.
+
+Nice bracelets to have on hand:
+
+|Bracelet|Notes|
+|-|-|
+|Scout Bracelet|Reveals the locations of characters and items.|
+|Vision Bracelet|Lets you see hidden traps and invisible monsters.|
+|Heal Bracelet|Restore 5 HP per turn, but also doubles hunger rate.|
+|Nirvana Bracelet|Stops natural fullness depletion.|
+
+※ Unequip bracelets when fighting monsters to prevent them from breaking.
+
+#### Other Items
+
+|Item|Notes|
+|-|-|
+|Revival Grass|Revives you if you collapse.|
+|Swift Grass|Bring 2~3 for the boss fights.|
+|Dragon Grass|Bring 4 for the 1st boss.|
+|Slumber Scroll<br/>Confusion Scroll|Nice for Monster Houses.|
+|Escape Scroll|Return to Town of Ilpa with your items.|
+|Decoy Staff<br/>Paralysis Staff|Useful in various situations.|
+|Storage Pot|Carry more items.|
+|Heal Pot|Insert an item to restore all of your HP.|
+|Food|Keep onigiri in Storage Pots.|
+
 # Floor Guide
 
 ### 1-9F
 
+Regular shops can be generated between 3-9F, so check every room.
+
+Enemies shouldn't be much of a threat if you brought items as suggested.<br/>If you have a Nirvana Bracelet, feel free to farm monsters for experience points until the wind blows.<br/>However, Curse Girl (3-4F) and Gazer (5-7F) can destroy items, so you might want to rush stairs on those floors.
+
+If you forgot to bring an Escape Scroll, hunt Rock Heads (6-7F) until you obtain one.
+
 ### 10-14F
 
-### 15-19F
+Specialty shops that only sell monster meat can be generated between 10-14F.<br/>Bow Boy, Pumphantasm, and Chicken meat can be useful, but none are essential, so rush stairs if you want.
 
-### 20-22F
+Curse Sister (11-14F), Daze Hermit (12-14F), and Demon Warrior (12-14F) are the only notable threats.<br/>Daze Hermit's Inaccurate status lasts for 5 turns. Use items if a Ghost Warrior levels up a different monster.
+
+### 15-22F
+
+Regular shops can be generated between 15-19F - If you see a Sturdy Bracelet, do everything you can to buy it.<br/>※ Sturdy Bracelet never breaks (under most circumstances) - Use it as a base for synthesis.
+
+Explochins (16-18F) deal damage equal to 50% of your current HP when they explode, so avoid being adjacent.<br/>If an important item gets stolen by a Bad Zalokleft (16-18F), go hunt it down to reclaim it.<br/>Gyaza (16-19F) is basically immune to most attacks other than direct attacks.
+
+Throw 2 items at a Mini Mixer (17-18F) to synthesize them. (Weapon + weapon, shield + shield, or bracelet + bracelet)<br/>※ Mini Mixer's attack power increases each time it eats an item, so use a scroll or staff to safely defeat it.
+
+Gyadon (19-21F) reduces a staff's use count to 0, but it can't peck staves inside pots.<br/>Dark Vassal (19-22F) is immune to magic bullets, and Demon Vassal (19-22F) is immune to scroll effects.<br/>Dragon (20-22F) breathes fire in a straight line which deals 30 damage - Use Mage Staff or such instead of trading hits.<br/>Overall, it's best to rush stairs between 20-22F.
 
 ### Boss 1
 
+Curas nullifies scrolls, staves, and projectiles - This significantly limits your options.<br/>The easiest strategy is to use Swift Grass → Dragon Grass x 4 → Finish with a direct attack.<br/>Otherwise, you'll probably just have to trade hits while relying on healing items.
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Curas</td>
+    <td>201</td>
+    <td>50</td>
+    <td>60</td>
+    <td>0</td>
+    <td>-</td>
+    <td>Nullifies scrolls, staves, and projectiles.<br/>Deals knockback, and can drain 25 HP from Shiren.<br/>Eaten items like Swift Grass and Dragon Grass are effective.</td>
+  </tr>
+</table>
+
 ### Boss 2
+
+This fight is usually much easier, as long as your damage output isn't very low.<br/>The main gimmick is that while Evil God doesn't attack, if you take too long to defeat it, you get an auto game over.<br/>Koppa will warn you if you're nearing the bad ending, and you kind of have to do nothing for a while to have it happen,<br/>so don't feel too pressured about it.
+
+Otherwise, the only threats are the Dark Vassals and Demon Vassals that spawn whenever you defeat a part.<br/>Remember that Dark Vassals are immune to staves, and Demon Vassals are immune to scrolls.<br/>Just keep attacking and aim straight for the blue core, and you should be fine.
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Evil God (Part A)</td>
+    <td>80</td>
+    <td>0</td>
+    <td>33</td>
+    <td>0</td>
+    <td rowspan="3">-</td>
+    <td rowspan="2">Evil God doesn't attack.<br/>Dark Vassal type monsters appear when a part is destroyed.</td>
+  </tr>
+  <tr>
+    <td>Evil God (Part B)</td>
+    <td>120</td>
+    <td>0</td>
+    <td>40</td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>Evil God (Core)</td>
+    <td>201</td>
+    <td>1</td>
+    <td>20</td>
+    <td>0</td>
+    <td>The fight ends once the core is destroyed.</td>
+  </tr>
+</table>
 
 # Monsters
 

@@ -4,7 +4,7 @@ metaTitle: "Tonfan's Hole - Shiren DS2: Magic Castle Wiki"
 metaDescription: "Tonfan's Hole dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
-[Introduction]
+Dungeon where you team up with an ally named Nfuu, who can learn monster powers by eating meat.<br/>Shiren starts with a Bufu's Cleaver, which allows the player to obtain meat by defeating enemies.<br/>Nfuu must survive until the end for the 1st clear or else the adventure immediately ends in failure.<br/>Despite this, the 1st clear isn't very difficult, since Nfuu retains learned powers between runs.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -65,7 +65,7 @@ metaDescription: "Tonfan's Hole dungeon guide for Shiren the Wanderer DS2: Magic
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td></td>
+    <td class="clearIcon"><img src="../images/other/icon_tonfan.png"/></td>
     <th>Reward</th>
     <td></td>
   </tr>
@@ -73,7 +73,133 @@ metaDescription: "Tonfan's Hole dungeon guide for Shiren the Wanderer DS2: Magic
 
 # Strategy
 
+### General
+
+#### Bufu's Cleaver
+
+The player always begins this dungeon with 1 Bufu's Cleaver and 1 Onigiri.<br/>Monster Meat can be obtained by having Shiren defeat enemies while equipped with a Bufu's Cleaver.<br/>※ Bufu's Cleaver normally has a chance to break when used, but inside this dungeon, it will never break.
+
+#### Monster Meat
+
+Monster Meat is mainly obtained by defeating monsters while equipped with a Bufu's Cleaver.
+
+Utilizing Monster Meat:
+
+- Eat
+    - Eating meat replenishes 15 fullness.
+    - Shiren transforms into the corresponding monster and can use their special power.
+- Throw
+    - Throw at an enemy to turn the enemy into the monster indicated by the meat.
+    - Throw at Nfuu to have Nfuu learn the power of the monster indicated by the meat.
+
+#### Nigiri Morph Warning
+
+Nigiri Morph's special attack makes ally characters instantly collapse in this game.<br/>If Nfuu collapses in this dungeon during a 1st clear attempt, the adventure immediately ends in failure.<br/><span class="redText">Therefore, DO NOT let Nfuu become adjacent to Nigiri Morphs (17-20F) during the 1st clear of the dungeon.</span><br/>※ Once you've cleared the dungeon one time, you can continue playing even if Nfuu collapses in subsequent runs.
+
+### Nfuu Powers
+
+See [Monster Meat](/items/monster-meat) for a complete list of powers.
+
+Nfuu can learn up to 10 powers, and the oldest power is forgotten if he learns an 11th power.<br/>If you want him to forget a specific power, throw the meat that grants that power at him a second time.<br/>Once a power is learned, Nfuu won't forget it even when returning from a dungeon.
+
+#### First Clear
+
+Nfuu's attacks are reliable early on, so avoid learning lots of powers to keep his direct attack usage rate high.
+
+|Power|Floor|Notes|
+|-|-|-|
+|Gazer|5 - 7|Inflict Afraid status.|
+|Doze Mage|7 - 9|Inflict Asleep status.|
+|Healer Rabbit|12 - 14|Restore 10 HP to Shiren.|
+|Porko|13 - 15|Throw a rock within a 5 tile radius.|
+
+#### Second Clear
+
+Some recommended sets for specialized Nfuu builds - Not all of them use all 10 slots.<br/>Having multiple powers of the same type will effectively raise that power's activation rate.<br/>Examples: Archdragon + Abyss Dragon, Ooze + Sludge, Squid Emperor + Squid Kaiser, Hawkulus + Stalkulus.
+
+##### Direct Attacker
+
+|Power|Notes|
+|-|-|
+|Great Chicken<br/>Miracle Chicken<br/>Gitan Mamel|Attack 2 times in a row.|
+|Pot Fisher<br/>Pot Giller<br/>Pot Angler<br/>Pot Piscator|Attack, defeated enemy might drop a pot.|
+|Nigiri Morph|Attack, defeated enemy might drop an Onigiri.|
+|Nigiri Boss|Attack, defeated enemy might drop a Large Onigiri.|
+|Nigiri Master|Attack, defeated enemy might drop a Huge Onigiri.|
+
+##### Ranged Attacker
+
+|Power|Notes|
+|-|-|
+|Porko|Throw a rock within a 5 tile radius.|
+|Porkon|Throw a rock within a 10 tile radius.|
+|Porgon|Throw a rock within a 15 tile radius.|
+|Sky Dragon|Spew fire (40 damage) at a target in the room.|
+|Archdragon|Spew fire (50 damage) at a target on the floor.|
+|Abyss Dragon|Spew fire (60 damage) at a target on the floor.|
+
+※ Some players prefer to skip the Porky type powers.
+
+##### Support - Choose 10 powers you'd like based on your playstyle.
+
+|Power|Notes|
+|-|-|
+|Life Rabbit|Restore 20 HP to Shiren.|
+|Squid Emperor<br/>Squid Kaiser|Blind all targets in the room.|
+|Daze Hermit|Inflicts Inaccurate status for 5 turns.|
+|Dozikon<br/>Mesmerikon|Throw Sleep Grass 3 tiles ahead.|
+|Skull Wraith|Fires a magic bullet with a random effect in a line.<br/>(Paralysis, Slow, Sealed, Level-1, Bufu, Decoy)|
+|Skull Demon|Fires a magic bullet with a random effect in a line.<br/>(Asleep, Blind, 40 damage, Bufu, Level-3)|
+|Gazer<br/>Super Gazer<br/>Hyper Gazer<br/>Ultra Gazer|Inflict Afraid status.|
+|Emperor Tusker|Fire a magic bullet. (Reduce HP to 1/4)|
+|Hawkulus<br/>Stalkulus|Inflict Confused status on all targets in the room.|
+|Doze Mage<br/>Sleep Warlock<br/>Slumber Wizard<br/>Sopor Sorcerer|Inflict Asleep status.|
+|Ooze<br/>Sludge|Reduce a target's attack and defense to 0.|
+
+##### Theft - Specialized for obtaining items.
+
+|Power|Notes|
+|-|-|
+|Jungarian<br/>Campbellan<br/>Blackbelly<br/>Roborovsky|Steals an item and places it on the ground.|
+|Tsar Tusker|An enemy hit by the magic bullet drops an item.|
+|Bad Zalokleft<br/>Gang Zalokleft<br/>Mob Zalokleft<br/>Don Zalokleft|Steals an item and warps.|
+
 # Floor Guide
+
+### 1-7F
+
+Hunting Cave Mamels (see below) near the start significantly helps with consistency, but isn't required.<br/>Throw Gazer (5-7F) meat at Nfuu to have him learn Gazer's power, which inflicts Afraid status.<br/>Throw Doze Mage (7-9F) meat at Nfuu to have him learn Doze Mage's power, which inflicts Asleep status.
+
+Pumphantasm (6-8F) can be a problem for Nfuu in hallways - Use an Absorb Pot to remove its Wall Clip ability.
+
+#### Cave Mamel Hunting
+
+1. Obtain Pit Mamel meat between 1-2F.
+2. Obtain Gazer meat on 5F.
+3. Lure 2 monsters toward you, such as near a room entrance.
+4. Turn the adjacent monster into a Pit Mamel by throwing Pit Mamel meat at it.
+5. Eat Gazer and use its power to inflict Afraid status on Pit Mamel.
+6. Wait until Pit Mamel defeats the other monster, leveling up into a Cave Mamel.
+7. Use Gazer's power again to inflict Afraid status.
+8. Safely defeat the Cave Mamel while it has Afraid status.
+
+### 8-11F
+
+Nothing very noteworthy aside from Bat Kangaroo (7-9F) granting monsters Enraged status.<br/>If you hunted Cave Mamels, you shouldn't have any issues.
+
+### 12-13F
+
+Throw Healer Rabbit (12-14F) meat at Nfuu to have him learn Healer Rabbit's power, which restores 10 HP to Shiren.<br/>You could try to learn Life Rabbit's power instead by utilizing Ghost Warrior to level up a Healer Rabbit,<br/>but it's risky due to Life Rabbit's higher attack stat.
+
+Demon Warrior (12-14F) and Ghost Warrior meats are very useful, so try to stock up if possible.<br/>You can also use an Absorb Pot on Ghost Warrior to copy its ability.
+
+### 14-16F
+
+Schubell (14-16F) can be used to farm monster meat. (Throw Poison Grass or use Sheep Priest's power for safety)<br/>You might want to be around Lv25 with a shield strength of 10+ to reduce risk even further.<br/>That said, Schubell farming should only be done when aiming for 99F - it's completely overkill for the 1st clear.
+
+### 17-20F
+
+<p><span class="redText">Nigiri Morph (17-20F) can instantly defeat Nfuu with its special attack, so don't let Nfuu become adjacent to it.</span><br/>It's best to rush stairs, especially if Nfuu lacks ranged attacks and you're still aiming for the 1st clear.</p>
 
 # Monsters
 

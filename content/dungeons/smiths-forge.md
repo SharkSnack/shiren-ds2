@@ -1,7 +1,7 @@
 ---
-title: "Smith's Furnace"
-metaTitle: "Smith's Furnace - Shiren DS2: Magic Castle Wiki"
-metaDescription: "Smith's Furnace dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
+title: "Smith's Forge"
+metaTitle: "Smith's Forge - Shiren DS2: Magic Castle Wiki"
+metaDescription: "Smith's Forge dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
 [Introduction]
@@ -65,7 +65,7 @@ metaDescription: "Smith's Furnace dungeon guide for Shiren the Wanderer DS2: Mag
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td></td>
+    <td class="clearIcon"><img src="../images/other/icon_smith.png"/></td>
     <th>Reward</th>
     <td>Helix Shield</td>
   </tr>

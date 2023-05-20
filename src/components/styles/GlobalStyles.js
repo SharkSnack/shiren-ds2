@@ -764,8 +764,11 @@ export const baseStyles = css`
     margin-bottom: 5px !important;
   }
   .bossImage img {
-    max-width: 100px;
-    max-height: 70px;
+    min-height: 65px;
+    max-height: 200px;
+    max-width: unset !important;
+    width: unset !important;
+    image-rendering: pixelated;
   }
   #monsterList td {
     text-align: center;
@@ -892,6 +895,7 @@ export const baseStyles = css`
     padding: 4px;
   }
   .clearIcon {
+    image-rendering: pixelated;
     padding: 0px;
   }
   .npcTable th {

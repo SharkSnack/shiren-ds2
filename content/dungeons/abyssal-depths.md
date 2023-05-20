@@ -1,10 +1,10 @@
 ---
-title: "Depths of the Abyss"
-metaTitle: "Depths of the Abyss - Shiren DS2: Magic Castle Wiki"
-metaDescription: "Depths of the Abyss dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
+title: "Abyssal Depths"
+metaTitle: "Abyssal Depths - Shiren DS2: Magic Castle Wiki"
+metaDescription: "Abyssal Depths dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
-[Introduction]
+Shiren DS2's version of the series favorite unidentified items post-game dungeon.<br/>The first clear only requires you to reach 30F, and then the full 99F version is unlocked.<br/>An Escape Scroll can be found on 20F, 40F, and 60F.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -65,7 +65,7 @@ metaDescription: "Depths of the Abyss dungeon guide for Shiren the Wanderer DS2:
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td></td>
+    <td class="clearIcon"><img src="../images/other/icon_abyss.png"/></td>
     <th>Reward</th>
     <td>Wanderer's Mark</td>
   </tr>
@@ -75,7 +75,27 @@ metaDescription: "Depths of the Abyss dungeon guide for Shiren the Wanderer DS2:
 
 # Strategy
 
+### General
+
+#### Blank Scroll
+
+#### Wily Tanuki
+
+#### Pitcher Plant
+
+### Items
+
+#### Weapon
+
+#### Shield
+
+#### Bracelets
+
+#### Other Items
+
 # Floor Guide
+
+
 
 # Monsters
 

@@ -4,6 +4,10 @@ metaTitle: "Inner Ruins - Shiren DS2: Magic Castle Wiki"
 metaDescription: "Inner Ruins dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
+<div class="pageTopImage dungeonPageTopImage2">
+  <img src="../images/areas/inner_ruins_1.png"/><img src="../images/areas/inner_ruins_2.png"/>
+</div>
+
 [Introduction]
 
 <ul class="quickLinksUL">
@@ -65,7 +69,7 @@ metaDescription: "Inner Ruins dungeon guide for Shiren the Wanderer DS2: Magic C
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td></td>
+    <td class="clearIcon"><img src="../images/other/icon_ruins.png"/></td>
     <th>Reward</th>
     <td>Wonder Pick</td>
   </tr>

@@ -4,7 +4,9 @@ metaTitle: "Wanado Tournament - Shiren DS2: Magic Castle Wiki"
 metaDescription: "Wanado Tournament dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
-[Introduction]
+Dungeon where you utilize traps under Trapper status to progress through the dungeon.<br/>The story requires you to reach 15F within 10,000 turns, but this turn limit is pretty much a non-issue.<br/>If you're going for all Wanderer Rating entries, it's actually beneficial to aim for a higher turn count record,<br/>since you'll need to beat the 15F record a total of 15 times to unlock all entries.
+
+Once you clear the dungeon for the first time, you'll be rewarded with a Fiery Fuuma.<br/><span class="danger">※ This weapon can only be obtained 1 time per save file, so don't lose it!</span>
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -65,15 +67,99 @@ metaDescription: "Wanado Tournament dungeon guide for Shiren the Wanderer DS2: M
   </tr>
   <tr>
     <th>Clear Icon</th>
-    <td></td>
+    <td class="clearIcon"><img src="../images/other/icon_wanado.png"/></td>
     <th>Reward</th>
-    <td></td>
+    <td>Fiery Fuuma (1st clear)</td>
   </tr>
 </table>
 
 # Strategy
 
+### Trapper Status
+
+#### General Information
+
+- All traps are visible, and Shiren picks traps up instead of activating them when stepped on.
+- A monster stepping on a trap activates the trap, unless the monster has floating type movement.
+- Traps you pick up can be set underfoot or 1 tile forward. (Doesn't end your turn)
+- Thrown traps will become set where they land.
+- A trap thrown at a monster will inflict the trap's effect on that monster and then vanish.
+    - This also works on monsters with floating type movement.
+- Once a trap is set, it can't be picked up again.
+- Set traps have a chance to break when activated.
+
+#### Useful Traps
+
+See [Traps](/system/traps) for details.
+
+##### Best
+
+|Trap|Notes|
+|-|-|
+|Sleep|Inflicts Asleep status for 5 turns.|
+|Spin|Inflicts Confused status for 10 turns.|
+|Rust|Reduces defense to 0.|
+|Spoil<br/>Hunger|One-shots any monster except for floating types.|
+|Landmine<br/>Big Landmine|One-shots any monster, explosion covers a 1 tile radius.|
+|Pit|Step on it yourself to advance to the next floor.|
+
+##### Decent
+
+|Trap|Notes|
+|-|-|
+|Slow|Reduces action speed by 1 stage for 10 turns.|
+|Rockfall|Deals 20 damage.|
+|Bind|Prevents movement for 5 turns.|
+|Poison Arrow|Reduces attack power by 50%.|
+|Log|Log flies from the right side, deals 5 tiles of knockback.|
+|Spring|Warp to a different spot on the current floor.|
+
+#### Experience Points
+
+- Defeating monsters without using traps only grants 1 experience point.
+- Trapping a monster adds a trigger counter to that monster, which multiplies experience points.
+    - Experience points = Normal amount x Number of times the monster has been trapped.
+- Throwing a trap at a monster also increases the trigger count.
+- Trigger count decreases by 1 every time the monster takes 1 step without activating a trap.
+- Current multiplier is indicated by a number below the monster.
+- Max multiplier is 20, and the monster can no longer be trapped once this limit is reached.
+- Traps that instantly defeat monsters provide 0 experience points.
+
 # Floor Guide
+
+### 1-2F
+
+Unequip the Trapper Bracelet until you have some traps to avoid the experience points penalty early on.<br/>Level up a bit by hunting Teaser Monkey (12 HP, 10 Exp) on 2F using traps in hallways.
+
+Pit Traps can be generated on these floors, so read any Trap Scrolls you find.<br/>If you're lucky, you'll find enough Pit Traps to skip most of the dungeon for the 1st clear.
+
+### 3F
+
+Shady Wisp (14 HP) is a floating type, so traps on the ground won't activate when it moves on top of them.<br/>Thrown traps will still trigger against floating types, but the trap vanishes afterward, and the throw can also miss.
+
+If you're feeling adventurous, create a Lv2 Crash Boar (64 HP, 800 Exp) and chain it to x20 for 16,000 exp.<br/>The safest method is to have Impact Boar step on a Rage Trap, then have it defeat an enemy using knockback damage.<br/>However, you'll drop items including traps when tripped, so you'll want to set traps before leveling it up.<br/>Log Traps in hallways are particularly good for raising its experience points multiplier.
+
+### 4-5F
+
+Death Reaper (17 HP) is a floating type that moves at double speed, so you may struggle if you haven't leveled up.
+
+If you have Spin and Summon traps, create a Lv2 Dagyagan (84 HP, 3000 Exp) and chain it to x20 for 60,000 exp.<br/>It has high stats but lacks a special attack, so 4 Poison Arrow Trap activations should make it mostly harmless.
+
+### 6-11F
+
+Pumphantasm (30 HP) is another floating type to watch out for between 6-8F.
+
+If you have a Heal Pot, you could try creating a Lv3 Bear Borg (85 HP, 3600 Exp) between 7-9F.<br/>That said, Doze Mage and Gazer can both easily ruin your plans, so it's not recommended at all.
+
+### 12F
+
+Demon Warrior and Floor Dragon overlap, making this an ideal floor to level up.<br/>Lv2 Dragon Head (100 HP, 3750 Exp) provides a whopping 75,000 exp at a x20 trap chain multiplier.<br/>Lv2 Worth Goggler (66 HP, 2000 Exp) is an easier target, if you're running low on traps.
+
+If you're aiming for the 2nd clear, it's ideal to reach Lv40 or so at this point.
+
+### 13-15F
+
+None of the monsters in this range should pose a threat if you leveled up as recommended.
 
 # Monsters
 

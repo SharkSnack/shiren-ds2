@@ -74,7 +74,8 @@ Third dungeon of the game which is unlocked after clearing Castle Tower.<br/>Sta
 
 This dungeon is a bit tough, so bring equipment with 12 or so power if you want to be safe.<br/>Level up at the Training Hall before entering if you want an easier time.
 
-Linger and hunt Dragon Guards (7-10F) if you want to collect some Escape Scrolls for later.
+Linger and hunt Dragon Guards (7-10F) if you want to collect some Escape Scrolls for later.<br/>
+Synthesis Pot can be found starting from this dungeon.
 
 # Floor Guide
 
@@ -96,11 +97,11 @@ Sip Leech (10-11F) can lower your strength by 1, which reduces the amount of dam
 
 ### 12-18F
 
-Daze Hermit (12-14F) inflicts Inaccurate status on Shiren, making his attacks miss for a while.
+Daze Hermit (12-14F) inflicts Inaccurate status on Shiren, making his attacks miss for 5 turns.
 
 Demon Warrior (12-14F) turns into Ghost Warrior when defeated, who then levels up a different monster.<br/>If this results in a Lv2 Hannya Warrior, immediately rush to the stairs instead of trying to fight it.<br/>※ Hannya Warrior reflects direct attacks, so projectiles or items must be used.
 
-King Tusker (15-17F) inflicts Muzzled status, which prevents usage of "Eat" and "Read" commands.
+King Tusker (15-17F) inflicts Muzzled status, which prevents usage of "Eat" and "Read" commands.<br/>This lasts for the duration of the floor, so consider eating onigiri earlier if fullness is getting low.
 
 ### Boss
 
