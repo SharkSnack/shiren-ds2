@@ -30,6 +30,7 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[0] = { items:[], label: 'blank-scroll-guide', title: 'Blank Scroll', url: '/guides/blank-scroll-guide'};
         items[1] = { items:[], label: 'identifying-items', title: 'Identification', url: '/guides/identifying-items'};
         items[2] = { items:[], label: 'tips-and-tricks', title: 'Tips & Tricks', url: '/guides/tips-and-tricks'};
+        items[3] = { items:[], label: 'rescue-passwords', title: 'Passwords', url: '/guides/rescue-passwords'};
         break;
       case 'bracelets': // items
         items[0] = { items:[], label: 'price-chart', title: 'Price Chart', url: '/items/price-chart'};
@@ -50,7 +51,9 @@ const TreeNode = ({ className = '', setCollapsed, collapsed, url, title, items, 
         items[2] = { items:[], label: 'monsters', title: 'Monsters', url: '/system/monsters'};
         items[3] = { items:[], label: 'traps', title: 'Traps', url: '/system/traps'};
         items[4] = { items:[], label: 'allies', title: 'Allies', url: '/system/allies'};
-        items[5] = { items:[], label: 'adventure-footprints', title: 'Footprints', url: '/system/adventure-footprints'};
+        items[5] = { items:[], label: 'status-conditions', title: 'Status', url: '/system/status-conditions'};
+        items[6] = { items:[], label: 'training-facility', title: 'Training', url: '/system/training-facility'};
+        items[7] = { items:[], label: 'adventure-footprints', title: 'Footprints', url: '/system/adventure-footprints'};
         break;
       case 'abyssal-depths': // dungeons
         items[0] = { items:[], label: 'ancient-ruins', title: 'Ancient Ruins', url: '/dungeons/ancient-ruins'};

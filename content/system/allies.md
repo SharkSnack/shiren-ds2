@@ -205,7 +205,7 @@ Dog-like creature who has a tendancy to end sentences with "fu" at times.<br/>In
 #### Characteristics
 
 - High attack and defense from the start.
-- Learns up 10 powers by eating thrown monster meat.
+- Learns up to 10 powers by eating thrown monster meat.
     - If he learns an 11th power, the oldest power in the list is overwritten.
 - Throw the same meat at him a second time to have him forget that power.
     - Example: Throw Gazer → Learn Gazer power → Throw Gazer → Forget Gazer power.

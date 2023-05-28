@@ -77,25 +77,412 @@ Shiren DS2's version of the series favorite unidentified items post-game dungeon
 
 ### General
 
+Read through the [Tips and Tricks](/guides/tips-and-tricks) page to gain some general knowledge related to this game.<br/>The [Identification](/guides/identifying-items) page will teach you how to identify items.
+
 #### Blank Scroll
+
+Blank Scroll is an item that lets you write the name of any scroll you've read in the past.<br/>It's recommended to read the following scrolls prior to attempting this dungeon if possible:
+
+<table>
+  <thead>
+    <tr>
+      <th>Tier</th>
+      <th>Scroll</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>S</td>
+      <td>Extinction, Explosion</td>
+    </tr>
+    <tr>
+      <td>A</td>
+      <td>Pot God, Plating, Heaven, Earth</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>Sanctuary, Navigation, Confusion, Purify</td>
+    </tr>
+  </tbody>
+</table>
 
 #### Wily Tanuki
 
+See [Wily Tanuki](/guides/tips-and-tricks#wily-tanuki) to learn how to deal with disguised Wily Tanukis.
+
+- Wily Tanuki - 4-9F
+- Tricky Tanuki - 47-56F
+- Crafty Tanuki - 77-88F
+
 #### Pitcher Plant
+
+Pitcher Plant monsters have an ability where items they eat get modified in various ways based on their level.<br/>Upgrade Plant doesn't spawn naturally, so you'll need to save a Happy Staff for Blessing Plant floors.<br/>It's best to save an Absorb Pot to make the most out of any Upgrade Plants you create.
+
+- Lv1 Pitcher Plant (6-9F) - Transforms the item into a grass item.
+- Lv2 Identify Plant (50-52F) - Identifies the item.
+- Lv3 Blessing Plant (31-35F and 50-52F) - Blesses the item.
+- Lv4 Upgrade Plant (Doesn't spawn naturally) - Upgrades the item.
+    - Weapon or Shield - Upgrade value +5.
+    - Bracelet - Repairs the bracelet if it's cracked.
+    - Staff - Remaining use count +5.
+    - Pot - Capacity increases to 5.
+    - Scroll - Turns the scroll into a Blank Scroll.
+    - Onigiri - The onigiri item gets bigger.
+    - Spoiled Onigiri - Turns the item into a Huge Onigiri.
+    - Arrow - Arrow count +5.
 
 ### Items
 
 #### Weapon
 
+##### Main Weapon
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Atk</th>
+      <th>Max</th>
+      <th>Slot</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Kabura's Blade</td>
+      <td class="centeredText">18</td>
+      <td class="centeredText">50</td>
+      <td class="centeredText">2</td>
+      <td>Few rune slots, but strong resonance if you can activate it.<br/><span class="greenText">Kabura's Guard</span>: Attack damage +5.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Fuuma Katana</td>
+      <td class="centeredText">15</td>
+      <td class="centeredText">30</td>
+      <td class="centeredText">3</td>
+      <td>Higher base attack, but lower upgrade limit and rune slots.<br/><span class="greenText">Fuuma Shield</span>: Max strength +5.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Demon Slayer</td>
+      <td class="centeredText">13</td>
+      <td class="centeredText">35</td>
+      <td class="centeredText">4</td>
+      <td>Likely your best choice unless you get lucky with resonance.<br/><span class="greenText">Demon Shield</span>: Max strength +4.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Katana</td>
+      <td class="centeredText">9</td>
+      <td class="centeredText">30</td>
+      <td class="centeredText">5</td>
+      <td>Low base attack, but lots of rune slots and nice resonance.<br/><span class="greenText">Iron Shield</span>: Max HP +20.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Beetle Axe</td>
+      <td class="centeredText">12</td>
+      <td class="centeredText">30</td>
+      <td class="centeredText">4</td>
+      <td>Slightly weaker Demon Slayer, basically.<br/><span class="greenText">Beetle Shield</span>: Max strength +3.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Dotanuki</td>
+      <td class="centeredText">12</td>
+      <td class="centeredText">40</td>
+      <td class="centeredText">3</td>
+      <td>Higher upgrade limit, but lower rune slot count.<br/><span class="greenText">Diet Shield</span>: Attack and defense +3.</td>
+    </tr>
+  </tbody>
+</table>
+
+##### Runes
+
+Aim to synthesize any type-effective weapons you find, and also keep an eye out for Spark Sword (shop-exclusive).<br/><span class="highlightYellow">Priority</span>: Spark Sword = Cyclops Killer = Sky Splitter &ge; Ghost Sickle &gt; Dragon Killer &gt;&gt; Drain Buster &gt;&gt; Crescent Arm<br/>※ Ghost and Floating types often overlap, so some players prefer to synthesize only 1 of those 2 runes.
+
+- Spark Sword - Critical hit after 2 missed attacks.
+    - Critical hit is effective against Spry Hermit.
+- Cyclops Killer - Deal more damage to <span class="orangeText">Cyclops</span> types.
+    - Gazer, Ironhead, Sip Leech, Doze Mage, Explochin, Scurry Egg.
+- Sky Splitter - Deal more damage to <span class="orangeText">Floating</span> types.
+    - Pumphantasm, Death Reaper, Skull Mage, Ether Devil, Shady Wisp, Cell Armor, Gyadon, Zen Guru, Alert Fly.
+- Ghost Sickle - Deal more damage to <span class="orangeText">Ghost</span> types.
+    - Pumphantasm, Death Reaper, Skull Mage, Ether Devil, Shady Wisp, Ghost Warrior, Vampire Baron, Dark Vassal.
+- Dragon Killer - Deal more damage to <span class="orangeText">Dragon</span> types.
+    - Dragon, Floor Dragon, Dagyan, Glare Snake.
+- Drain Buster - Deal more damage to <span class="orangeText">Drain</span> types.
+    - Twisty Hani, Sip Leech, Slime, Fog Hermit, Sheep Priest, Lamp Puffer.
+- Crescent Arm - Deal more damage to <span class="orangeText">Bomb</span> types.
+    - Pop Tank, Wolf Droid, Explochin.
+
 #### Shield
 
-#### Bracelets
+##### Main Shield
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Def</th>
+      <th>Max</th>
+      <th>Slot</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Kabura's Guard</td>
+      <td class="centeredText">20</td>
+      <td class="centeredText">35</td>
+      <td class="centeredText">4</td>
+      <td>Best shield in the dungeon, no contest.<br/><span class="greenText">Kabura's Blade</span>: Attack damage +5.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Fuuma Shield</td>
+      <td class="centeredText">16</td>
+      <td class="centeredText">30</td>
+      <td class="centeredText">2</td>
+      <td>High defense and upgrade limit, but few rune slots.<br/><span class="greenText">Fuuma Katana</span>: Max strength +5.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Iron Shield</td>
+      <td class="centeredText">9</td>
+      <td class="centeredText">35</td>
+      <td class="centeredText">5</td>
+      <td>Low base defense, but high upgrade limit and rune slots.<br/><span class="greenText">Katana</span>: Max HP +20</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Beetle Shield</td>
+      <td class="centeredText">13</td>
+      <td class="centeredText">15</td>
+      <td class="centeredText">6</td>
+      <td>Good defense and rune slot count, but low upgrade limit.<br/><span class="greenText">Beetle Axe</span>: Max strength +3.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Demon Shield</td>
+      <td class="centeredText">14</td>
+      <td class="centeredText">10</td>
+      <td class="centeredText">2</td>
+      <td>Good defense, but very low upgrade limit and rune slots.<br/><span class="greenText">Demon Slayer</span>: Max strength +4.</td>
+    </tr>
+  </tbody>
+</table>
+
+##### Runes
+
+Aim to synthesize any shields with useful runes you find from the following list.<br/><span class="highlightYellow">Priority</span>: Power Shield &gt;&gt; Blast Shield = Holy Shield &gt; Dragon Shield = Diet Shield &gt; Counter Shield &gt; Wood Shield
+
+- Power Shield - Increases your attack power.
+    - Makes a significant difference in the amount of damage you deal as you progress.
+- Blast Shield - Reduces explosion damage.
+    - Useful against both Bomb type monsters and landmines.
+- Holy Shield - Prevents your items from getting cursed.
+    - Useful against both Curse Girls and Curse Traps.
+- Dragon Shield - Reduces fire damage.
+    - Not necessary if Sky Dragons are extinct.
+- Diet Shield - 1/2 hunger rate (20 turns to deplete 1 fullness).
+    - Significantly alleviates hunger concerns.
+- Counter Shield - Reflects a portion of damage received back at an enemy.
+    - Unlike GB2, Shiren won't face toward invisible monsters who attack, so it's a lower priority.
+- Wood Shield - The shield will never rust.
+    - It's usually better to use a Plating Scroll instead of synthesizing this.
+
+#### Bracelet
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Slot</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Scout Bracelet</td>
+      <td class="centeredText">2</td>
+      <td>Reveals the locations of characters and items.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Vision Bracelet</td>
+      <td class="centeredText">3</td>
+      <td>Lets you see hidden traps and invisible monsters.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Heal Bracelet</td>
+      <td class="centeredText">2</td>
+      <td>Restore 5 HP per turn, but also doubles hunger rate.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Nirvana Bracelet</td>
+      <td class="centeredText">3</td>
+      <td>Stops natural fullness depletion.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Strider Bracelet</td>
+      <td class="centeredText">2</td>
+      <td>Lets you walk on water tiles.</td>
+    </tr>
+  </tbody>
+</table>
+
+##### Synthesis
+
+1. Nirvana Bracelet + Heal Bracelet
+2. Strider Bracelet + Vision Bracelet + Scout Bracelet
 
 #### Other Items
 
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Plating Scroll</td>
+      <td>Makes a weapon or shield rustproof, or repairs a cracked bracelet.<br/>Bless it before reading it so that it doesn't get consumed.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Earth Scroll</td>
+      <td>Increases upgrade value of your equipped shield by 1. (+3 if lucky)<br/>Bless it before reading it so that it doesn't get consumed.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Happy Staff</td>
+      <td>Increases a target's level by 1.<br/>Use it to level up early game, or create Blessing Plants or Upgrade Plants.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Decoy Staff</td>
+      <td>Inflicts Decoy status. (Can be used as a pseudo Happy Staff)</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Blessing Pot</td>
+      <td>Blesses inserted items. (Cracked bracelets will also be repaired)<br/>Insert Sight Grass, Earth Scroll, Plating Scroll, etc.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Heal Pot</td>
+      <td>Insert an item to restore all of your HP. (The inserted item is lost)<br/>One of the few ways to deal with ranged attackers like Porkon.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Synthesis Pot</td>
+      <td>Synthesizes inserted weapons, shields, bracelets, or staves.<br/>Mini Mixer first appears on 27F, so you need this for early game synthesis.</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Sight Grass</td>
+      <td>Lets you see hidden traps and invisible monsters.<br/>Grants Identifier status when blessed.</td>
+    </tr>
+  </tbody>
+</table>
+
 # Floor Guide
 
+### General
 
+If you only pick up items and defeat enemies you encounter on the way to the stairs, you'll likely struggle from \~20F.<br/>Therefore, you'll want to utilize key monsters and certain techniques to prepare for stronger enemies.
+
+Early game level up targets, if you find a Happy Staff or Decoy Staff:
+
+- Mamel (1-2F) → Pit Mamel (1-2F) → Cave Mamel (1900 exp) - Knockback Staff, Gitan
+- Teaser Monkey (2-3F) → Derider Monkey (1250 exp) - Defeat it in a hallway
+- Dark Slasher (12-14F) → Sneaky Slasher → Shadow Slasher (1800 exp) - Shoot arrows
+- Vampire Baron (13-16F) → Vampire Duke → Vampire Tyrant (4600 exp) - Throw Otogiriso
+- Pumphantasm (6-8F) → Pumphantom (17F) → Pumpanshee (3400 exp) - Throw Otogiriso
+- Nigiri Morph (17-20F) → Nigiri Boss → Nigiri Master (2600 exp) - Throw any onigiri
+
+### 1-2F
+
+Pit Mamel (1-2F), Baby Mage (1-2F), Teaser Monkey (2-3F), etc.
+
+Explore every room and collect items before advancing to the next floor.<br/>In terms of Shiren's level, try to maintain "current floor + 2" for a while - so reach Lv3 before advancing to 2F.<br/>If you find a Decoy Staff or Happy Staff, use it to hunt a Cave Mamel and level up.
+
+### 3-4F
+
+Curse Girl (3-4F), Impact Boar (3-4F), Fog Hermit (3-4F), <span class="redText">Wily Tanuki</span> (4-9F), Death Reaper (4-5F), etc.
+
+Go ahead and use items to progress identification instead of waiting for Identify Scrolls.
+
+Fight Impact Boars with your back against a wall to avoid dropping items from being tripped.<br/>Use arrows against Curse Girls if you found some, but otherwise be prepared to have some items get cursed.<br/>※ Purify Scroll purifies all items in your inventory in DS2, so it's not as bad as it might seem.
+
+Wily Tanuki has 20 attack which is very high for 4F, so you really don't want to get hit by a surprise attack.<br/>Either wait to use new items until the next floor, or position Shiren so there's a water tile above him.<br/>※ When there's a water tile above Shiren, a revealed Wily Tanuki will warp to a different room.
+
+### 5-9F
+
+<p><span class="redText">Wily Tanuki</span> (4-9F), Gazer (5-7F), Pumphantasm (6-8F), Wolf Droid (7-9F), <span class="blueText">Pitcher Plant</span> (6-9F), Bat Kangaroo (8-10F), etc.</p>
+
+Shops and Monster Houses have a chance to be generated starting from 6F.
+
+Gazers have a lower special attack usage rate than in DS1, but can still be a menace with forced item usage.<br/>Wolf Droid's bomb toss deals damage in a 1 tile radius, so be careful not to let it defeat other monsters and level up.<br/>Bat Kangaroo grants Enraged status to other monsters - Listen for a sound effect to see if one has spawned.
+
+Throw unneeded items (ex: cursed items) or arrows at Pitcher Plants to transform them into grass items.<br/>Sight Grass can be blessed later on to gain Identifier status, so keep 1 on hand if possible.<br/>Don't eat Otogiriso to raise max HP - It can be thrown at Vampire Tyrant for 4600 exp between 13-14F,<br/>and it's also useful as a healing item for upcoming Porko floors.
+
+### 10-11F
+
+Ether Devil (10-11F), Pot Fisher (10-14F), Crossbow Boy (10-11F), Floor Dragon (10-11F), etc.
+
+Monsters have higher average attack power than previous floors, so you might start to struggle with weaker equipment.<br/>A defense value around Fuuma Shield (16) or so makes it much easier to explore these floors.
+
+Ether Devils are invisible unless you use Sight Grass or equip a Vision Bracelet.<br/>Therefore, if your HP gets low, it's best to use a healing item instead of stepping in place.
+
+### 12-14F
+
+<p>Demon Warrior (12-14F), Dark Slasher (12-14F), <span class="redText">Porko</span> (12-15F), Vampire Baron (13-16F), Schubell (13-17F), etc.</p>
+
+Porko (60 HP, 15 atk, 18 def) throws rocks within a 5 tile radius, making it quite dangerous without healing items.<br/>Don't hesitate to use items like Heal Pot or Otogiriso if your HP gets low.<br/>※ Unlike later games, rocks don't deal fixed damage in DS2.
+
+Demon Warrior turns into Ghost Warrior when defeated, who then tries to level up a different monster.<br/>This is very bad if it results in a Porkon, but can be used to hunt a Shadow Slasher or Vampire Tyrant for lots of exp.<br/>※ You'll likely need a Paralysis or Transient staff if you want to hunt a Vampire Tyrant.
+
+Shadow Slasher (1800 exp) - Shoot arrows to safely defeat it from a distance.<br/>Vampire Tyrant (4600 exp) - It's a Ghost type, so throw Otogiriso to one-shot it.
+
+If a Demon Warrior levels up into a Hannya Warrior, you'll need to use items to deal with it.<br/>Hannya Warrior (and Ghost Hannya) reflect direct attacks, so <span class="redText">never use direct attacks</span> against it.<br/>※ Use items like Gitan, Herb, or Knockback Staff to one-shot Ghost Warrior if there's risk of a level up.
+
+### 15-16F
+
+<p><span class="redText">Porko</span> (12-15F), Schubell (13-17F), Trap Chunin (15-18F), Lobber Beetle (15-18F), Captain Ant (15-19F), etc.</p>
+
+Porko is still around on 15F, but otherwise nothing should be too threatening if you leveled up.<br/>Lure Trap Chunin onto an item before defeating it if you want to avoid its trap.<br/>Lobber Beetle can throw Shiren or other creatures, and has a 5 tile throwing range.
+
+### 17-20F
+
+Nigiri Morph (17-20F), Dark Vassal (18-20F), Demon Vassal (18-20F), Gyadon (19-22F), Campbellan (20-24F), etc.
+
+Nigiri Morph can turn an inventory item into a Large Onigiri, which is nice if you're low on food.<br/>However, it has higher stats (50 HP, 40 atk, 30 def), so it's not really practical to utilize it to stock up on onigiri.<br/>If you have important items like Storage Pots, use arrows or staves (ex: Mage Staff) to avoid its special attack.<br/>Keeping your inventory full by removing items from pots reduces risk as well.
+
+Gyadon can peck staves that aren't in pots, which reduces remaining use count to 0, so keep staves in pots.<br/>Campbellan can steal an inventory item and toss it behind itself, which causes pots to shatter.<br/>Scold Hermit (17-19F) can inflict Asleep status when adjacent, so beware if other enemies are nearby.
+
+Dark Vassal is immune to staff magic, and Demon Vassal is immune to scrolls (Bomber Scroll is effective).
+
+### 21-24F
+
+Gyadon (19-22F), Goat Pastor (19-24F), Campbellan (20-24F), <span class="redText">Dragon</span> (21-24F), Grime (22-27F), etc.
+
+Dragons (70 HP, 37 atk, 38 def) are a major threat on these floors - recommended to rush stairs.<br/>They can spew flames that deal 30 damage in a straight line, so avoid lining up with them from a distance.<br/>Use items to give yourself an advantage, or you likely won't make it past these floors.
+
+Grime can lower the upgrade value of a weapon or shield by 2 if the item isn't plated.<br/>Goat Pastor's spell halves your attack power for a while, making it harder to quickly defeat enemies.<br/>Gyadon and Campbellan are still around as well, so there's no reason to linger on these floors.
+
+### 25-30F
+
+Grime (22-27F), Slurp Leech (25-30F), Lantern Puffer (25-30F), <span class="blueText">Mini Mixer</span> (27-30F), Super Gazer (28-33F), etc.
+
+Lots of Drain types with special attacks that lower your stats - Equip a No Drain Bracelet if you have one.<br/>Lantern Puffers reduce fullness by 30 when adjacent, but are always asleep when they're generated.<br/>Slurp Leeches reduce strength by 2 when adjacent - Save Antidote Grass until 31F.<br/>Haze Hermits (25-30F) casts a HP draining spell from a distance if you're lined up.
+
+Mini Mixers (62 HP, 30 atk, 35 def) provide a chance to synthesize items without a Synthesis Pot.<br/>Their attack power increases when they eat items, so use items to ensure safety when synthesizing your shield.<br/>※ If you're aiming for the 1st clear, it's fine to skip synthesis here since you're so close to the goal.
+
+### 31-35F
+
+### 36-40F
+
+### 41-49F
+
+### 50-52F
+
+### 53-59F
+
+### 60-66F
+
+### 67-89F
+
+### 90-98F
+
+### 99F
 
 # Monsters
 

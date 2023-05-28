@@ -4,7 +4,7 @@ metaTitle: "Smith's Forge - Shiren DS2: Magic Castle Wiki"
 metaDescription: "Smith's Forge dungeon guide for Shiren the Wanderer DS2: Magic Castle of the Desert."
 ---
 
-[Introduction]
+Strong monsters appear from 1F, so you're expected to bring powerful items to have a chance.<br/>The monster table is full of enemies that destroy your items, so staves and scrolls are also important.<br/>Rare equipment like Prism Shield and Gold Bracelet can be found in shops on deeper floors.<br/>Overall, it's basically the Shiren DS2 version of dungeons like Sealed Room and Lost Well.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -73,7 +73,204 @@ metaDescription: "Smith's Forge dungeon guide for Shiren the Wanderer DS2: Magic
 
 # Strategy
 
+This section assumes you don't have rare items like Gold Bracelet or Bufu's Staff yet.
+
+### Equipment
+
+#### Weapon / Shield
+
+Katana + Iron Shield grants <span class="greenText">Max HP +20</span> when equipped together, which significantly helps early on.<br/>Both items have solid upgrade limits as well and are easy to obtain, so it's recommended to go with that set.<br/>※ Don't forget to plate your equipment!
+
+<table class="dungeonTable">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th>Power</th>
+      <th>Max</th>
+      <th>Slot</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="highlightGray">Katana</td>
+      <td class="centeredText">9</td>
+      <td class="centeredText">30</td>
+      <td class="centeredText">5</td>
+    </tr>
+    <tr>
+      <td class="highlightGray">Iron Shield</td>
+      <td class="centeredText">9</td>
+      <td class="centeredText">35</td>
+      <td class="centeredText">5</td>
+    </tr>
+  </tbody>
+</table>
+
+##### Weapon Runes
+
+These runes can be obtained in Jahannam's Gate aside from 貫 (Town of Ilpa) and ド (Abyssal Depths).<br/>Katana has 5 slots, so choose between ド or 竜 for the last slot.
+
+|Rune|Item|Notes|
+|-|-|-|
+|貫|Aura Spear|Attack up to 2 tiles ahead. (Pierces)|
+|ス|Spark Sword|Land a critical hit after missing 2 times.|
+|空|Sky Splitter|Deal more damage to Floating types.|
+|目|Cyclops Killer|Deal more damage to Cyclops types.|
+|竜|Dragon Killer|Deal more damage to Dragon types.|
+|ド|Drain Buster|Deal more damage to Drain types.|
+
+##### Shield Runes
+
+These runes can be obtained in Jahannam's Gate aside from 力 (Abyssal Depths).<br/>Iron Shield has 5 slots, so choose between 払 or 腹 for the last slot.
+
+|Rune|Item|Notes|
+|-|-|-|
+|力|Power Shield|Increases your attack power.|
+|ト|Walrus Shield|Your items and Gitan will never be stolen.|
+|竜|Dragon Shield|Reduces fire damage.|
+|地|Blast Shield|Reduces explosion damage.|
+|払|Holy Shield|Protects against curses.|
+|腹|Diet Shield|Fullness depletes at half speed.|
+
+#### Bracelet
+
+Use Sturdy Bracelet as a base, as it will never break unless you synthesize 避 or 会 runes.<br/>These bracelets can all be obtained in Jahannam's Gate.
+
+##### Bracelet Runes
+
+Bracelet 1: Sturdy Bracelet (Scout + Vision)
+
+|Rune|Item|Notes|
+|-|-|-|
+|見|Scout Bracelet|Reveals the locations of items and monsters.|
+|目|Vision Bracelet|Lets you see things that are normally hidden.|
+
+Bracelet 2: Sturdy Bracelet (Nirvana + Heal)
+
+|Rune|Item|Notes|
+|-|-|-|
+|悟|Nirvana Bracelet|Natural fullness depletion stops.|
+|回|Heal Bracelet|Restore 5 HP per turn, but double hunger rate.|
+
+### Other Items
+
+##### General
+
+|Item|Notes|
+|-|-|
+|Escape Scroll|Keep in a Storage Pot to protect against curses.|
+|Revival Grass|Bless it to get 2 uses out of it.|
+|Sanctuary Scroll|Nice to have against Hell Gyaza.|
+|Confusion Scroll|For Monster Houses or such.|
+|Decoy Staff|Bring multiple of these.|
+|Transient Staff|Use with a Scout Bracelet to quickly locate stairs.|
+|Paralysis Staff|Bring multiple of these.|
+|Storage Pot|Needed to bring lots of the above items.|
+|Heal Pot|Bring 3 of these, but beware of Gazer's hypnosis.|
+
+##### Blank Scroll
+
+Ideally, you'd also want to read the following scrolls beforehand and bring Blank Scrolls:
+
+|Scroll|Notes|
+|-|-|
+|Extinction|Makes a single monster vanish from the current adventure.<br/>※ Not the entire monster family.|
+|Explosion|Final weapon that defeats all monsters aside from Gyaza.|
+|Damp|Shuts down Bomb types that appear between 30~39F.|
+|Great Hall|Read before Confusion Scroll if Archdragon or Porkon spawn.|
+|Confusion|Read after Great Hall Scroll if Archdragon or Porkon spawn.|
+
+### Miscellaneous
+
+#### Allies
+
+Nfuu is pretty much the only ally worth bringing into this dungeon.<br/>Best powers include Abyss Dragon, Squid Kaiser, and Stalkulus. (See [Tonfan's Hole](/dungeons/tonfans-hole) for more ideas)
+
+#### Dojo (Town of Ilpa)
+
+It's recommended to level up at the dojo in Town of Ilpa before entering this dungeon,<br/>since 15 HP isn't much to start with against ranged attackers.
+
 # Floor Guide
+
+### 1-15F
+
+Grime (6-9F), Sip Leech (6-9F), Curse Sister (6-15F), Dragon (10-15F), Minotaur (14-15F), etc.
+
+Only Weeds and Poison Grass can be found on the ground until 10F.<br/>However, shops with Echo Shield, Spry Shield, or Upgrade Pot for sale can be generated if you're lucky.<br/>If you find an Echo Shield, consider reading an Escape Scroll and synthesizing it before continuing.
+
+Grime (6-9F) can weaken Nfuu for the duration of that floor, so keep that in mind if you brought him along.<br/>Otherwise, monsters shouldn't pose much of a threat if you synthesized the recommended runes.
+
+The strategy guide lists Minotaur's Axe as a possible drop from Minotaur, so try for it if you want.
+
+### 16-20F
+
+Grim Reaper (16-20F), Captain Ant (16-20F), Boy Tank (16-20F), Ogre Rock (19-24F)
+
+Grim Reaper has swift action speed and can pass through walls, so you're likely to get swarmed at the start.<br/>Check for incoming enemies using your bracelet, and read a staff or scroll if you're in danger.
+
+### 21-29F
+
+Cell Armor (21-24F), Monarch Tusker (21-24F), Chrome Armor (25-29F), Mini Tank (25-29F), etc.
+
+Relatively safe floor range, aside from Cell Armor types knocking your items away.<br/>Monarch Tusker's magic slows your action speed by 1 stage.
+
+### 30-39F
+
+Pop Tank (30-39F), Bear Borg (30-39F), Concusschin (30-39F), Mist Hermit (30-39F)
+
+Lots of Bomb types, but it shouldn't be too bad if you have a Blast Shield synthesized.<br/>Keep your HP topped up using a Heal Bracelet, and read Damp Scrolls if you have some on hand.<br/>Mist Hermit casts its spell from anywhere in the room, and the spell lasts 30 turns.
+
+### 40-49F
+
+Titanium Armor (40-49F), Master Chicken (40-49F), Killer Gyaza (40-49F), Chainhead (40-49F), etc.
+
+Basically power type monsters + Titanium Armor, and some monsters that steal items.<br/>There's a low chance for Snacky to spawn, which can potentially cause an accident if a power type levels up.<br/>Be careful around Titanium Armor, since you don't want to lose items.
+
+### 50-59F
+
+Slinger Beetle (50-69F), <span class="redText">Ooze</span> (50-69F), <span class="redText">Hyper Gazer</span> (50-59F), Great Chicken (50-54F), Gazelle Pope (55-69F), etc.
+
+Shops with better items like Gold Bracelet can only be generated from 60F\~, so there's no reason to linger.
+
+Unlike Shiren GB2, Slinger Beetle can't throw enemies from outside the room at you in this game.<br/>Therefore, the main threats are Ooze (erases plating and runes) and Hyper Gazer (forced item usage).<br/>Ooze (65 HP, 40 def) and Hyper Gazer (100 HP, 48 def) are both a bit tanky, so use staves to ensure safety.
+
+Great Chicken provides 4300 exp, but can be tricky to defeat without it leveling down into Chicken.<br/>Shoot an arrow first if you want to try for the experience points.
+
+### 60-69F
+
+Slinger Beetle (50-69F), <span class="redText">Ooze</span> (50-69F), <span class="redText">Devil Kangaroo</span> (60-69F), Dagyagyagan (60-69F), Sable Vassal (60-69F), etc.
+
+Devil Kangaroo <span class="redText">grants both Enraged and Swift status</span> to other monsters - It's best to rush stairs.<br/>An enraged Dagyagyagan (90 HP, 87 atk, 65 def) will deal \~40 damage to you with an upgraded Iron Shield,<br/>and may require upwards of 3 hits for you to defeat it.
+
+Enraged monsters have a 100% chance to use their special attack if they have one,<br/>so there's risk of encountering an enraged Ooze and quickly losing lots of runes if you're not careful.<br/>If you skipped synthesizing Holy Shield, be prepared to have all of your items become cursed by Curse Mom.
+
+### 70-79F
+
+Snacky (70-98F), Life Rabbit (70-98F), Megataur (70-79F), Gigahead (70-79F), etc.
+
+Much safer floor range than the previous one - Feel free to search for shops.
+
+Life Rabbit warps to other monsters and heals them, so quickly defeat any that you see.<br/>You'll likely receive 15\~20 damage or so per hit from power types, which you can heal off with a bracelet.<br/>However, consider using items if a power type defeats a Snacky and levels up.
+
+If you want, you can try to hunt Gigataurs using Snacky in hopes of obtaining a Minotaur's Axe.
+
+### 80-89F
+
+Snacky (70-98F), Life Rabbit (70-98F), <span class="redText">Sky Dragon</span> (80-98F), Hell Gyaza (80-98F), Blackbelly (80-89F)
+
+The best shops can be generated between 80-98F, so try to search for shops if you can.
+
+Sky Dragon's flame deals 40 damage (20 with Dragon Shield) from anywhere in the same room.<br/>It will likely deal \~25 damage with its direct attacks as well, and can tank 5\~6 hits without a Dragon Killer rune.<br/>Lure it into a hallway and throw Poison Grass at it to safely defeat it.
+
+If a Snacky results in an Abyss Dragon, use items like Seal Staff + Miss Staff to fully disable it.<br/>Hell Gyaza only has 65 attack, so it's not actually that big of a threat despite its ability.<br/>Blackbelly is just a cute hamster as long as you have a Walrus Shield synthesized.
+
+### 90-98F
+
+Snacky (70-98F), Life Rabbit (70-98F), <span class="redText">Sky Dragon</span> (80-98F), Hell Gyaza (80-98F)
+
+Continue searching for shops if possible.
+
+Same as the previous floor range, but Blackbelly exits the monster table.<br/>This means you're more likely to see Sky Dragons → higher chance for Archdragon or Abyss Dragon now.<br/>The goal is just ahead, so don't hesitate to use any remaining items you have on hand.
 
 # Monsters
 
@@ -91,7 +288,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th class="highlightShop">1</th>
       <th class="highlightMH"></th>
-      <td class="high">Porko</td>
+      <td class="high">Porky</td>
       <td class="high">Bow Boy</td>
       <td class="high">Crossbow Boy</td>
       <td class="high">Floor Dragon</td>
@@ -103,7 +300,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th class="highlightShop">2</th>
       <th class="highlightMH"></th>
-      <td class="high">Porko</td>
+      <td class="high">Porky</td>
       <td class="high">Bow Boy</td>
       <td class="high">Crossbow Boy</td>
       <td class="high">Floor Dragon</td>
@@ -115,7 +312,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th class="highlightShop">3</th>
       <th class="highlightMH"></th>
-      <td class="high">Porko</td>
+      <td class="high">Porky</td>
       <td class="high">Bow Boy</td>
       <td class="high">Crossbow Boy</td>
       <td class="high">Floor Dragon</td>
@@ -127,7 +324,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th class="highlightShop">4</th>
       <th class="highlightMH"></th>
-      <td class="high">Porko</td>
+      <td class="high">Porky</td>
       <td class="high">Bow Boy</td>
       <td class="high">Crossbow Boy</td>
       <td class="high">Floor Dragon</td>
@@ -139,7 +336,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th class="highlightShop">5</th>
       <th class="highlightMH"></th>
-      <td class="high">Porko</td>
+      <td class="high">Porky</td>
       <td class="high">Bow Boy</td>
       <td class="high">Crossbow Boy</td>
       <td class="high">Floor Dragon</td>

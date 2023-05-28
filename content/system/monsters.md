@@ -29,7 +29,7 @@ metaDescription: "Complete list of monsters for Shiren the Wanderer DS2: Magic C
     <td class="highlightYellow2"><a href="#schubell">Schubell</a></td>
     <td class="highlightYellow"><a href="#baby-mage">Baby Mage</a></td>
     <td class="highlightYellow2"><a href="#explochin">Explochin</a></td>
-    <td class="highlightYellow"><a href="#boy-cart">Boy Cart</a></td>
+    <td class="highlightYellow"><a href="#boy-tank">Boy Tank</a></td>
     <td class="highlightYellow2"><a href="#bad-froggo">Bad Froggo</a></td>
   </tr>
   <tr>

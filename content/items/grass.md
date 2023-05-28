@@ -40,7 +40,7 @@ metaDescription: "Complete grass details for Shiren the Wanderer DS2: Magic Cast
     </tr>
     <tr>
       <td class="priceTableName">Sight Grass</td>
-      <td class="leftText">Lets you see hidden traps and invisible monsters.</td>
+      <td class="leftText">Lets you see hidden traps and invisible monsters.<br/>Grants Identifier status when blessed.</td>
     </tr>
     <tr>
       <td class="priceTableName">Dizzy Grass</td>

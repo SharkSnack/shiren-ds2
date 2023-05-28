@@ -10,12 +10,14 @@ This page details useful techniques and general knowledge related to Shiren DS2.
   <li><a href="#basics">Basics</a></li>
   <li><a href="#tricks">Tricks</a></li>
   <li><a href="#tips-/-trivia">Tips / Trivia</a></li>
+  <li><a href="#blessing-/-curse">Blessing / Curse</a></li>
   <li><a href="#falling-items">Falling Items</a></li>
   <li><a href="#sanctuary-scroll">Sanctuary Scroll</a></li>
   <li><a href="#wily-tanuki">Wily Tanuki</a></li>
   <li><a href="#upgrade-value">Upgrade Value</a></li>
   <li><a href="#big-moai-items">Big Moai Items</a></li>
   <li><a href="#kron-items">Kron Items</a></li>
+  <li><a href="#rare-items">Rare Items</a></li>
 </ul>
 
 ## Basics
@@ -46,6 +48,11 @@ This page details useful techniques and general knowledge related to Shiren DS2.
 - If Cell Armor disarms your weapon or shield while a Pierce Bracelet is equipped, the item is permanently lost.
 - Extinction Scroll makes <span class="danger">the specific monster level</span> hit by the scroll vanish for the duration of the adventure.
     - Example: Throw Extinction Scroll at Archdragon → Dragon, Sky Dragon, and Abyss Dragon can still appear.
+- Colors used for item names mean specific things.
+    - White - Identified.
+    - Yellow - Unidentified.
+    - Red - Cursed.
+    - Green - Synthesized item, or an item with an assigned a name.
 
 ## Tricks
 
@@ -92,6 +99,48 @@ This page details useful techniques and general knowledge related to Shiren DS2.
 - Falling into a Pit Trap on the final floor of a Training Dungeon will clear the dungeon.
 - Falling into a Pit Trap on the final floor while on a rescue will only deal 5 damage.
 - Any ally you had when you collapsed will still be there if you revive via a rescue.
+
+## Blessing / Curse
+
+Items can be blessed or cursed in this game, and the effect varies depending on the item category.<br/>Blessings enhance an item's effect, and curses either make the item unusable, or unable to be unequipped.
+
+#### Blessing
+
+Throw an item at Blessing Plant monster or insert items into a Blessing Pot to bless items.<br/>For some item categories, the blessing can be lost when certain actions occur.
+
+|Category|Effect|Loss Condition|
+|-|-|-|
+|Weapon|Direct attacks deal more damage.|Use a direct attack (chance)|
+|Shield|Receive less damage.|Get hit by an attack (chance)|
+|Bracelet|Bracelet won't crack from damage.|Get hit by an attack (chance)|
+|Arrow|Arrow deals more damage.|Shoot an arrow (chance)|
+|Food|Replenish fullness to max.<br/>Max fullness increase is doubled.|None|
+|Grass|Effect is twice as strong.|None|
+|Scroll|Scroll isn't consumed when read.|Read the scroll (chance)|
+|Staff|Staff use isn't consumed when swung.|Swing the staff (chance)|
+|Pot|None.|None|
+|Meat|Transformation duration is doubled.|None|
+|Trap|Can't gain blessed status.|None|
+|Gitan|Damage dealt is equal to value.|None|
+
+#### Curse
+
+Items gain cursed status from Curse Girl monster special attacks, Curse Trap, or Curse Pot.<br/>Curses can be removed by reading a Purify Scroll, and the 払 (Holy Shield) rune blocks curses.<br/>In some cases, items you find can be cursed from the start.
+
+|Category|Effect|
+|-|-|
+|Weapon|Can't unequip.|
+|Shield|Can't unequip.|
+|Bracelet|Can't unequip.|
+|Arrow|Can't unequip or shoot.|
+|Food|Can't eat, deals 2 damage when thrown.|
+|Grass|Can't eat, deals 2 damage when thrown.|
+|Scroll|Can't read, deals 2 damage when thrown.<br/>Sanctuary Scroll has no effect when placed.|
+|Staff|Can't swing, deals 2 damage when thrown.<br/>Balance Staff won't prevent tripping.|
+|Pot|Can't insert or remove items, deals 2 damage when thrown.|
+|Meat|Can't eat, deals 2 damage when thrown.|
+|Trap|Can't gain cursed status.|
+|Gitan|Deals 2 damage when thrown.|
 
 ## Falling Items
 
@@ -141,7 +190,7 @@ Use an Absorb Pot with Blessing Plant's power to bless Pot God, Heaven, and Eart
 
 #### Upgrade Plant (Lv4)
 
-Use an Absorb Pot with Upgrade Plant's power to upgrade an item underfoot.<br/>※ Upgrade Plant - Increases capacity of a pot by 1, or equipment upgrade value by 1.
+Use an Absorb Pot with Upgrade Plant's power to upgrade an item underfoot.<br/>※ Upgrade Plant - Increases capacity of a pot to 5, or equipment upgrade value by 5.
 
 1. Use an Absorb Pot on an Upgrade Plant until the pot is full.
 2. Place a weapon or shield underfoot and open the Absorb Pot to increase upgrade value.
@@ -321,3 +370,47 @@ The first Japanese character of each of the Kron Items is part of "秘剣カブ�
 |<span class="danger">Su</span>meragi Scroll|す|Su|
 |<span class="danger">Te</span>njin Staff|て|Te|
 |<span class="danger">Gi</span>mensha Pot|ぎ|Gi|
+
+## Rare Items
+
+Locations for some of the rarer items in the game.<br/>See [Rescue Passwords](/guides/rescue-passwords) and [Training Facility](/system/training-facility) for passwords to easily obtain some of these items.
+
+##### Weapon
+
+|Item|Locations|
+|-|-|
+|Healing Sword|Training Dungeon (Reward)|
+|Fiery Fuuma|Wanado Tournament (1st Clear)|
+|Wonder Pick|Inner Ruins (Clear)|
+|Kaburasutegi|Descend stairs on Jahannam's Gate 22F with all 9 Kron items.<br/>※ Kron items must not be in pots.|
+|Mamel Sword|Mamel Cave (1st Clear, alternating reward)<br/>Smith's Forge (Shop 80F+)|
+|Homing Blade|Shiren 3 Link<br/>Rescue reward (必 rune only)|
+|Razor Wind|Shiren 3 Link<br/>Rescue reward (三 rune only)|
+
+##### Shield
+
+|Item|Locations|
+|-|-|
+|Traproid Shield|Wanado Tournament (Floor 90F+)<br/>Inner Ruins (Floor 80F+)<br/>Shiren 3 Link|
+|Walrus Shield|Jahannam's Gate (Shop 15F+)<br/>Inner Ruins (Floor 80F+)|
+|Reflect Shield|Smith's Forge (Shop 70F+)<br/>Inner Ruins (Floor 80F+)|
+|Prism Shield|Smith's Forge (Shop 80F+)<br/>Inner Ruins (Floor 80F+)<br/>Shiren 3 Link|
+|Mamel Shield|Mamel Cave (2nd Clear, alternating reward)<br/>Smith's Forge (Shop 80F+)|
+|Dodge Shield|Smith's Forge (Shop 70F+)<br/>Inner Ruins (Floor 80F+)|
+|Echo Shield|Smith's Forge (Shop 1-29F, 70F+)<br/>Inner Ruins (Floor 80F+)|
+|Helix Shield|Smith's Forge (Clear)|
+
+##### Bracelet
+
+|Item|Locations|
+|-|-|
+|Sturdy Bracelet|Jahannam's Gate (Shop 15F+)<br/>Shiren 3 Link|
+|Gold Bracelet|Smith's Forge (Shop 60-89F)<br/>Obaba's Hidden Hole (Floor, Shop)|
+|Critical Bracelet|Shiren 3 Link<br/>Rescue reward (会 rune only)|
+|Paper Bracelet|Shiren 3 Link<br/>Rescue reward (避 rune only)|
+
+##### Other
+
+|Item|Locations|
+|-|-|
+|Bufu's Staff|Tonfan's Hole (Floor 21F+)<br/>Shiren 3 Link|

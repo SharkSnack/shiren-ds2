@@ -8,7 +8,7 @@ metaDescription: "Obaba's Hidden Hole dungeon guide for Shiren the Wanderer DS2:
   <img src="../images/areas/obaba_1.png"/><img src="../images/areas/obaba_2.png"/>
 </div>
 
-[Introduction]
+Time attack dungeon where the main objective is to reach the goal within 2 hours.<br/>10 minutes gets added to your time as a penalty if you don't have at least 10,000 Gitan at the end.<br/>A timer is displayed in the lower right, and you're unable to suspend the game inside the dungeon.<br/>You're allowed to bring 1 item, but if you collapse, you won't be able to request a rescue.<br/>Overall, the idea of a time attack dungeon is novel, but carry-in items don't mesh with the design,<br/>so it ends up feeling rather forgettable instead of having a distinct flavor.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -79,7 +79,75 @@ metaDescription: "Obaba's Hidden Hole dungeon guide for Shiren the Wanderer DS2:
 
 # Strategy
 
+### General
+
+Monsters are on the stronger side in this dungeon, so you'll likely struggle if you enter without items.<br/>The carry-in limit is 1 item, but items inside a Storage Pot aren't counted, so you can actually bring 5 items.<br/>Example: Storage Pot (Weapon, Shield, Bracelet, Blank Scroll, Revival Grass)
+
+If you need to take a break, you can put the DS in sleep mode to pause the timer.
+
+### Items
+
+#### Weapon / Shield
+
+It's not worth risking irreplaceable items like Fiery Fuuma, so bring an upgraded Mamel or Katana set.<br/>You'll want a shield with 竜 (Dragon Shield), 身 (Dodge Shield), and プ (Prism Shield) runes at minimum.
+
+- 竜 - For Sky Dragon (45F, 48F), Archdragon (46F, 49F), and Abyss Dragon (47F, 50F) floors.
+- 身 - For Bored Kappa (14-16F) and Mesmerikon (47-50F) floors.
+- プ - For Nigiri Morph (19-20F), Nigiri Boss (33-34F), and Cell Armor (31-34F) floors.
+
+#### Bracelet
+
+##### Gold Bracelet (Scout + Vision + Heal + Nirvana)
+
+|Rune|Item|Notes|
+|-|-|-|
+|見|Scout Bracelet|Reveals the locations of items and monsters.|
+|目|Vision Bracelet|Lets you see things that are normally hidden.|
+|悟|Nirvana Bracelet|Natural fullness depletion stops.|
+|回|Heal Bracelet|Restore 5 HP per turn, but double hunger rate.|
+
+#### Other
+
+- Blank Scroll - Be able to write Escape Scroll, at the very least.
+- Revival Grass - Bless it so you get 2 uses out of it.
+
 # Floor Guide
+
+### 1-20F
+
+Bored Kappa (14-16F), Slurp Leech (16-18F), Bat Kangaroo (17-19F), Nigiri Morph (19-20F), etc.
+
+You shouldn't really have issues with strong equipment.
+
+### 21-30F
+
+Dragon (21-27F), Mini Mixer (27-34F), Blessing Plant (28-35F), Eagle Tengu (29-34F), Phoenix Tengu (35-39F), etc.
+
+You might be tempted to synthesize or bless items using Mini Mixer or Blessing Plant,<br/>but starting on 29F there's a chance it's a diguised Eagle Tengu or Phoenix Tengu, so don't bother.
+
+Tricky Tanuki (25-29F) is also around, so keep that in mind when you find items.
+
+### 31-40F
+
+Cell Armor (31-34F), Nigiri Boss (33-34F), Evil Kangaroo (34-35F), Crafty Tanuki (35-40F), Upgrade Plant (39-40F), etc.
+
+Still nothing too scary if you have a good set of runes synthesized.<br/>Bellthoven (36-37F) can summon up to three Lv3 monsters at a time, so use hallways.
+
+Upgrade Plants on 39F might be disguised Phoenix Tengus (35-39F), so don't throw valuable items.
+
+### 41-44F
+
+Sludge (41-44F), Devil Kangaroo (43-45F), Shopin (43-46F), Slinger Beetle (43-47F), etc.
+
+Strongly recommended to rush stairs.
+
+Devil Kangaroo can create Enraged and Swift Sludges, potentially causing significant rune loss.<br/>Shopin summons 1\~3 Lv4 monsters when adjacent, so be sure to disable it with items.<br/>Slinger Beetle can throw other monsters at Shiren, and has a throwing range of 15 tiles.
+
+### 45-50F
+
+Lv2-4 Dragons (45-50F), Lv3-4 Bat Kangaroos (43-47F), Shifty Tanuki (45-50F), Mesmerikon (47-50F), etc.
+
+Flames from Lv3-4 Dragon monsters will hit you from anywhere on the floor, so rush stairs.<br/>Mesmerikon throws Sleep Grass within 3 tiles, but should be harmless if you have Dodge Shield synthesized.<br/>Mirage Devil (48-50F) should be visible thanks to your bracelet.
 
 # Monsters
 

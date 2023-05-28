@@ -879,7 +879,7 @@ export const baseStyles = css`
     padding: 4px 8px;
   }
   .dungeonTable img {
-    width: 32px !important;
+    width: 24px !important;
     position: relative !important;
   }
   .dungeonTable th {

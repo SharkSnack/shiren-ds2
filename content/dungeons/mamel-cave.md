@@ -8,7 +8,9 @@ metaDescription: "Mamel Cave dungeon guide for Shiren the Wanderer DS2: Magic Ca
   <img src="../images/areas/mamel_cave_1.png"/><img src="../images/areas/mamel_cave_2.png"/>
 </div>
 
-[Introduction]
+Dungeon where you progress through the floors with [Borg Mamel](/system/allies#borg-mamel) as a mandatory ally.<br/>You can bring items, but if Borg Mamel collapses, you'll lose all items and won't be able to request a rescue.<br/>However, this penalty is only the case for the 1st clear - afterwards, you can continue even if Borg Mamel collapses.<br/>The boss at the end can potentially one-shot Borg Mamel, so you need to use items to ensure their safety.
+
+Overall, this dungeon has high potential for players to lose irreplaceable items like Fiery Fuuma if they're brought in,<br/>so it's strongly recommended to only bring replaceable items instead of your best items for the first clear.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -79,7 +81,178 @@ metaDescription: "Mamel Cave dungeon guide for Shiren the Wanderer DS2: Magic Ca
 
 # Strategy
 
+### Borg Mamel
+
+[Borg Mamel](/system/allies#borg-mamel) is a special ally who retains levels, but requires specific items to be thrown at it to level up.<br/>It has 75 max HP which never changes through level ups, but attack and defense increase when it levels up.<br/>That said, its stat growth rate is very slow due to having a max level of 99 - It's frankly not worth the effort.<br/>Another drawback is that Borg Mamel only uses direct attacks, and its AI rivals that of a caveman.<br/>It charges at any enemy, including Dark Slashers waiting to ambush and Pumphantasms in walls.
+
+If that doesn't sound bad, consider that if Borg Mamel collapses during the story clear (30F), your run ends.<br/>That's right - You lose all of your items, and you can't request a rescue when the brilliant thing kicks the bucket.<br/>If Borg Mamel gets thrown onto a Hunger Trap or Spoil Trap by a Lobber Beetle (15-18F), it instantly collapses.<br/>Oh, and Nigiri Morph (18-20F) can one-shot Borg Mamel with its special attack too, because why not?<br/>And the boss? How about Swift 2 action speed and 100 attack, so it can one-shot Borg Mamel.
+
+So yeah, you'll want to bring items like Invisible Staff and Explosion Scroll to try and keep Borg Mamel safe.<br/>And if you're caught in a bad situation like Borg Mamel being adjacent to a Nigiri Morph, read an Escape Scroll.<br/>You'll save more time escaping and restarting from 1F, compared to losing items and having to stock up again.<br/>(Or alternatively, just enter the dungeon without any items to minimize losses)
+
+### Equipment
+
+#### Weapon / Shield
+
+Something around Katana + Iron Shield is fine for the first clear.<br/>You're going to need support items for the boss instead of strictly relying on strong equipment.
+
+##### Weapon Runes
+
+These runes can be obtained in Jahannam's Gate aside from 貫 (Town of Ilpa).
+
+|Rune|Item|Notes|
+|-|-|-|
+|貫|Aura Spear|Attack up to 2 tiles ahead. (Pierces)|
+|仏|Ghost Sickle|Deal more damage to Ghost types.|
+|空|Sky Splitter|Deal more damage to Floating types.|
+|目|Cyclops Killer|Deal more damage to Cyclops types.|
+|竜|Dragon Killer|Deal more damage to Dragon types.|
+
+##### Shield Runes
+
+These runes can be obtained in Jahannam's Gate.
+
+|Rune|Item|Notes|
+|-|-|-|
+|ト|Walrus Shield|Your items and Gitan will never be stolen.|
+|竜|Dragon Shield|Reduces fire damage.|
+|地|Blast Shield|Reduces explosion damage.|
+|払|Holy Shield|Protects against curses.|
+|腹|Diet Shield|Fullness depletes at half speed.|
+
+#### Bracelets
+
+Sturdy Bracelet as a base is effective of course, but you might not want to risk losing it.<br/>In that case, it's fine to use a more common bracelet as a base.
+
+##### Bracelet 1 - Sturdy Bracelet (Scout + Vision)
+
+|Rune|Item|Notes|
+|-|-|-|
+|見|Scout Bracelet|Reveals the locations of items and monsters.|
+|目|Vision Bracelet|Lets you see things that are normally hidden.|
+
+##### Bracelet 2 - Sturdy Bracelet (Nirvana + Heal)
+
+|Rune|Item|Notes|
+|-|-|-|
+|悟|Nirvana Bracelet|Natural fullness depletion stops.|
+|回|Heal Bracelet|Restore 5 HP per turn, but double hunger rate.|
+
+### Other Items
+
+##### General
+
+|Item|Notes|
+|-|-|
+|Escape Scroll|Keep in a Storage Pot to protect against curses.|
+|Revival Grass|Bless it to get 2 uses out of it.|
+|Confusion Scroll|For Monster Houses or such.|
+|Decoy Staff|Bring multiple of these.|
+|Transient Staff|Use with a Scout Bracelet to quickly locate stairs.|
+|Paralysis Staff|Bring multiple of these.|
+|Storage Pot|Needed to bring lots of the above items.|
+
+##### Mamel Cave Specific
+
+|Item|Notes|
+|-|-|
+|Invisible Staff|Super important for keeping Borg Mamel safe.|
+|Swap Staff|Switch positions with Borg Mamel if needed.|
+|Explosion Scroll|Last resort for keeping Borg Mamel safe.|
+|Miss Staff<br/>Seal Staff<br/>Poison Grass|For the boss fight.<br/>Seal Staff reduces its action speed to normal.<br/>Throw Poison Grass after swinging Seal Staff.|
+
 # Floor Guide
+
+### 1-6F
+
+Baby Mage (1-2F), Curse Girl (3-4F), Impact Boar (3-4F), Gazer (5-7F), <span class="blueText">Pitcher Plant</span> (6-9F), etc.
+
+Monsters are weak, so you shouldn't really have problems.<br/>However, If you've synthesized Prism Shield, the 10 damage conversion can quickly put you in danger.<br/>So in that case, either equip a Heal Bracelet to recover HP, or let Borg Mamel fight.
+
+Consider throwing unneeded items at Pitcher Plants to obtain grass if you're attempting a no carry-in items run.<br/>If you're lucky, you might get Revival Grass, Strength Grass, Otogiriso, or Life Grass.
+
+### 7-11F
+
+Gazer (5-7F), Bat Kangaroo (7-9F), Wolf Droid (7-9F), Twisty Hani (8-12F), Ether Devil (9-11F), etc.
+
+Bat Kangaroo grants Enraged status, which boosts attack and raises special attack usage rate to 100%.<br/>This can be a problem with Gazer, Wolf Droid, and Twisty Hani in particular.
+
+Wolf Droid's bomb toss has a range of 2 tiles, and deals a fixed 10 damage (5 with Blast Shield).<br/>Twisty Hani lowers a target's level by 1, but Borg Mamel converts the effect into 2 damage instead.
+
+Equip a Vision Bracelet to check for invisible Ether Devils to avoid Borg Mamel getting hit by surprise attacks.
+
+### 12-14F
+
+Dark Slasher (12-14F), Demon Warrior (12-14F), Porko (12-15F), Schubell (13-17F), Healer Rabbit (12-15F), etc.
+
+Borg Mamel will charge at Dark Slashers, so don't bother trying to level one up using Ghost Warriors.<br/>Porko's rock throw has a range of 5 tiles, so use items to disable it from a distance if necessary.<br/>Beware of disguised Wily Tanuki (11-20F) if you're attempting a no carry-in items run.
+
+### 15-20F
+
+<p><span class="redText">Lobber Beetle</span> (15-18F), <span class="redText">Pumphantom</span> (17-19F), <span class="redText">Nigiri Morph</span> (18-20F), Sneaky Slasher (20-23F), etc.</p>
+
+Extremely dangerous floor range during the first clear due to monsters that can one-shot Borg Mamel.<br/>Use Scout Bracelet + Transient Staff to quickly locate and rush to the stairs.
+
+If Lobber Beetle throws Borg Mamel onto a Hunger or Spoil trap, Borg Mamel will instantly collapse.<br/>It has a throwing range of 5 tiles, but thankfully only throws characters onto traps that it can see,<br/>so it shouldn't be a problem if you use a Vision Bracelet to avoid stepping on traps.
+
+Pumphantom doesn't have a special attack that can one-shot Borg Mamel, but is still quite dangerous.<br/>Borg Mamel will continue to chase Pumphantom even if the monster is in a wall and can't be reached,<br/>so there's risk of Borg Mamel collapsing unless you intervene such as using an Absorb Pot to remove<br/>Pumphantom's Wall Clip ability and forcing the monster to warp elsewhere.
+
+The above two monsters are still in the realm of manageable, but the bigger concern is Nigiri Morph.<br/>Be warned - <span class="redText">Borg Mamel will instantly collapse if Nigiri Morph uses its special attack on them.</span><br/>Don't let any Nigiri Morphs become adjacent to Borg Mamel, and use items to disable them as needed.<br/>Worst case, read an Escape Scroll and start over from 1F instead of gambling on a special attack chance.
+
+### 21-24F
+
+Sneaky Slasher (20-23F), <span class="redText">Dragon</span> (21-24F), Squid King (21-26F), <span class="redText">Grime</span> (22-27F), Taur (23-24F), etc.
+
+Dragons breathe fire in a straight line, which deals 30 damage (15 with Dragon Shield).<br/>It's easy to avoid for Shiren, but Borg Mamel will move toward Dragons in a straight line if left alone.<br/>It's probably best to act with the assumption that red dots on the map in the distance are Dragons,<br/>and preemptively use items like Invisible Staff or Swap Staff to protect Borg Mamel.
+
+Grime's special attack will lower Borg Mamel's defense for the duration of the current floor.<br/>Borg Mamel's bad AI often leads to it taking hits if you're not careful, and taking more damage is never good,<br/>so try to avoid letting it become adjacent to Grime monsters.
+
+### 25-30F
+
+<p><span class="redText">Grime</span> (22-27F), Sleep Warlock (25-27F), Haze Hermit (25-30F), <span class="blueText">Mini Mixer</span> (27-30F), Super Gazer (28-33F), etc.</p>
+
+Lots of Drain types with annoying special attacks, but nothing exactly life threatening.
+
+Slurp Leech (25-30F) lowers strength by 2 when adjacent - Save Antidote Grass until 31F, or 29F for 1st clear.<br/>Lantern Puffer (25-30F) reduces fullness by 30 when adjacent, but it's always asleep when it's generated.<br/>Haze Hermit casts a HP draining spell in a straight line, which lasts 20 turns.<br/>Sleep Warlock puts an adjacent target to sleep, so use items to disable it.
+
+Mini Mixer provides a chance to synthesize items, but it's not necessary to do so for the first clear.
+
+##### First Clear - 29F
+
+Prepare Invisible Staff, Seal Staff, and Miss Staff before descending the stairs on 29F for the boss fight.<br/>Heal HP and use Antidote Grass if you have one on hand and lost strength earlier in the dungeon.
+
+### Boss
+
+Single enemy boss fight with Geronimamel.<br/>The boss only uses direct attacks, but acts 2 times per turn and has 100 attack.<br/>Geronimamel can potentially defeat Borg Mamel in a single turn, so do the following at the start:
+
+1. Swing Invisible Staff at Borg Mamel to prevent them from being targeted.
+2. Swing Miss Staff to make all of Geronimamel's attacks miss.
+3. Swing Seal Staff to reduce Geronimamel's action speed to normal.
+4. Throw Poison Grass to further reduce Geronimamel's action speed.
+
+After the above, you're pretty much free to use direct attacks until Geronimamel is defeated.<br/>※ If your attack power is low, you might need to refresh Miss Staff.
+
+<table class="monsterPageTable">
+  <tr>
+    <th>Name</th>
+    <th>HP</th>
+    <th>Atk</th>
+    <th>Def</th>
+    <th>Exp</th>
+    <th>Elem.</th>
+    <th>Notes</th>
+  </tr>
+  <tr>
+    <td>Geronimamel</td>
+    <td>500</td>
+    <td>100</td>
+    <td>45</td>
+    <td>0</td>
+    <td>Swift 2</td>
+    <td>Direct attacks only.<br/>Double speed, 2 attacks.</td>
+  </tr>
+</table>
+
+### 31-99F
 
 # Monsters
 
@@ -135,7 +308,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">3</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="low">Curse Girl</td>
+      <td class="low"><span class="item">Curse Girl</span></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -154,7 +327,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">4</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Curse Girl</td>
+      <td class="mid"><span class="item">Curse Girl</span></td>
       <td class="mid">Death Reaper</td>
       <td class="mid">Dagyan</td>
       <td class="highlightGray"></td>
@@ -181,7 +354,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="mid">Trap Genin</td>
-      <td class="mid">Gazer</td>
+      <td class="mid"><span class="item">Gazer</span></td>
       <td class="mid">Skipper Mouse</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -200,9 +373,9 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="mid">Trap Genin</td>
-      <td class="mid">Gazer</td>
+      <td class="mid"><span class="item">Gazer</span></td>
       <td class="mid">Skipper Mouse</td>
-      <td class="mid">Pitcher Plant</td>
+      <td class="mid"><span class="useful">Pitcher Plant</span></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -211,7 +384,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">7</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Bat Kangaroo</td>
+      <td class="mid"><span class="danger">Bat Kangaroo</span></td>
       <td class="mid">Bow Boy</td>
       <td class="mid">Doze Mage</td>
       <td class="highlightGray"></td>
@@ -219,9 +392,9 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="highlightGray"></td>
-      <td class="mid">Gazer</td>
+      <td class="mid"><span class="item">Gazer</span></td>
       <td class="high">Skipper Mouse</td>
-      <td class="mid">Pitcher Plant</td>
+      <td class="mid"><span class="useful">Pitcher Plant</span></td>
       <td class="low">Wolf Droid</td>
     </tr>
     <tr>
@@ -230,7 +403,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">8</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Bat Kangaroo</td>
+      <td class="mid"><span class="danger">Bat Kangaroo</span></td>
       <td class="mid">Bow Boy</td>
       <td class="mid">Doze Mage</td>
       <td class="mid">Dozy Genie</td>
@@ -240,7 +413,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="high">Skipper Mouse</td>
-      <td class="mid">Pitcher Plant</td>
+      <td class="mid"><span class="useful">Pitcher Plant</span></td>
       <td class="mid">Wolf Droid</td>
     </tr>
     <tr>
@@ -249,17 +422,17 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">9</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Bat Kangaroo</td>
+      <td class="mid"><span class="danger">Bat Kangaroo</span></td>
       <td class="mid">Bow Boy</td>
       <td class="mid">Doze Mage</td>
       <td class="mid">Dozy Genie</td>
       <td class="mid">Twisty Hani</td>
     </tr>
     <tr>
-      <td class="mid">Ether Devil</td>
+      <td class="mid"><span class="danger">Ether Devil</span></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td class="mid">Pitcher Plant</td>
+      <td class="mid"><span class="useful">Pitcher Plant</span></td>
       <td class="high">Wolf Droid</td>
     </tr>
     <tr>
@@ -269,13 +442,13 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">10</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="high">Zen Guru</td>
-      <td class="mid">Pot Fisher</td>
+      <td class="mid"><span class="item">Pot Fisher</span></td>
       <td class="highlightGray"></td>
       <td class="mid">Dozy Genie</td>
       <td class="mid">Twisty Hani</td>
     </tr>
     <tr>
-      <td class="high">Ether Devil</td>
+      <td class="high"><span class="danger">Ether Devil</span></td>
       <td class="mid">Crossbow Boy</td>
       <td class="high">Floor Dragon</td>
       <td class="high">Warabi</td>
@@ -288,13 +461,13 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">11</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="high">Zen Guru</td>
-      <td class="mid">Pot Fisher</td>
+      <td class="mid"><span class="item">Pot Fisher</span></td>
       <td class="mid">Wily Tanuki</td>
       <td class="highlightGray"></td>
       <td class="mid">Twisty Hani</td>
     </tr>
     <tr>
-      <td class="high">Ether Devil</td>
+      <td class="high"><span class="danger">Ether Devil</span></td>
       <td class="mid">Crossbow Boy</td>
       <td class="high">Floor Dragon</td>
       <td class="high">Warabi</td>
@@ -307,7 +480,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">12</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Zen Guru</td>
-      <td class="low">Pot Fisher</td>
+      <td class="low"><span class="item">Pot Fisher</span></td>
       <td class="mid">Wily Tanuki</td>
       <td class="mid">Demon Warrior</td>
       <td class="mid">Twisty Hani</td>
@@ -315,7 +488,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <td class="mid">Dark Slasher</td>
       <td class="low">Healer Rabbit</td>
-      <td class="high">Porko</td>
+      <td class="high"><span class="danger">Porko</span></td>
       <td class="highlightGray"></td>
       <td class="mid">Goggler</td>
     </tr>
@@ -326,7 +499,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">13</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Schubell</td>
-      <td class="mid">Pot Fisher</td>
+      <td class="mid"><span class="item">Pot Fisher</span></td>
       <td class="mid">Wily Tanuki</td>
       <td class="high">Demon Warrior</td>
       <td class="highlightGray"></td>
@@ -334,7 +507,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <td class="high">Dark Slasher</td>
       <td class="low">Healer Rabbit</td>
-      <td class="high">Porko</td>
+      <td class="high"><span class="danger">Porko</span></td>
       <td class="high">Vampire Baron</td>
       <td class="low">Alert Fly</td>
     </tr>
@@ -345,7 +518,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">14</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Schubell</td>
-      <td class="mid">Pot Fisher</td>
+      <td class="mid"><span class="item">Pot Fisher</span></td>
       <td class="mid">Wily Tanuki</td>
       <td class="high">Demon Warrior</td>
       <td class="highlightGray"></td>
@@ -353,7 +526,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <td class="high">Dark Slasher</td>
       <td class="low">Healer Rabbit</td>
-      <td class="high">Porko</td>
+      <td class="high"><span class="danger">Porko</span></td>
       <td class="high">Vampire Baron</td>
       <td class="low">Alert Fly</td>
     </tr>
@@ -364,7 +537,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">15</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Schubell</td>
-      <td class="high">Lobber Beetle</td>
+      <td class="high"><span class="extreme">Lobber Beetle</span></td>
       <td class="mid">Wily Tanuki</td>
       <td class="high">Trap Chunin</td>
       <td class="low">Captain Ant</td>
@@ -372,7 +545,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <td class="highlightGray"></td>
       <td class="low">Healer Rabbit</td>
-      <td class="high">Porko</td>
+      <td class="high"><span class="danger">Porko</span></td>
       <td class="high">Vampire Baron</td>
       <td class="low">Alert Fly</td>
     </tr>
@@ -383,7 +556,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">16</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Schubell</td>
-      <td class="high">Lobber Beetle</td>
+      <td class="high"><span class="extreme">Lobber Beetle</span></td>
       <td class="mid">Wily Tanuki</td>
       <td class="high">Trap Chunin</td>
       <td class="low">Captain Ant</td>
@@ -402,7 +575,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">17</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="low">Schubell</td>
-      <td class="high">Lobber Beetle</td>
+      <td class="high"><span class="extreme">Lobber Beetle</span></td>
       <td class="mid">Wily Tanuki</td>
       <td class="high">Trap Chunin</td>
       <td class="low">Captain Ant</td>
@@ -410,7 +583,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <td class="high">Nigiri Novice</td>
       <td class="high">Scold Hermit</td>
-      <td class="high">Pumphantom</td>
+      <td class="high"><span class="danger">Pumphantom</span></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -421,7 +594,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">18</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Demon Vassal</td>
-      <td class="mid">Lobber Beetle</td>
+      <td class="mid"><span class="extreme">Lobber Beetle</span></td>
       <td class="mid">Wily Tanuki</td>
       <td class="high">Trap Chunin</td>
       <td class="low">Captain Ant</td>
@@ -429,9 +602,9 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <td class="high">Leer Snake</td>
       <td class="mid">Scold Hermit</td>
-      <td class="high">Pumphantom</td>
+      <td class="high"><span class="danger">Pumphantom</span></td>
       <td class="mid">Dark Vassal</td>
-      <td class="high">Nigiri Morph</td>
+      <td class="high"><span class="extreme">Nigiri Morph</span></td>
     </tr>
     <tr>
       <th colspan="7"></th>
@@ -440,7 +613,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">19</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Demon Vassal</td>
-      <td class="mid">Gyadon</td>
+      <td class="mid"><span class="item">Gyadon</span></td>
       <td class="mid">Wily Tanuki</td>
       <td class="mid">Goat Pastor</td>
       <td class="low">Captain Ant</td>
@@ -448,9 +621,9 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <td class="high">Leer Snake</td>
       <td class="mid">Scold Hermit</td>
-      <td class="high">Pumphantom</td>
+      <td class="high"><span class="danger">Pumphantom</span></td>
       <td class="mid">Dark Vassal</td>
-      <td class="high">Nigiri Morph</td>
+      <td class="high"><span class="extreme">Nigiri Morph</span></td>
     </tr>
     <tr>
       <th colspan="7"></th>
@@ -459,17 +632,17 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">20</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Demon Vassal</td>
-      <td class="low">Gyadon</td>
+      <td class="low"><span class="item">Gyadon</span></td>
       <td class="mid">Wily Tanuki</td>
       <td class="mid">Goat Pastor</td>
       <td class="high">Sneaky Slasher</td>
     </tr>
     <tr>
       <td class="high">Leer Snake</td>
-      <td class="low">Campbellan</td>
+      <td class="low"><span class="item">Campbellan</span></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td class="high">Nigiri Morph</td>
+      <td class="high"><span class="extreme">Nigiri Morph</span></td>
     </tr>
     <tr>
       <th colspan="7"></th>
@@ -478,15 +651,15 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">21</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="highlightGray"></td>
-      <td class="low">Gyadon</td>
+      <td class="low"><span class="item">Gyadon</span></td>
       <td class="highlightGray"></td>
       <td class="mid">Goat Pastor</td>
       <td class="high">Sneaky Slasher</td>
     </tr>
     <tr>
       <td class="high">Leer Snake</td>
-      <td class="low">Campbellan</td>
-      <td class="mid">Dragon</td>
+      <td class="low"><span class="item">Campbellan</span></td>
+      <td class="mid"><span class="danger">Dragon</span></td>
       <td class="mid">Squid King</td>
       <td class="low">Bored Kappa</td>
     </tr>
@@ -496,16 +669,16 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">22</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Grime</td>
-      <td class="low">Gyadon</td>
+      <td class="mid"><span class="item">Grime</span></td>
+      <td class="low"><span class="item">Gyadon</span></td>
       <td class="highlightGray"></td>
       <td class="low">Goat Pastor</td>
       <td class="high">Sneaky Slasher</td>
     </tr>
     <tr>
       <td class="highlightGray"></td>
-      <td class="low">Campbellan</td>
-      <td class="mid">Dragon</td>
+      <td class="low"><span class="item">Campbellan</span></td>
+      <td class="mid"><span class="danger">Dragon</span></td>
       <td class="mid">Squid King</td>
       <td class="low">Bored Kappa</td>
     </tr>
@@ -515,7 +688,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">23</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Grime</td>
+      <td class="mid"><span class="item">Grime</span></td>
       <td class="mid">Taur</td>
       <td class="highlightGray"></td>
       <td class="low">Goat Pastor</td>
@@ -523,8 +696,8 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="highlightGray"></td>
-      <td class="low">Campbellan</td>
-      <td class="mid">Dragon</td>
+      <td class="low"><span class="item">Campbellan</span></td>
+      <td class="mid"><span class="danger">Dragon</span></td>
       <td class="mid">Squid King</td>
       <td class="mid">Bored Kappa</td>
     </tr>
@@ -534,7 +707,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">24</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Grime</td>
+      <td class="mid"><span class="item">Grime</span></td>
       <td class="mid">Taur</td>
       <td class="high">Haze Hermit</td>
       <td class="low">Goat Pastor</td>
@@ -542,8 +715,8 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="highlightGray"></td>
-      <td class="low">Campbellan</td>
-      <td class="mid">Dragon</td>
+      <td class="low"><span class="item">Campbellan</span></td>
+      <td class="mid"><span class="danger">Dragon</span></td>
       <td class="mid">Squid King</td>
       <td class="mid">Bored Kappa</td>
     </tr>
@@ -553,7 +726,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">25</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="high">Grime</td>
+      <td class="high"><span class="item">Grime</span></td>
       <td class="highlightGray"></td>
       <td class="high">Haze Hermit</td>
       <td class="high">Sleep Warlock</td>
@@ -572,7 +745,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">26</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="high">Grime</td>
+      <td class="high"><span class="item">Grime</span></td>
       <td class="highlightGray"></td>
       <td class="high">Haze Hermit</td>
       <td class="high">Sleep Warlock</td>
@@ -591,7 +764,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">27</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Grime</td>
+      <td class="mid"><span class="item">Grime</span></td>
       <td class="high">Takabi</td>
       <td class="mid">Haze Hermit</td>
       <td class="mid">Sleep Warlock</td>
@@ -600,7 +773,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <td class="mid">Slurp Leech</td>
       <td class="low">Snacky</td>
-      <td class="low">Mini Mixer</td>
+      <td class="low"><span class="useful">Mini Mixer</span></td>
       <td class="low">Vampire Duke</td>
       <td class="highlightGray"></td>
     </tr>
@@ -610,7 +783,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">28</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Super Gazer</td>
+      <td class="mid"><span class="item">Super Gazer</span></td>
       <td class="high">Takabi</td>
       <td class="mid">Haze Hermit</td>
       <td class="highlightGray"></td>
@@ -619,7 +792,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <td class="mid">Slurp Leech</td>
       <td class="low">Snacky</td>
-      <td class="low">Mini Mixer</td>
+      <td class="low"><span class="useful">Mini Mixer</span></td>
       <td class="low">Vampire Duke</td>
       <td class="mid">Fink Fly</td>
     </tr>
@@ -629,7 +802,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">29</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Super Gazer</td>
+      <td class="mid"><span class="item">Super Gazer</span></td>
       <td class="high">Takabi</td>
       <td class="mid">Haze Hermit</td>
       <td class="highlightGray"></td>
@@ -638,7 +811,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <td class="mid">Slurp Leech</td>
       <td class="low">Snacky</td>
-      <td class="low">Mini Mixer</td>
+      <td class="low"><span class="useful">Mini Mixer</span></td>
       <td class="low">Vampire Duke</td>
       <td class="mid">Fink Fly</td>
     </tr>
@@ -656,7 +829,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">30</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Super Gazer</td>
+      <td class="mid"><span class="item">Super Gazer</span></td>
       <td class="high">Takabi</td>
       <td class="mid">Haze Hermit</td>
       <td class="highlightGray"></td>
@@ -665,7 +838,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <td class="mid">Slurp Leech</td>
       <td class="low">Snacky</td>
-      <td class="low">Mini Mixer</td>
+      <td class="low"><span class="useful">Mini Mixer</span></td>
       <td class="low">Vampire Duke</td>
       <td class="mid">Fink Fly</td>
     </tr>
@@ -675,16 +848,16 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">31</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="high">Super Gazer</td>
+      <td class="high"><span class="item">Super Gazer</span></td>
       <td class="high">Bad Froggucci</td>
-      <td class="high">Porkon</td>
+      <td class="high"><span class="danger">Porkon</span></td>
       <td class="high">Monarch Tusker</td>
       <td class="high">Ironhead</td>
     </tr>
     <tr>
       <td class="high">Crash Boar</td>
       <td class="low">Snacky</td>
-      <td class="low">Identify Plant</td>
+      <td class="low"><span class="useful">Identify Plant</span></td>
       <td class="mid">Vampire Duke</td>
       <td class="highlightGray"></td>
     </tr>
@@ -694,16 +867,16 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">32</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="high">Super Gazer</td>
+      <td class="high"><span class="item">Super Gazer</span></td>
       <td class="high">Bad Froggucci</td>
-      <td class="high">Porkon</td>
+      <td class="high"><span class="danger">Porkon</span></td>
       <td class="high">Monarch Tusker</td>
       <td class="high">Ironhead</td>
     </tr>
     <tr>
       <td class="high">Crash Boar</td>
       <td class="low">Snacky</td>
-      <td class="low">Identify Plant</td>
+      <td class="low"><span class="useful">Identify Plant</span></td>
       <td class="mid">Vampire Duke</td>
       <td class="highlightGray"></td>
     </tr>
@@ -713,18 +886,18 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">33</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="high">Super Gazer</td>
+      <td class="high"><span class="item">Super Gazer</span></td>
       <td class="highlightGray"></td>
-      <td class="high">Porkon</td>
+      <td class="high"><span class="danger">Porkon</span></td>
       <td class="high">Monarch Tusker</td>
       <td class="high">Ironhead</td>
     </tr>
     <tr>
       <td class="high">Crash Boar</td>
       <td class="low">Falcon Tengu</td>
-      <td class="low">Identify Plant</td>
+      <td class="low"><span class="useful">Identify Plant</span></td>
       <td class="mid">Vampire Duke</td>
-      <td class="high">Gang Zalokleft</td>
+      <td class="high"><span class="item">Gang Zalokleft</span></td>
     </tr>
     <tr>
       <th colspan="7"></th>
@@ -734,14 +907,14 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="highlightGray"></td>
       <td class="mid">Bad Froggucci</td>
-      <td class="high">Evil Kangaroo</td>
+      <td class="high"><span class="danger">Evil Kangaroo</span></td>
       <td class="high">Boy Tank</td>
       <td class="high">Ironhead</td>
     </tr>
     <tr>
       <td class="high">Crash Boar</td>
       <td class="mid">Falcon Tengu</td>
-      <td class="low">Identify Plant</td>
+      <td class="low"><span class="useful">Identify Plant</span></td>
       <td class="high">Mocker Monkey</td>
       <td class="highlightGray"></td>
     </tr>
@@ -753,16 +926,16 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td class="high">Evil Kangaroo</td>
+      <td class="high"><span class="danger">Evil Kangaroo</span></td>
       <td class="high">Boy Tank</td>
       <td class="high">Ironhead</td>
     </tr>
     <tr>
       <td class="high">Crash Boar</td>
       <td class="mid">Falcon Tengu</td>
-      <td class="low">Identify Plant</td>
+      <td class="low"><span class="useful">Identify Plant</span></td>
       <td class="high">Mocker Monkey</td>
-      <td class="mid">Gang Zalokleft</td>
+      <td class="mid"><span class="item">Gang Zalokleft</span></td>
     </tr>
     <tr>
       <th colspan="7"></th>
@@ -770,14 +943,14 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">36</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="high">Bellthoven</td>
+      <td class="high"><span class="danger">Bellthoven</span></td>
       <td class="mid">Bad Froggucci</td>
-      <td class="low">Cell Armor</td>
+      <td class="low"><span class="item">Cell Armor</span></td>
       <td class="mid">Boy Tank</td>
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="mid">Porgon</td>
+      <td class="mid"><span class="extreme">Porgon</span></td>
       <td class="mid">Falcon Tengu</td>
       <td class="highlightGray"></td>
       <td class="mid">Mocker Monkey</td>
@@ -789,18 +962,18 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">37</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="high">Bellthoven</td>
+      <td class="high"><span class="danger">Bellthoven</span></td>
       <td class="highlightGray"></td>
-      <td class="low">Cell Armor</td>
+      <td class="low"><span class="item">Cell Armor</span></td>
       <td class="mid">Boy Tank</td>
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="mid">Porgon</td>
+      <td class="mid"><span class="extreme">Porgon</span></td>
       <td class="mid">Falcon Tengu</td>
       <td class="highlightGray"></td>
       <td class="mid">Mocker Monkey</td>
-      <td class="mid">Gang Zalokleft</td>
+      <td class="mid"><span class="item">Gang Zalokleft</span></td>
     </tr>
     <tr>
       <th colspan="7"></th>
@@ -810,15 +983,15 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Gyaza</td>
       <td class="highlightGray"></td>
-      <td class="low">Cell Armor</td>
+      <td class="low"><span class="item">Cell Armor</span></td>
       <td class="highlightGray"></td>
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="mid">Porgon</td>
+      <td class="mid"><span class="extreme">Porgon</span></td>
       <td class="mid">Falcon Tengu</td>
       <td class="mid">Fink Fly</td>
-      <td class="mid">Skull Wraith</td>
+      <td class="mid"><span class="extreme">Skull Wraith</span></td>
       <td class="high">Shadow Slasher</td>
     </tr>
     <tr>
@@ -829,15 +1002,15 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Gyaza</td>
       <td class="highlightGray"></td>
-      <td class="low">Cell Armor</td>
+      <td class="low"><span class="item">Cell Armor</span></td>
       <td class="highlightGray"></td>
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="mid">Porgon</td>
+      <td class="mid"><span class="extreme">Porgon</span></td>
       <td class="mid">Falcon Tengu</td>
       <td class="mid">Fink Fly</td>
-      <td class="mid">Skull Wraith</td>
+      <td class="mid"><span class="extreme">Skull Wraith</span></td>
       <td class="high">Shadow Slasher</td>
     </tr>
     <tr>
@@ -848,15 +1021,15 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Gyaza</td>
       <td class="mid">Sleepy Genie</td>
-      <td class="low">Cell Armor</td>
+      <td class="low"><span class="item">Cell Armor</span></td>
       <td class="highlightGray"></td>
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="mid">Porgon</td>
+      <td class="mid"><span class="extreme">Porgon</span></td>
       <td class="highlightGray"></td>
       <td class="mid">Fink Fly</td>
-      <td class="mid">Skull Wraith</td>
+      <td class="mid"><span class="extreme">Skull Wraith</span></td>
       <td class="high">Shadow Slasher</td>
     </tr>
     <tr>
@@ -872,7 +1045,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="mid">Taishodon</td>
     </tr>
     <tr>
-      <td class="mid">Porgon</td>
+      <td class="mid"><span class="extreme">Porgon</span></td>
       <td class="mid">Trap Jonin</td>
       <td class="high">Shogun</td>
       <td class="low">General Ant</td>
@@ -891,7 +1064,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="mid">Taishodon</td>
     </tr>
     <tr>
-      <td class="mid">Porgon</td>
+      <td class="mid"><span class="extreme">Porgon</span></td>
       <td class="mid">Trap Jonin</td>
       <td class="high">Shogun</td>
       <td class="low">General Ant</td>
@@ -910,7 +1083,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="mid">Taishodon</td>
     </tr>
     <tr>
-      <td class="mid">Porgon</td>
+      <td class="mid"><span class="extreme">Porgon</span></td>
       <td class="mid">Trap Jonin</td>
       <td class="high">Shogun</td>
       <td class="low">General Ant</td>
@@ -981,7 +1154,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="low">Tricky Tanuki</td>
       <td class="high">Tonosamadon</td>
-      <td class="high">Dazikon</td>
+      <td class="high"><span class="danger">Dazikon</span></td>
       <td class="mid">Kappa Pest</td>
       <td class="highlightGray"></td>
     </tr>
@@ -1000,7 +1173,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="low">Tricky Tanuki</td>
       <td class="high">Tonosamadon</td>
-      <td class="high">Dazikon</td>
+      <td class="high"><span class="danger">Dazikon</span></td>
       <td class="mid">Kappa Pest</td>
       <td class="highlightGray"></td>
     </tr>
@@ -1019,7 +1192,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="low">Tricky Tanuki</td>
       <td class="high">Tonosamadon</td>
-      <td class="high">Dazikon</td>
+      <td class="high"><span class="danger">Dazikon</span></td>
       <td class="mid">Kappa Pest</td>
       <td class="highlightGray"></td>
     </tr>
@@ -1040,12 +1213,12 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="low">Kappa Pest</td>
-      <td class="low">Identify Plant</td>
+      <td class="low"><span class="useful">Identify Plant</span></td>
     </tr>
     <tr>
-      <td class="low">Blessing Plant</td>
-      <td class="mid">Mini Mixermon</td>
-      <td class="high">Phantom Devil</td>
+      <td class="low"><span class="useful">Blessing Plant</span></td>
+      <td class="mid"><span class="useful">Mini Mixermon</span></td>
+      <td class="high"><span class="danger">Phantom Devil</span></td>
       <td class="highlightGray"></td>
       <td class="mid">Huge Chintala</td>
     </tr>
@@ -1059,13 +1232,13 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="low">Kappa Pest</td>
-      <td class="low">Identify Plant</td>
+      <td class="low"><span class="useful">Identify Plant</span></td>
     </tr>
     <tr>
-      <td class="low">Blessing Plant</td>
-      <td class="mid">Mini Mixermon</td>
-      <td class="high">Phantom Devil</td>
-      <td class="low">Phoenix Tengu</td>
+      <td class="low"><span class="useful">Blessing Plant</span></td>
+      <td class="mid"><span class="useful">Mini Mixermon</span></td>
+      <td class="high"><span class="danger">Phantom Devil</span></td>
+      <td class="low"><span class="extreme">Phoenix Tengu</span></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -1078,13 +1251,13 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td class="low">Identify Plant</td>
+      <td class="low"><span class="useful">Identify Plant</span></td>
     </tr>
     <tr>
-      <td class="low">Blessing Plant</td>
-      <td class="mid">Mini Mixermon</td>
-      <td class="high">Phantom Devil</td>
-      <td class="low">Phoenix Tengu</td>
+      <td class="low"><span class="useful">Blessing Plant</span></td>
+      <td class="mid"><span class="useful">Mini Mixermon</span></td>
+      <td class="high"><span class="danger">Phantom Devil</span></td>
+      <td class="low"><span class="extreme">Phoenix Tengu</span></td>
       <td class="low">Minotaur</td>
     </tr>
     <tr>
@@ -1101,8 +1274,8 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="highlightGray"></td>
-      <td class="mid">Mini Mixermon</td>
-      <td class="high">Phantom Devil</td>
+      <td class="mid"><span class="useful">Mini Mixermon</span></td>
+      <td class="high"><span class="danger">Phantom Devil</span></td>
       <td class="highlightGray"></td>
       <td class="low">Minotaur</td>
     </tr>
@@ -1120,8 +1293,8 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="highlightGray"></td>
-      <td class="mid">Mini Mixermon</td>
-      <td class="high">Phantom Devil</td>
+      <td class="mid"><span class="useful">Mini Mixermon</span></td>
+      <td class="high"><span class="danger">Phantom Devil</span></td>
       <td class="highlightGray"></td>
       <td class="low">Minotaur</td>
     </tr>
@@ -1135,12 +1308,12 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="mid">Chainhead</td>
       <td class="mid">Mini Tank</td>
       <td class="high">Master Chicken</td>
-      <td class="mid">Mob Zalokleft</td>
+      <td class="mid"><span class="item">Mob Zalokleft</span></td>
     </tr>
     <tr>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td class="high">Phantom Devil</td>
+      <td class="high"><span class="danger">Phantom Devil</span></td>
       <td class="highlightGray"></td>
       <td class="low">Minotaur</td>
     </tr>
@@ -1154,12 +1327,12 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td class="mid">Mob Zalokleft</td>
+      <td class="mid"><span class="item">Mob Zalokleft</span></td>
     </tr>
     <tr>
       <td class="mid">Beacon Puffer</td>
       <td class="mid">Killer Gyaza</td>
-      <td class="high">Squid Emperor</td>
+      <td class="high"><span class="danger">Squid Emperor</span></td>
       <td class="mid">Gigahead</td>
       <td class="low">Minotaur</td>
     </tr>
@@ -1173,12 +1346,12 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td class="mid">Mob Zalokleft</td>
+      <td class="mid"><span class="item">Mob Zalokleft</span></td>
     </tr>
     <tr>
       <td class="mid">Beacon Puffer</td>
       <td class="mid">Killer Gyaza</td>
-      <td class="high">Squid Emperor</td>
+      <td class="high"><span class="danger">Squid Emperor</span></td>
       <td class="mid">Gigahead</td>
       <td class="low">Minotaur</td>
     </tr>
@@ -1192,12 +1365,12 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="mid">Fulminachin</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td class="mid">Mob Zalokleft</td>
+      <td class="mid"><span class="item">Mob Zalokleft</span></td>
     </tr>
     <tr>
       <td class="highlightGray"></td>
       <td class="mid">Killer Gyaza</td>
-      <td class="high">Squid Emperor</td>
+      <td class="high"><span class="danger">Squid Emperor</span></td>
       <td class="mid">Gigahead</td>
       <td class="low">Minotaur</td>
     </tr>
@@ -1209,14 +1382,14 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="highlightGray"></td>
       <td class="mid">Fulminachin</td>
-      <td class="low">Blessing Plant</td>
-      <td class="low">Upgrade Plant</td>
-      <td class="mid">Mob Zalokleft</td>
+      <td class="low"><span class="useful">Blessing Plant</span></td>
+      <td class="low"><span class="useful">Upgrade Plant</span></td>
+      <td class="mid"><span class="item">Mob Zalokleft</span></td>
     </tr>
     <tr>
       <td class="highlightGray"></td>
       <td class="mid">Killer Gyaza</td>
-      <td class="high">Squid Emperor</td>
+      <td class="high"><span class="danger">Squid Emperor</span></td>
       <td class="mid">Gigahead</td>
       <td class="highlightGray"></td>
     </tr>
@@ -1228,14 +1401,14 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="highlightGray"></td>
       <td class="mid">Fulminachin</td>
-      <td class="low">Blessing Plant</td>
-      <td class="low">Upgrade Plant</td>
+      <td class="low"><span class="useful">Blessing Plant</span></td>
+      <td class="low"><span class="useful">Upgrade Plant</span></td>
       <td class="mid">Mini Tank</td>
     </tr>
     <tr>
       <td class="mid">Bear Borg</td>
       <td class="highlightGray"></td>
-      <td class="high">Squid Emperor</td>
+      <td class="high"><span class="danger">Squid Emperor</span></td>
       <td class="mid">Gigahead</td>
       <td class="highlightGray"></td>
     </tr>
@@ -1247,14 +1420,14 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="highlightGray"></td>
       <td class="mid">Fulminachin</td>
-      <td class="low">Blessing Plant</td>
-      <td class="low">Upgrade Plant</td>
+      <td class="low"><span class="useful">Blessing Plant</span></td>
+      <td class="low"><span class="useful">Upgrade Plant</span></td>
       <td class="mid">Mini Tank</td>
     </tr>
     <tr>
       <td class="mid">Bear Borg</td>
       <td class="mid">Lockulus</td>
-      <td class="low">Hades Kangaroo</td>
+      <td class="low"><span class="extreme">Hades Kangaroo</span></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1273,9 +1446,9 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <td class="high">Bear Borg</td>
       <td class="mid">Lockulus</td>
-      <td class="low">Hades Kangaroo</td>
+      <td class="low"><span class="extreme">Hades Kangaroo</span></td>
       <td class="low">Blooter Scarab</td>
-      <td class="low">Grime</td>
+      <td class="low"><span class="item">Grime</span></td>
     </tr>
     <tr>
       <th colspan="7"></th>
@@ -1285,16 +1458,16 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Demon Rock</td>
       <td class="mid">Fulminachin</td>
-      <td class="low">Bat Kangaroo</td>
+      <td class="low"><span class="danger">Bat Kangaroo</span></td>
       <td class="highlightGray"></td>
       <td class="mid">Mini Tank</td>
     </tr>
     <tr>
       <td class="high">Bear Borg</td>
       <td class="mid">Lockulus</td>
-      <td class="low">Hades Kangaroo</td>
+      <td class="low"><span class="extreme">Hades Kangaroo</span></td>
       <td class="highlightGray"></td>
-      <td class="low">Grime</td>
+      <td class="low"><span class="item">Grime</span></td>
     </tr>
     <tr>
       <th colspan="7"></th>
@@ -1304,15 +1477,15 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Demon Rock</td>
       <td class="highlightGray"></td>
-      <td class="low">Bat Kangaroo</td>
-      <td class="low">Ooze</td>
+      <td class="low"><span class="danger">Bat Kangaroo</span></td>
+      <td class="low"><span class="item">Ooze</span></td>
       <td class="mid">Mini Tank</td>
     </tr>
     <tr>
       <td class="high">Bear Borg</td>
       <td class="mid">Grampa Tank</td>
       <td class="low">Scurry Egg</td>
-      <td class="mid">Hawkulus</td>
+      <td class="mid"><span class="danger">Hawkulus</span></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -1324,15 +1497,15 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="mid">Demon Rock</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
-      <td class="low">Ooze</td>
+      <td class="low"><span class="item">Ooze</span></td>
       <td class="mid">Mini Tank</td>
     </tr>
     <tr>
       <td class="high">Bear Borg</td>
       <td class="high">Grampa Tank</td>
       <td class="low">Scurry Egg</td>
-      <td class="mid">Hawkulus</td>
-      <td class="mid">Evil Kangaroo</td>
+      <td class="mid"><span class="danger">Hawkulus</span></td>
+      <td class="mid"><span class="danger">Evil Kangaroo</span></td>
     </tr>
     <tr>
       <th colspan="7"></th>
@@ -1342,15 +1515,15 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="mid">Demon Rock</td>
       <td class="highlightGray"></td>
-      <td class="mid">Bat Kangaroo</td>
-      <td class="low">Ooze</td>
+      <td class="mid"><span class="danger">Bat Kangaroo</span></td>
+      <td class="low"><span class="item">Ooze</span></td>
       <td class="mid">Mini Tank</td>
     </tr>
     <tr>
       <td class="high">Bear Borg</td>
       <td class="high">Grampa Tank</td>
       <td class="low">Scurry Egg</td>
-      <td class="mid">Hawkulus</td>
+      <td class="mid"><span class="danger">Hawkulus</span></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -1367,8 +1540,8 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="mid">Eagle Tengu</td>
-      <td class="mid">Squid Kaiser</td>
-      <td class="low">Life Rabbit</td>
+      <td class="mid"><span class="danger">Squid Kaiser</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1386,9 +1559,9 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="mid">Eagle Tengu</td>
-      <td class="mid">Squid Kaiser</td>
-      <td class="low">Life Rabbit</td>
-      <td class="low">Mini Mixergon</td>
+      <td class="mid"><span class="danger">Squid Kaiser</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
+      <td class="low"><span class="useful">Mini Mixergon</span></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -1405,9 +1578,9 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="mid">Eagle Tengu</td>
-      <td class="mid">Squid Kaiser</td>
-      <td class="low">Life Rabbit</td>
-      <td class="low">Mini Mixergon</td>
+      <td class="mid"><span class="danger">Squid Kaiser</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
+      <td class="low"><span class="useful">Mini Mixergon</span></td>
       <td class="low">Snacky</td>
     </tr>
     <tr>
@@ -1424,8 +1597,8 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="mid">Eagle Tengu</td>
-      <td class="mid">Squid Kaiser</td>
-      <td class="low">Life Rabbit</td>
+      <td class="mid"><span class="danger">Squid Kaiser</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1443,9 +1616,9 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="highlightGray"></td>
-      <td class="mid">Squid Kaiser</td>
-      <td class="low">Life Rabbit</td>
-      <td class="low">Mini Mixergon</td>
+      <td class="mid"><span class="danger">Squid Kaiser</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
+      <td class="low"><span class="useful">Mini Mixergon</span></td>
       <td class="low">Snacky</td>
     </tr>
     <tr>
@@ -1462,9 +1635,9 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="highlightGray"></td>
-      <td class="mid">Squid Kaiser</td>
-      <td class="low">Life Rabbit</td>
-      <td class="low">Mini Mixergon</td>
+      <td class="mid"><span class="danger">Squid Kaiser</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
+      <td class="low"><span class="useful">Mini Mixergon</span></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -1481,8 +1654,8 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="highlightGray"></td>
-      <td class="mid">Squid Kaiser</td>
-      <td class="low">Life Rabbit</td>
+      <td class="mid"><span class="danger">Squid Kaiser</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
       <td class="highlightGray"></td>
       <td class="low">Snacky</td>
     </tr>
@@ -1500,8 +1673,8 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="high">Dagyagyagan</td>
-      <td class="mid">Squid Kaiser</td>
-      <td class="low">Life Rabbit</td>
+      <td class="mid"><span class="danger">Squid Kaiser</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
     </tr>
@@ -1511,7 +1684,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">75</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Curse Mom</td>
+      <td class="mid"><span class="item">Curse Mom</span></td>
       <td class="mid">Gulp Leech</td>
       <td class="mid">Kicker Scarab</td>
       <td class="mid">Vampire Tyrant</td>
@@ -1519,8 +1692,8 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="high">Dagyagyagan</td>
-      <td class="mid">Gyandora</td>
-      <td class="low">Life Rabbit</td>
+      <td class="mid"><span class="item">Gyandora</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
       <td class="highlightGray"></td>
       <td class="low">Snacky</td>
     </tr>
@@ -1530,7 +1703,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">76</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Curse Mom</td>
+      <td class="mid"><span class="item">Curse Mom</span></td>
       <td class="mid">Gulp Leech</td>
       <td class="high">Kicker Scarab</td>
       <td class="mid">Vampire Tyrant</td>
@@ -1538,9 +1711,9 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     </tr>
     <tr>
       <td class="high">Dagyagyagan</td>
-      <td class="mid">Gyandora</td>
-      <td class="low">Life Rabbit</td>
-      <td class="low">Devil Kangaroo</td>
+      <td class="mid"><span class="item">Gyandora</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
+      <td class="low"><span class="extreme">Devil Kangaroo</span></td>
       <td class="highlightGray"></td>
     </tr>
     <tr>
@@ -1549,17 +1722,17 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">77</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Curse Mom</td>
+      <td class="mid"><span class="item">Curse Mom</span></td>
       <td class="mid">Gulp Leech</td>
       <td class="mid">Kicker Scarab</td>
-      <td class="mid">Hyper Gazer</td>
+      <td class="mid"><span class="item">Hyper Gazer</span></td>
       <td class="mid">Slinger Beetle</td>
     </tr>
     <tr>
       <td class="high">Dagyagyagan</td>
-      <td class="mid">Gyandora</td>
-      <td class="low">Life Rabbit</td>
-      <td class="low">Devil Kangaroo</td>
+      <td class="mid"><span class="item">Gyandora</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
+      <td class="low"><span class="extreme">Devil Kangaroo</span></td>
       <td class="low">Snacky</td>
     </tr>
     <tr>
@@ -1568,17 +1741,17 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">78</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="mid">Curse Mom</td>
+      <td class="mid"><span class="item">Curse Mom</span></td>
       <td class="mid">Gulp Leech</td>
       <td class="mid">Kicker Scarab</td>
-      <td class="mid">Hyper Gazer</td>
+      <td class="mid"><span class="item">Hyper Gazer</span></td>
       <td class="mid">Slinger Beetle</td>
     </tr>
     <tr>
       <td class="high">Dagyagyagan</td>
-      <td class="mid">Gyandora</td>
-      <td class="low">Life Rabbit</td>
-      <td class="low">Devil Kangaroo</td>
+      <td class="mid"><span class="item">Gyandora</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
+      <td class="low"><span class="extreme">Devil Kangaroo</span></td>
       <td class="low">Crafty Tanuki</td>
     </tr>
     <tr>
@@ -1590,14 +1763,14 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="low">Snacky</td>
       <td class="mid">Gulp Leech</td>
       <td class="high">Kicker Scarab</td>
-      <td class="mid">Hyper Gazer</td>
+      <td class="mid"><span class="item">Hyper Gazer</span></td>
       <td class="mid">Slinger Beetle</td>
     </tr>
     <tr>
       <td class="high">Dagyagyagan</td>
-      <td class="mid">Gyandora</td>
-      <td class="low">Life Rabbit</td>
-      <td class="low">Devil Kangaroo</td>
+      <td class="mid"><span class="item">Gyandora</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
+      <td class="low"><span class="extreme">Devil Kangaroo</span></td>
       <td class="low">Crafty Tanuki</td>
     </tr>
     <tr>
@@ -1606,17 +1779,17 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">80</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="low">Pot Piscator</td>
+      <td class="low"><span class="item">Pot Piscator</span></td>
       <td class="high">Megataur</td>
-      <td class="high">Mirage Devil</td>
-      <td class="high">Hyper Gazer</td>
+      <td class="high"><span class="extreme">Mirage Devil</span></td>
+      <td class="high"><span class="item">Hyper Gazer</span></td>
       <td class="high">Slinger Beetle</td>
     </tr>
     <tr>
-      <td class="low">Blackbelly</td>
-      <td class="high">Gyandora</td>
-      <td class="low">Life Rabbit</td>
-      <td class="low">Devil Kangaroo</td>
+      <td class="low"><span class="item">Blackbelly</span></td>
+      <td class="high"><span class="item">Gyandora</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
+      <td class="low"><span class="extreme">Devil Kangaroo</span></td>
       <td class="low">Crafty Tanuki</td>
     </tr>
     <tr>
@@ -1625,17 +1798,17 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">81</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="low">Pot Giller</td>
+      <td class="low"><span class="item">Pot Giller</span></td>
       <td class="high">Megataur</td>
-      <td class="high">Mirage Devil</td>
+      <td class="high"><span class="extreme">Mirage Devil</span></td>
       <td class="low">Snacky</td>
       <td class="high">Slinger Beetle</td>
     </tr>
     <tr>
-      <td class="low">Blackbelly</td>
-      <td class="high">Gyandora</td>
-      <td class="low">Life Rabbit</td>
-      <td class="low">Devil Kangaroo</td>
+      <td class="low"><span class="item">Blackbelly</span></td>
+      <td class="high"><span class="item">Gyandora</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
+      <td class="low"><span class="extreme">Devil Kangaroo</span></td>
       <td class="low">Crafty Tanuki</td>
     </tr>
     <tr>
@@ -1644,16 +1817,16 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">82</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="low">Pot Piscator</td>
+      <td class="low"><span class="item">Pot Piscator</span></td>
       <td class="high">Megataur</td>
-      <td class="high">Mirage Devil</td>
+      <td class="high"><span class="extreme">Mirage Devil</span></td>
       <td class="low">Snacky</td>
       <td class="mid">Slinger Beetle</td>
     </tr>
     <tr>
-      <td class="low">Blackbelly</td>
-      <td class="mid">Gyandora</td>
-      <td class="low">Life Rabbit</td>
+      <td class="low"><span class="item">Blackbelly</span></td>
+      <td class="mid"><span class="item">Gyandora</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
       <td class="mid">Pumpanshee</td>
       <td class="low">Crafty Tanuki</td>
     </tr>
@@ -1663,16 +1836,16 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">83</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="low">Pot Giller</td>
+      <td class="low"><span class="item">Pot Giller</span></td>
       <td class="high">Megataur</td>
-      <td class="mid">Mirage Devil</td>
+      <td class="mid"><span class="extreme">Mirage Devil</span></td>
       <td class="low">Snacky</td>
       <td class="mid">Slinger Beetle</td>
     </tr>
     <tr>
-      <td class="low">Blackbelly</td>
-      <td class="mid">Gyandora</td>
-      <td class="low">Life Rabbit</td>
+      <td class="low"><span class="item">Blackbelly</span></td>
+      <td class="mid"><span class="item">Gyandora</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
       <td class="mid">Pumpanshee</td>
       <td class="low">Crafty Tanuki</td>
     </tr>
@@ -1682,16 +1855,16 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">84</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="low">Pot Piscator</td>
+      <td class="low"><span class="item">Pot Piscator</span></td>
       <td class="high">Megataur</td>
-      <td class="mid">Mirage Devil</td>
+      <td class="mid"><span class="extreme">Mirage Devil</span></td>
       <td class="low">Snacky</td>
       <td class="mid">Slinger Beetle</td>
     </tr>
     <tr>
-      <td class="low">Blackbelly</td>
-      <td class="mid">Gyandora</td>
-      <td class="low">Life Rabbit</td>
+      <td class="low"><span class="item">Blackbelly</span></td>
+      <td class="mid"><span class="item">Gyandora</span></td>
+      <td class="low"><span class="danger">Life Rabbit</span></td>
       <td class="mid">Pumpanshee</td>
       <td class="low">Crafty Tanuki</td>
     </tr>
@@ -1701,15 +1874,15 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">85</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="low">Pot Giller</td>
+      <td class="low"><span class="item">Pot Giller</span></td>
       <td class="high">Megataur</td>
-      <td class="mid">Mirage Devil</td>
+      <td class="mid"><span class="extreme">Mirage Devil</span></td>
       <td class="low">Snacky</td>
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="low">Blackbelly</td>
-      <td class="high">Nigiri Boss</td>
+      <td class="low"><span class="item">Blackbelly</span></td>
+      <td class="high"><span class="danger">Nigiri Boss</span></td>
       <td class="low">Droopy Hani</td>
       <td class="mid">Pumpanshee</td>
       <td class="low">Crafty Tanuki</td>
@@ -1720,15 +1893,15 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">86</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="low">Pot Piscator</td>
+      <td class="low"><span class="item">Pot Piscator</span></td>
       <td class="high">Megataur</td>
-      <td class="mid">Mirage Devil</td>
+      <td class="mid"><span class="extreme">Mirage Devil</span></td>
       <td class="low">Snacky</td>
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="low">Blackbelly</td>
-      <td class="high">Nigiri Boss</td>
+      <td class="low"><span class="item">Blackbelly</span></td>
+      <td class="high"><span class="danger">Nigiri Boss</span></td>
       <td class="low">Droopy Hani</td>
       <td class="mid">Pumpanshee</td>
       <td class="low">Crafty Tanuki</td>
@@ -1739,15 +1912,15 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">87</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="low">Pot Giller</td>
+      <td class="low"><span class="item">Pot Giller</span></td>
       <td class="high">Megataur</td>
-      <td class="mid">Mirage Devil</td>
+      <td class="mid"><span class="extreme">Mirage Devil</span></td>
       <td class="low">Snacky</td>
-      <td class="mid">Ultra Gazer</td>
+      <td class="mid"><span class="item">Ultra Gazer</span></td>
     </tr>
     <tr>
-      <td class="low">Blackbelly</td>
-      <td class="high">Nigiri Boss</td>
+      <td class="low"><span class="item">Blackbelly</span></td>
+      <td class="high"><span class="danger">Nigiri Boss</span></td>
       <td class="low">Droopy Hani</td>
       <td class="mid">Pumpanshee</td>
       <td class="low">Crafty Tanuki</td>
@@ -1758,15 +1931,15 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">88</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="low">Pot Piscator</td>
+      <td class="low"><span class="item">Pot Piscator</span></td>
       <td class="high">Megataur</td>
-      <td class="mid">Mirage Devil</td>
+      <td class="mid"><span class="extreme">Mirage Devil</span></td>
       <td class="low">Snacky</td>
-      <td class="mid">Ultra Gazer</td>
+      <td class="mid"><span class="item">Ultra Gazer</span></td>
     </tr>
     <tr>
-      <td class="low">Blackbelly</td>
-      <td class="mid">Nigiri Boss</td>
+      <td class="low"><span class="item">Blackbelly</span></td>
+      <td class="mid"><span class="danger">Nigiri Boss</span></td>
       <td class="mid">Droopy Hani</td>
       <td class="mid">Eagle Tengu</td>
       <td class="low">Crafty Tanuki</td>
@@ -1777,15 +1950,15 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
     <tr>
       <th rowspan="2" class="highlightShop">89</th>
       <th rowspan="2" class="highlightMH"></th>
-      <td class="low">Pot Giller</td>
+      <td class="low"><span class="item">Pot Giller</span></td>
       <td class="high">Megataur</td>
-      <td class="mid">Mirage Devil</td>
+      <td class="mid"><span class="extreme">Mirage Devil</span></td>
       <td class="low">Snacky</td>
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="low">Blackbelly</td>
-      <td class="mid">Nigiri Boss</td>
+      <td class="low"><span class="item">Blackbelly</span></td>
+      <td class="mid"><span class="danger">Nigiri Boss</span></td>
       <td class="mid">Droopy Hani</td>
       <td class="mid">Eagle Tengu</td>
       <td class="low">Crafty Tanuki</td>
@@ -1803,7 +1976,7 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="low">Blackbelly</td>
+      <td class="low"><span class="item">Blackbelly</span></td>
       <td class="highlightGray"></td>
       <td class="mid">Droopy Hani</td>
       <td class="mid">Eagle Tengu</td>
@@ -1816,10 +1989,10 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">91</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="high">Hell Gyaza</td>
-      <td class="mid">Curse Gramma</td>
-      <td class="high">Sky Dragon</td>
+      <td class="mid"><span class="item">Curse Gramma</span></td>
+      <td class="high"><span class="danger">Sky Dragon</span></td>
       <td class="low">Snacky</td>
-      <td class="mid">Ultra Gazer</td>
+      <td class="mid"><span class="item">Ultra Gazer</span></td>
     </tr>
     <tr>
       <td class="highlightGray"></td>
@@ -1835,10 +2008,10 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">92</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="high">Hell Gyaza</td>
-      <td class="mid">Curse Gramma</td>
-      <td class="high">Sky Dragon</td>
+      <td class="mid"><span class="item">Curse Gramma</span></td>
+      <td class="high"><span class="danger">Sky Dragon</span></td>
       <td class="low">Snacky</td>
-      <td class="mid">Ultra Gazer</td>
+      <td class="mid"><span class="item">Ultra Gazer</span></td>
     </tr>
     <tr>
       <td class="highlightGray"></td>
@@ -1854,13 +2027,13 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">93</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="high">Hell Gyaza</td>
-      <td class="mid">Curse Gramma</td>
-      <td class="high">Sky Dragon</td>
+      <td class="mid"><span class="item">Curse Gramma</span></td>
+      <td class="high"><span class="danger">Sky Dragon</span></td>
       <td class="low">Snacky</td>
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="mid">Devil Kangaroo</td>
+      <td class="mid"><span class="extreme">Devil Kangaroo</span></td>
       <td class="highlightGray"></td>
       <td class="mid">Droopy Hani</td>
       <td class="highlightGray"></td>
@@ -1873,13 +2046,13 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightShop">94</th>
       <th rowspan="2" class="highlightMH"></th>
       <td class="high">Hell Gyaza</td>
-      <td class="mid">Curse Gramma</td>
-      <td class="high">Sky Dragon</td>
+      <td class="mid"><span class="item">Curse Gramma</span></td>
+      <td class="high"><span class="danger">Sky Dragon</span></td>
       <td class="low">Snacky</td>
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="mid">Devil Kangaroo</td>
+      <td class="mid"><span class="extreme">Devil Kangaroo</span></td>
       <td class="highlightGray"></td>
       <td class="low">Droopy Hani</td>
       <td class="highlightGray"></td>
@@ -1893,12 +2066,12 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="high">Hell Gyaza</td>
       <td class="low">Wrinkly Hani</td>
-      <td class="high">Sky Dragon</td>
+      <td class="high"><span class="danger">Sky Dragon</span></td>
       <td class="low">Snacky</td>
-      <td class="mid">Ultra Gazer</td>
+      <td class="mid"><span class="item">Ultra Gazer</span></td>
     </tr>
     <tr>
-      <td class="low">Devil Kangaroo</td>
+      <td class="low"><span class="extreme">Devil Kangaroo</span></td>
       <td class="low">Shifty Tanuki</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1912,12 +2085,12 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="high">Hell Gyaza</td>
       <td class="low">Wrinkly Hani</td>
-      <td class="high">Sky Dragon</td>
+      <td class="high"><span class="danger">Sky Dragon</span></td>
       <td class="low">Snacky</td>
-      <td class="mid">Ultra Gazer</td>
+      <td class="mid"><span class="item">Ultra Gazer</span></td>
     </tr>
     <tr>
-      <td class="low">Devil Kangaroo</td>
+      <td class="low"><span class="extreme">Devil Kangaroo</span></td>
       <td class="low">Shifty Tanuki</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1931,12 +2104,12 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="high">Hell Gyaza</td>
       <td class="low">Wrinkly Hani</td>
-      <td class="high">Sky Dragon</td>
+      <td class="high"><span class="danger">Sky Dragon</span></td>
       <td class="low">Snacky</td>
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="low">Devil Kangaroo</td>
+      <td class="low"><span class="extreme">Devil Kangaroo</span></td>
       <td class="low">Shifty Tanuki</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>
@@ -1950,12 +2123,12 @@ F Colors: <span class="highlightShop">Shop is possible</span><br/>H Colors: <spa
       <th rowspan="2" class="highlightMH"></th>
       <td class="high">Hell Gyaza</td>
       <td class="low">Wrinkly Hani</td>
-      <td class="high">Sky Dragon</td>
+      <td class="high"><span class="danger">Sky Dragon</span></td>
       <td class="low">Snacky</td>
       <td class="mid">Nark Fly</td>
     </tr>
     <tr>
-      <td class="low">Devil Kangaroo</td>
+      <td class="low"><span class="extreme">Devil Kangaroo</span></td>
       <td class="low">Shifty Tanuki</td>
       <td class="highlightGray"></td>
       <td class="highlightGray"></td>

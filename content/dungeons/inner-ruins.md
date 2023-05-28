@@ -8,7 +8,7 @@ metaDescription: "Inner Ruins dungeon guide for Shiren the Wanderer DS2: Magic C
   <img src="../images/areas/inner_ruins_1.png"/><img src="../images/areas/inner_ruins_2.png"/>
 </div>
 
-[Introduction]
+Dungeon where the map is disabled, and there are no hallways between rooms.<br/>You start with 3 Pickaxes, but if they break and you don't find other digging items, it's game over.<br/>However, you're allowed to bring items, so the main gimmick isn't actually that difficult.<br/>Bring a Warp Bracelet and you won't have to dig at all.
 
 <ul class="quickLinksUL">
   <li><a href="#overview">Overview</a></li>
@@ -77,7 +77,81 @@ metaDescription: "Inner Ruins dungeon guide for Shiren the Wanderer DS2: Magic C
 
 # Strategy
 
+### Dungeon Mechanics
+
+Special Monster Houses can be generated, so Warp Bracelet and Great Hall Scroll carry some risk.<br/>That said, digging out wall tiles 1 tile at a time gets tiring, so it's still recommended to use these items.<br/>You can also reduce risk by bringing items like Explosion Scroll into the dungeon.
+
+#### Rules
+
+1. There are no hallways between rooms.
+    - You're given 3 Pickaxes at the start, which can be used to dig out wall tiles.
+2. Once the player digs out 250 wall tiles, all remaining walls break.
+    - Basically like reading a Great Hall Scroll.
+3. The map is disabled at all times.
+    - Scout Bracelet and Navigation Scroll have no effect.
+
+### Warp Method
+
+For players who just want to get the dungeon over with quickly for the reward.
+
+1. Obtain a Warp Bracelet in Jahannam's Gate.
+2. Equip your strongest weapon and shield + Warp Bracelet.
+3. Warp from room to room until you find the stairs.
+4. Repeat step 3 until you reach the goal.
+
+### Regular Method (1st Clear)
+
+Stock up on the following items and have fun locating the stairs without a map over and over.
+
+|Item|Notes|
+|-|-|
+|Pickaxe|Digs out the wall tile in front of you.<br/>Can break from usage.|
+|Tunnel Staff|Digs out wall tiles in a straight line.|
+|Great Hall Scroll|Turns the floor into a single large room.|
+
+### Regular Method (2nd Clear)
+
+Synthesize the Wonder Pick you got from the 1st clear to avoid having to use regular Pickaxes.<br/>Otherwise, the Prism Shield rune is a significant help on end game floors, along with Extinction Scrolls.
+
 # Floor Guide
+
+### 1-20F
+
+There's really not much to say if you bring strong equipment and a Warp Bracelet.
+
+### 21-80F
+
+Continue warping if you want, but consider digging normally on floors where dangerous monsters appear.<br/>
+
+#### 21-24F
+
+Ooze can potentially erase your Wonder Pick rune, so it's best not to warp.
+
+#### 46-51F
+
+Kappa Pest or Kappa Troll have the possibility of throwing blessed Gitan or an Extinction Scroll.<br/>This isn't a problem if you synthesized a Dodge Shield, but otherwise leave some room open in pots.<br/>※ Items thrown by Bored Kappa types can sometimes fall into open pots instead of hitting Shiren.
+
+#### 52-60F
+
+Hades Kangaroo appears, who grants Enraged + Swift status to other monsters.
+
+#### 62-66F
+
+Ooze returns for a while, so avoid warping to reduce risk of losing runes.
+
+#### 72-80F
+
+Kicker Scarab (72-80F) makes locating the stairs extremely difficult if the floor is a single room.<br/>This isn't an understatement - There's a legitimate chance to fail the run due to Winds of Kron.<br/>Don't use Great Hall Scrolls on these floors.
+
+Devil Kangaroo (76-81F) appears, who grants Enraged + Swift status to other monsters.
+
+### 81-98F
+
+Gitan Mamel, Devil Kangaroo, Sky Dragon, Nigiri Master, Crafty Tanuki, Mirage Devil, etc.
+
+Rare equipment can be found on the ground between 81-98F, so explore if possible.<br/>Read Monster Scrolls to generate more items if you want, but be prepared to deal with tough monsters.<br/>It's best not to use Great Hall Scrolls on these floors - If you want to expand a room, use your weapon.
+
+Throw an Extinction Scroll at Crafty Tanuki before clearing the dungeon to ensure items you picked up are real.<br/>The reward for reaching 99F again is another Wonder Pick.
 
 # Monsters
 
